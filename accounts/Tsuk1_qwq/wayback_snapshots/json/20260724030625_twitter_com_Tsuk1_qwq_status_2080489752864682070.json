@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2080278165034058069",
+    "created_at": "2026-07-24T03:06:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T04:06:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080489752864682070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1576046738460139521",
+          "start": 0,
+          "username": "for_the_zero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080489752864682070",
+    "in_reply_to_user_id": "1576046738460139521",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080278165034058069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@for_the_zero “发送文件超快”"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2080278153680015360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6h9YAaUAAN1Qf.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2080278165034058069",
+        "created_at": "2026-07-24T03:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T04:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080489752864682070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1576046738460139521",
+              "start": 0,
+              "username": "for_the_zero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080489752864682070",
+        "in_reply_to_user_id": "1576046738460139521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080278165034058069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@for_the_zero “发送文件超快”"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080278153680015360"
+          ]
+        },
+        "author_id": "1576046738460139521",
+        "conversation_id": "2080278165034058069",
+        "created_at": "2026-07-23T13:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080278165034058069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZTGM0N0Xnu",
+              "end": 29,
+              "expanded_url": "https://x.com/for_the_zero/status/2080278165034058069/photo/1",
+              "media_key": "3_2080278153680015360",
+              "start": 6,
+              "url": "https://t.co/ZTGM0N0Xnu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080278165034058069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 991,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真几把服了 https://t.co/ZTGM0N0Xnu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "简中，繁体懂一点，日語勉強,English下手…\n玩机（不太行），ボカロ，不建政，负能，mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 406,
+          "like_count": 6137,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 1032
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-01T03:11:35.000Z",
+        "description": "想要成为一个可爱的、有趣的、厉害的、快乐的、善良的、……能被你记住的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ftz.is-a.dev",
+                "end": 23,
+                "expanded_url": "https://ftz.is-a.dev/",
+                "start": 0,
+                "url": "https://t.co/AbCcuPNmcf"
+              }
+            ]
+          }
+        },
+        "id": "1576046738460139521",
+        "location": "Everywhere of Inexistence",
+        "name": "for_the_zero",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024106942667563008/61H_olYS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 578,
+          "like_count": 23092,
+          "listed_count": 0,
+          "media_count": 679,
+          "tweet_count": 3836
+        },
+        "url": "https://t.co/AbCcuPNmcf",
+        "username": "for_the_zero",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2082493303870677055",
+    "created_at": "2026-07-30T23:31:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T00:31:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082972435968905318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1958048434021437440",
+          "start": 0,
+          "username": "baizhimengyao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082972435968905318",
+    "in_reply_to_user_id": "1958048434021437440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082493303870677055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baizhimengyao 呜呜呜为什么最近好多人离开啊…哭哭哭……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2082493303870677055",
+        "created_at": "2026-07-30T23:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T00:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082972435968905318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1958048434021437440",
+              "start": 0,
+              "username": "baizhimengyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082972435968905318",
+        "in_reply_to_user_id": "1958048434021437440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082493303870677055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baizhimengyao 呜呜呜为什么最近好多人离开啊…哭哭哭……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958048434021437440",
+        "conversation_id": "2082493303870677055",
+        "created_at": "2026-07-29T15:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082493303870677055"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082493303870677055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5312,
+          "like_count": 92,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "写一篇不是讣告的讣告，更是悼文。我们的朋友@南方的栋梁于7月17日服用35t安乃近紫砂身亡。\n    你曾努力地活过，努力靠近那个真正的自己。可家庭的期待、社会的偏见像一层又一层无形的枷锁，让人们在理解与伤害间徘徊。\n    我们惋惜你的离开，也痛恨这个世界没能给你足够多的温柔。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "简中，繁体懂一点，日語勉強,English下手…\n玩机（不太行），ボカロ，不建政，负能，mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 449,
+          "like_count": 7481,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 1287
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-20T06:08:29.000Z",
+        "description": "无证糖🍥/出厂日期2007.02.17/北京/爸妈严正反对/enfp/文学发烧友/@k66cheng 伪物空城我大姐头/紧急逃生舱：@wuheyuyang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "k66cheng"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "wuheyuyang"
+              }
+            ]
+          }
+        },
+        "id": "1958048434021437440",
+        "location": "距你0.1km",
+        "name": "白芷梦瑶🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041418903319166976/IHr3Mv0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 36,
+          "like_count": 507,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 1799
+        },
+        "url": "",
+        "username": "baizhimengyao",
+        "verified": false
+      }
+    ]
+  }
+}

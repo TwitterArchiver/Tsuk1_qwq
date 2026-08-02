@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2079516935105253474",
+    "created_at": "2026-07-21T10:40:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T11:40:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079516935105253474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1831350388861345793",
+          "start": 3,
+          "username": "Hiime0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079516935105253474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042892163764384124",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hiime0: 「个人向炸柜防止办法分享」\n\n①药品：锁进柜里。相关钥匙藏到一包装骰子的袋子里，然后把袋子再塞到一个小盒子里，需要开柜时取用。另外，其它被认为容易引发炸柜的物品，例如mtf向书籍or化妆品，都可以锁进柜里。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2079516935105253474",
+        "created_at": "2026-07-21T10:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T11:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079516935105253474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1831350388861345793",
+              "start": 3,
+              "username": "Hiime0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079516935105253474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042892163764384124",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hiime0: 「个人向炸柜防止办法分享」\n\n①药品：锁进柜里。相关钥匙藏到一包装骰子的袋子里，然后把袋子再塞到一个小盒子里，需要开柜时取用。另外，其它被认为容易引发炸柜的物品，例如mtf向书籍or化妆品，都可以锁进柜里。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831350388861345793",
+        "conversation_id": "2042892163764384124",
+        "created_at": "2026-04-11T09:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042892163764384124"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042892163764384124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "「个人向炸柜防止办法分享」\n\n①药品：锁进柜里。相关钥匙藏到一包装骰子的袋子里，然后把袋子再塞到一个小盒子里，需要开柜时取用。另外，其它被认为容易引发炸柜的物品，例如mtf向书籍or化妆品，都可以锁进柜里。\n②女装：平时放在我母亲的衣柜里，因为我母亲目前不和我一起住，所以我可以使用她的衣柜，并且，我放在这里的女装如果被发现，会被误认为我妈的衣服。至于穿女装出门的话，我打算先在家里换上常规的衣服，把要穿的女装放进手提袋里拎出门，出门之后在楼道里换上，并把换下的常规衣服再装进手提袋，最后把手提袋放在楼道里（不起眼的位置），等回来之后再用。\n③吊带/cup：平时锁柜里。洗澡的时候顺便清洗一下，然后用取暖器快速烘干。另外，不穿容易走光的上衣，即使是在睡觉的时候。防止家人察觉。以及，等到夏天的时候，为防止在家时胸部被察觉，我打算长期穿外套。大不了多开会空调。\n④其它要点：\n查六项要选没被家人绑定就诊人的医院，否则他们会查到化验结果；\n不要在家人面前使用过高的声线；\n搬张折叠桌到卫生间练习化妆，而不是在直面房间门的写字台上。（我的房间自带一个卫生间，虽然挺破的）\n\n我就不信都这样了还能炸，这要炸了我就真没招了......，当然至于后果我也不愿意去想......"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1126,
+          "like_count": 20,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "「个人向炸柜防止办法分享」\n\n①药品：锁进柜里。相关钥匙藏到一包装骰子的袋子里，然后把袋子再塞到一个小盒子里，需要开柜时取用。另外，其它被认为容易引发炸柜的物品，例如mtf向书籍or化妆品，都可以锁进柜里。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "简中，繁体不怎么看懂，日語勉強,English下手…\n玩机（不太行），ボカロ，可能是xyn的说\n……想被温柔对待，也尽量尝试好好对待别人喵\n讨厌政治。\n2009（因为怕有未成年限制所以资料写是2000\nnegi快回来呀qwq",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 389,
+          "like_count": 5700,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 956
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T15:15:42.000Z",
+        "description": "ASR发作淡推中｜ワカバヒイメ｜07｜待证含糖｜Transles｜无家长党｜艺术生(失败了)｜很重的BD激越症｜odd｜遠くに恋人へ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Hiime0",
+                "end": 23,
+                "expanded_url": "http://t.me/Hiime0",
+                "start": 0,
+                "url": "https://t.co/nKdFGtLRKc"
+              }
+            ]
+          }
+        },
+        "id": "1831350388861345793",
+        "location": "東京湾",
+        "name": "𝐻𝑖𝑖𝑚𝑒🍥🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054384234526388224/MagCt1ZF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 251,
+          "like_count": 778,
+          "listed_count": 2,
+          "media_count": 212,
+          "tweet_count": 1184
+        },
+        "url": "https://t.co/nKdFGtLRKc",
+        "username": "Hiime0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2056507019385835733",
+    "created_at": "2026-05-19T06:46:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T07:46:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056627416530116662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "965583779380129792",
+          "start": 0,
+          "username": "mario_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056627416530116662",
+    "in_reply_to_user_id": "965583779380129792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056507019385835733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mario_2333 pixel诶诶！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3005,
+        "media_key": "3_2056506846978998272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIouFNxXgAAD0Op.jpg",
+        "width": 2262
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2056507019385835733",
+        "created_at": "2026-05-19T06:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T07:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056627416530116662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "965583779380129792",
+              "start": 0,
+              "username": "mario_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056627416530116662",
+        "in_reply_to_user_id": "965583779380129792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056507019385835733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mario_2333 pixel诶诶！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056506846978998272"
+          ]
+        },
+        "author_id": "965583779380129792",
+        "conversation_id": "2056507019385835733",
+        "created_at": "2026-05-18T22:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T23:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056507019385835733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ue4qp574vL",
+              "end": 48,
+              "expanded_url": "https://x.com/mario_2333/status/2056507019385835733/photo/1",
+              "media_key": "3_2056506846978998272",
+              "start": 25,
+              "url": "https://t.co/Ue4qp574vL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056507019385835733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2142,
+          "like_count": 139,
+          "quote_count": 0,
+          "reply_count": 50,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "发点各位杂鱼们爱看的(⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧ https://t.co/Ue4qp574vL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, 日本語（勉強してる, English…\n玩点机（不太行），听ボカロ，想变成xyn…\n友跨，目前不含糖qwq（？）\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年的说…",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 323,
+          "like_count": 4008,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 673
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-19T13:48:07.000Z",
+        "description": "你好呀～谢谢你来看我🥰 | 想和大家成为好朋友，会温暖对待每个友善的人🥳 | 愿我们能从彼此的话语中获得力量(。•ω•。)ノ♡ | 私信可能看不到非常抱歉qwq",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Mario_2333",
+                "end": 23,
+                "expanded_url": "http://t.me/Mario_2333",
+                "start": 0,
+                "url": "https://t.co/pjgtS8AZ2t"
+              }
+            ]
+          }
+        },
+        "id": "965583779380129792",
+        "location": "UTC+2",
+        "name": "🍭Mario🐈",
+        "pinned_tweet_id": "1904681321374376434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004698600551395328/qRqzCin3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3553,
+          "following_count": 268,
+          "like_count": 48686,
+          "listed_count": 16,
+          "media_count": 1024,
+          "tweet_count": 15839
+        },
+        "url": "https://t.co/pjgtS8AZ2t",
+        "username": "mario_2333",
+        "verified": true
+      }
+    ]
+  }
+}

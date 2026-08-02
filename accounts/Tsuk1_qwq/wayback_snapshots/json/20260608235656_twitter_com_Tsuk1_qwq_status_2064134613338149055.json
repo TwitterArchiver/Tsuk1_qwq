@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2063619844508139927",
+    "created_at": "2026-06-08T23:56:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T00:56:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064134613338149055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1029386643512291328",
+          "start": 0,
+          "username": "ZEKE0326_15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064134613338149055",
+    "in_reply_to_user_id": "1793218407640481793",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064132278411018353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZEKE0326_15 世界線変動だネ、中国人としても、面白いと思うんだねqwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2063619844508139927",
+        "created_at": "2026-06-08T23:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T00:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064134613338149055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1029386643512291328",
+              "start": 0,
+              "username": "ZEKE0326_15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064134613338149055",
+        "in_reply_to_user_id": "1793218407640481793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064132278411018353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZEKE0326_15 世界線変動だネ、中国人としても、面白いと思うんだねqwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2063619844508139927",
+        "created_at": "2026-06-08T23:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T00:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064132278411018353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1029386643512291328",
+              "start": 0,
+              "username": "ZEKE0326_15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064132278411018353",
+        "in_reply_to_user_id": "1029386643512291328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063619844508139927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZEKE0326_15 有趣qwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, 日本語勉強,English下手…\n玩点机（不太行），听ボカロ，可能是xyn？（qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年的说…",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 369,
+          "like_count": 5081,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 822
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-14T15:17:55.000Z",
+        "description": "世界情勢を眺める王党派(君主主義者) / 国旗と旧字体好き / いいねは既読 / リプでフォロバ / サブ→@ZEKE0326_sub アイコン→@W_FS_CAR Japanese monarchist",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "ZEKE0326_sub"
+              },
+              {
+                "end": 82,
+                "start": 73,
+                "username": "W_FS_CAR"
+              }
+            ]
+          }
+        },
+        "id": "1029386643512291328",
+        "location": "我々はフランス共和制の座席表になど定義されない",
+        "name": "🦁ささも☀🇮🇷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039380498443862016/saInDSeE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8470,
+          "following_count": 3420,
+          "like_count": 618959,
+          "listed_count": 66,
+          "media_count": 3890,
+          "tweet_count": 111260
+        },
+        "username": "ZEKE0326_15",
+        "verified": false
+      }
+    ]
+  }
+}

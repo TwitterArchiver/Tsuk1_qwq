@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2080585431469678620",
+    "created_at": "2026-07-25T02:38:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T03:38:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080845031905313204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1791485398926999552",
+          "start": 0,
+          "username": "MartianMil"
+        },
+        {
+          "end": 28,
+          "id": "1701484460250890240",
+          "start": 12,
+          "username": "SonogamiRinneTS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080845031905313204",
+    "in_reply_to_user_id": "1791485398926999552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080788790113644998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MartianMil @SonogamiRinneTS 每个国家都或多或少对性少数群体有不友好喵……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2080585431469678620",
+        "created_at": "2026-07-25T02:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T03:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080845031905313204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1791485398926999552",
+              "start": 0,
+              "username": "MartianMil"
+            },
+            {
+              "end": 28,
+              "id": "1701484460250890240",
+              "start": 12,
+              "username": "SonogamiRinneTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080845031905313204",
+        "in_reply_to_user_id": "1791485398926999552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080788790113644998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MartianMil @SonogamiRinneTS 每个国家都或多或少对性少数群体有不友好喵……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791485398926999552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          }
+        ],
+        "conversation_id": "2080585431469678620",
+        "created_at": "2026-07-24T22:54:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T23:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080788790113644998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1701484460250890240",
+              "start": 0,
+              "username": "SonogamiRinneTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080788790113644998",
+        "in_reply_to_user_id": "1701484460250890240",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080585431469678620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonogamiRinneTS Translated in later post (译文见后续帖子)\n\nI think much of it is that, frankly, as a western queer person I hear very little about the state of Chinese queer people. For me, most of my news has to come from Chinese queer people, and I don’t know any irl, so it’s all online."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "简中，繁体懂一点，日語勉強,English下手…\n玩机（不太行），ボカロ，不建政，负能，mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 413,
+          "like_count": 6316,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 1075
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-17T15:06:24.000Z",
+        "description": "We live in Queer times",
+        "id": "1791485398926999552",
+        "name": "Horsehead",
+        "pinned_tweet_id": "1955710698710867996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912333124433817600/L2GpSJzc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 366,
+          "like_count": 5246,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 623
+        },
+        "url": "",
+        "username": "MartianMil",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5196,
+          "following_count": 3845,
+          "like_count": 1553,
+          "listed_count": 19,
+          "media_count": 297,
+          "tweet_count": 2064
+        },
+        "url": "",
+        "username": "SonogamiRinneTS",
+        "verified": true
+      }
+    ]
+  }
+}

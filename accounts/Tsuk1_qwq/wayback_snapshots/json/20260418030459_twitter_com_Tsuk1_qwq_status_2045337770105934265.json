@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2045070223087431805",
+    "created_at": "2026-04-18T03:04:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T04:04:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045337770105934265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1761282483834998784",
+          "start": 0,
+          "username": "10waterlili"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045337770105934265",
+    "in_reply_to_user_id": "1761282483834998784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045165450846458325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@10waterlili 呜呜呜……抱抱喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2045070223087431805",
+        "created_at": "2026-04-18T03:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T04:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045337770105934265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1761282483834998784",
+              "start": 0,
+              "username": "10waterlili"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045337770105934265",
+        "in_reply_to_user_id": "1761282483834998784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045165450846458325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10waterlili 呜呜呜……抱抱喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761282483834998784",
+        "conversation_id": "2045070223087431805",
+        "created_at": "2026-04-17T15:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T16:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045165450846458325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1793218407640481793",
+              "start": 0,
+              "username": "Tsuk1_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045165450846458325",
+        "in_reply_to_user_id": "1793218407640481793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045155880635970020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tsuk1_qwq …明白了…\n我当时也纠结了好久，应该纠结了半年多了…\n直到gd的痛苦远胜于社会压力的痛苦后才决定的（gd真是我出生十几年经历过的最大的痛苦，没有经历过什么能有那么痛的。。\n最终还是吃了、好后悔没有早吃呜呜。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, Japanese日本語（勉強してる）, English……\n玩点机（不太行），听ボカロ，想变成xyn……\n友跨，目前不含糖qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年QAQ）",
+        "id": "1793218407640481793",
+        "name": "Tsuki~ずっと夜に隠してる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 283,
+          "like_count": 2987,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 441
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T06:51:06.000Z",
+        "description": "mtf｜🍥 26.2.21｜出厂日期🍰 09.3.14\n深柜中（坐以待炸）\nɪɴғᴘ-ᴛ｜重度抑郁中｜ex-音游人｜民间天文学家🔭\n喜欢xyn｜同类会回fo｜不开心可以找我聊天\n对所有人友善💕\ntg: https://t.co/aydtYwiuQK\n下面的链接是详细自介喵～（持续更新） \nhttps://t.co/KKvURpVMfQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/tennchu",
+                "end": 124,
+                "expanded_url": "http://t.me/tennchu",
+                "start": 101,
+                "url": "https://t.co/aydtYwiuQK"
+              },
+              {
+                "display_url": "lit.link/zh-tw/tennOvO",
+                "end": 168,
+                "expanded_url": "http://lit.link/zh-tw/tennOvO",
+                "start": 145,
+                "url": "https://t.co/KKvURpVMfQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/water14008",
+                "end": 23,
+                "expanded_url": "http://ngl.link/water14008",
+                "start": 0,
+                "url": "https://t.co/e8l2h7lifv"
+              }
+            ]
+          }
+        },
+        "id": "1761282483834998784",
+        "location": "深海",
+        "name": "𝒕𝒆𝒏𝒏 ᐝ 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045294990817910853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045004879303958528/xNxtLn0S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 356,
+          "like_count": 187,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 214
+        },
+        "url": "https://t.co/e8l2h7lifv",
+        "username": "10waterlili",
+        "verified": false
+      }
+    ]
+  }
+}

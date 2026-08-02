@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2082408113416892872",
+    "created_at": "2026-07-30T10:59:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T11:59:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082783054578463037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1791585754755350528",
+          "start": 0,
+          "username": "RainLemon0715"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082783054578463037",
+    "in_reply_to_user_id": "1791585754755350528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082408113416892872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainLemon0715 QwQ再见咯~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 687,
+        "media_key": "3_2082408107108712448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYzI-2bwAA_Cnh.jpg",
+        "width": 559
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2082408113416892872",
+        "created_at": "2026-07-30T10:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T11:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082783054578463037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1791585754755350528",
+              "start": 0,
+              "username": "RainLemon0715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082783054578463037",
+        "in_reply_to_user_id": "1791585754755350528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082408113416892872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainLemon0715 QwQ再见咯~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082408107108712448"
+          ]
+        },
+        "author_id": "1791585754755350528",
+        "conversation_id": "2082408113416892872",
+        "created_at": "2026-07-29T10:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T11:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082408113416892872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O8umupvz57",
+              "end": 148,
+              "expanded_url": "https://x.com/RainLemon0715/status/2082408113416892872/photo/1",
+              "media_key": "3_2082408107108712448",
+              "start": 125,
+              "url": "https://t.co/O8umupvz57"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082408113416892872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 12197,
+          "like_count": 210,
+          "quote_count": 0,
+          "reply_count": 42,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "这个号卖掉啦，这个圈子我先退了。对不起宝宝们，这个圈已经没办法给我带来快乐了，感觉是一种负担，也没有那么多精力和时间去玩这个啦，虽然很舍不得，但天下没有不散的筵席，我也应该和你们说再见了，谢谢你们的陪伴，有缘再见啦。新号主你们也认识，是原号主本人。 https://t.co/O8umupvz57"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "简中，繁体懂一点，日語勉強,English下手…\n玩机（不太行），ボカロ，不建政，负能，mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 446,
+          "like_count": 7393,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 1264
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07🍥🏳️‍⚧️｜持证含糖，hrt21.1.8｜究极家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜想当个女孩子｜SRS资金筹备ing｜无政治立场｜努力rle中｜最好的老婆@whalexxs，我的此生挚爱~|“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”（现在是兼职糖果商人哦）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "whalexxs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+iN5huf7JvPkxY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+iN5huf7JvPkxYWE9",
+                "start": 0,
+                "url": "https://t.co/GweBgmAiDG"
+              }
+            ]
+          }
+        },
+        "id": "1791585754755350528",
+        "location": "明天",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍬（出🍥🍬）",
+        "pinned_tweet_id": "2074429195980050577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018330545328152576/MiPIgQL4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4525,
+          "following_count": 305,
+          "like_count": 8129,
+          "listed_count": 5,
+          "media_count": 266,
+          "tweet_count": 2331
+        },
+        "url": "https://t.co/GweBgmAiDG",
+        "username": "RainLemon0715",
+        "verified": true
+      }
+    ]
+  }
+}

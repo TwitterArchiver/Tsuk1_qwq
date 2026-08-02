@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079529152089341952",
+        "3_2079529165116829696"
+      ]
+    },
+    "author_id": "1793218407640481793",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2079529177024471377",
+    "created_at": "2026-07-21T11:29:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T12:29:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079529177024471377"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GuRUg2uBxT",
+          "end": 117,
+          "expanded_url": "https://x.com/Tsuk1_qwq/status/2079529177024471377/photo/1",
+          "media_key": "3_2079529152089341952",
+          "start": 94,
+          "url": "https://t.co/GuRUg2uBxT"
+        },
+        {
+          "display_url": "pic.x.com/GuRUg2uBxT",
+          "end": 117,
+          "expanded_url": "https://x.com/Tsuk1_qwq/status/2079529177024471377/photo/1",
+          "media_key": "3_2079529165116829696",
+          "start": 94,
+          "url": "https://t.co/GuRUg2uBxT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079529177024471377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "用了如此之久，还拿它刷过小米6x和半夜偷偷玩不存在的你/和我……\n现在就要把上面的软件和数据（有备份）全都抹掉了……\n莫名其妙伤感呢……\n\n希望Linux能为它带来新生喵～我的A556U https://t.co/GuRUg2uBxT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2079529152089341952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNv4vvpawAAG-Du.jpg",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2079529165116829696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNv4wgLacAAKSPZ.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079529152089341952",
+            "3_2079529165116829696"
+          ]
+        },
+        "author_id": "1793218407640481793",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2079529177024471377",
+        "created_at": "2026-07-21T11:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079529177024471377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GuRUg2uBxT",
+              "end": 117,
+              "expanded_url": "https://x.com/Tsuk1_qwq/status/2079529177024471377/photo/1",
+              "media_key": "3_2079529152089341952",
+              "start": 94,
+              "url": "https://t.co/GuRUg2uBxT"
+            },
+            {
+              "display_url": "pic.x.com/GuRUg2uBxT",
+              "end": 117,
+              "expanded_url": "https://x.com/Tsuk1_qwq/status/2079529177024471377/photo/1",
+              "media_key": "3_2079529165116829696",
+              "start": 94,
+              "url": "https://t.co/GuRUg2uBxT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079529177024471377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用了如此之久，还拿它刷过小米6x和半夜偷偷玩不存在的你/和我……\n现在就要把上面的软件和数据（有备份）全都抹掉了……\n莫名其妙伤感呢……\n\n希望Linux能为它带来新生喵～我的A556U https://t.co/GuRUg2uBxT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "简中，繁体不怎么看懂，日語勉強,English下手…\n玩机（不太行），ボカロ，可能是xyn的说\n……想被温柔对待，也尽量尝试好好对待别人喵\n讨厌政治。\n2009（因为怕有未成年限制所以资料写是2000\nnegi快回来呀qwq",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 389,
+          "like_count": 5725,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 960
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

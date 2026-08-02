@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2081941750151528738",
+    "created_at": "2026-07-28T23:00:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T00:00:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082239694713262144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1314388633869152259",
+          "start": 0,
+          "username": "Swathy17531761"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082239694713262144",
+    "in_reply_to_user_id": "1314388633869152259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081941750151528738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Swathy17531761 不准走……\n求求你了喵……走了之后就没法贴贴了呜呜呜……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3751,
+        "media_key": "3_2081941741280915456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOSK-6wbcAAb_q0.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2081941750151528738",
+        "created_at": "2026-07-28T23:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T00:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082239694713262144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1314388633869152259",
+              "start": 0,
+              "username": "Swathy17531761"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082239694713262144",
+        "in_reply_to_user_id": "1314388633869152259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081941750151528738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Swathy17531761 不准走……\n求求你了喵……走了之后就没法贴贴了呜呜呜……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081941741280915456"
+          ]
+        },
+        "author_id": "1314388633869152259",
+        "conversation_id": "2081941750151528738",
+        "created_at": "2026-07-28T03:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T04:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081941750151528738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f7kAcfOYot",
+              "end": 69,
+              "expanded_url": "https://x.com/Swathy17531761/status/2081941750151528738/photo/1",
+              "media_key": "3_2081941741280915456",
+              "start": 46,
+              "url": "https://t.co/f7kAcfOYot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081941750151528738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 6619,
+          "like_count": 67,
+          "quote_count": 1,
+          "reply_count": 48,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "绝望的写下的这个痛苦的世界与我自己。截止2026.10.19生日那天前。我决定去往异世界！ https://t.co/f7kAcfOYot"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "简中，繁体懂一点，日語勉強,English下手…\n玩机（不太行），ボカロ，不建政，负能，mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 427,
+          "like_count": 6994,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1210
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-09T02:14:17.000Z",
+        "description": "这里是小汐~ !可以叫咱小汐或者汐宝喵~?身//随缘/重度抑郁/有点比较命苦/MTF/🚪66/望理解谢谢……",
+        "id": "1314388633869152259",
+        "name": "小汐🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2077453484627280044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040005569478823936/cQhh4SPE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3697,
+          "following_count": 85,
+          "like_count": 19,
+          "listed_count": 10,
+          "media_count": 106,
+          "tweet_count": 523
+        },
+        "url": "",
+        "username": "Swathy17531761",
+        "verified": false
+      }
+    ]
+  }
+}

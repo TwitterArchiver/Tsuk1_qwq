@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2025142099117834611",
+    "created_at": "2026-02-22T03:40:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T04:40:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025415300834099444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1565981667746914304",
+          "start": 0,
+          "username": "Kagura_Yukikaze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025415300834099444",
+    "in_reply_to_user_id": "1565981667746914304",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025142099117834611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kagura_Yukikaze qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2025142099117834611",
+        "created_at": "2026-02-22T03:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T04:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025415300834099444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1565981667746914304",
+              "start": 0,
+              "username": "Kagura_Yukikaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025415300834099444",
+        "in_reply_to_user_id": "1565981667746914304",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025142099117834611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kagura_Yukikaze qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2025142099117834611",
+        "created_at": "2026-02-21T09:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T10:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025142099117834611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miaojiangww_/s…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/miaojiangww_/status/2025118094235238452",
+              "start": 43,
+              "url": "https://t.co/ZaCFMgJbTs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025142099117834611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 894,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025118094235238452",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "检测到您在 X 平台发表最多的几个表情排行：\n1.🥺\n2.😭\n3.😡\n4.🤤\n5.😋 https://t.co/ZaCFMgJbTs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, Japanese日本語（勉強してる）, English……\n玩点机（不太行），听ボカロ，想变成xyn……\n友跨，目前不含糖qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年QAQ）",
+        "id": "1793218407640481793",
+        "name": "Tsuki~ずっと夜に隠してる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 233,
+          "like_count": 1968,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 225
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2015392548286824749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2515,
+          "following_count": 2471,
+          "like_count": 89146,
+          "listed_count": 2,
+          "media_count": 660,
+          "tweet_count": 10452
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      }
+    ]
+  }
+}

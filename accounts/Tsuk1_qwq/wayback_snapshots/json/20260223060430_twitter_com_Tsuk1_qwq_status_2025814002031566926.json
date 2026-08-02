@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2025812469655187680",
+    "created_at": "2026-02-23T06:04:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T07:04:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025814002031566926"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2025814002031566926",
+    "in_reply_to_user_id": "1793218407640481793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025812469655187680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不信教但尊重别人宗教信仰\n可是你们懂吗，她看那种给人一种749局的感觉的那种视频，各种风水国运扯到一起\n从道德经到庄子再到鬼谷子什么什么的…\n以及整天唉声叹气觉得自己被婚姻家庭拖累了。\n今天中午因为喊我吃饭喊生气了直接说干脆出家，然后就是各种不舒服的话\n明明是你在一直让我难受好吗？\n哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2025812469655187680",
+        "created_at": "2026-02-23T06:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T07:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025814002031566926"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025814002031566926",
+        "in_reply_to_user_id": "1793218407640481793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025812469655187680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不信教但尊重别人宗教信仰\n可是你们懂吗，她看那种给人一种749局的感觉的那种视频，各种风水国运扯到一起\n从道德经到庄子再到鬼谷子什么什么的…\n以及整天唉声叹气觉得自己被婚姻家庭拖累了。\n今天中午因为喊我吃饭喊生气了直接说干脆出家，然后就是各种不舒服的话\n明明是你在一直让我难受好吗？\n哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2025812469655187680",
+        "created_at": "2026-02-23T05:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T06:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025812469655187680"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025812469655187680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜呜感觉要死了\n我妈不知道什么时候迷上短视频了，问题是刷的还尽是些：\n“女人的婚姻一定要避开这几种人”\n“地脉惊天巨变，2026年要守护好你的‘气’”\n这种。。。\n然后就各种套在自己身上各种觉得自己不幸唉声叹气，然后又开始迷菩萨什么什么的，然后又各种鉴证说日本怎么怎么样阴阳怪气我……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, Japanese日本語（勉強してる）, English……\n玩点机（不太行），听ボカロ，想变成xyn……\n友跨，目前不含糖qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年QAQ）",
+        "id": "1793218407640481793",
+        "name": "Tsuki~ずっと夜に隠してる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 248,
+          "like_count": 2095,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 245
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2060933264928317768",
+    "created_at": "2026-05-31T03:55:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T04:55:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060933264928317768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1794306281572118528",
+          "start": 3,
+          "username": "520maodou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060933264928317768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060756357968732593",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @520maodou: 告诉各位跨友一个冷门但是十分冰冷的现实：\n如果我们未来真的性转成功，经三甲医院的鉴定，改掉身份证后。依照国内目前的教育厅规定，学历证书（学信网）上面的身份证是不能改的\n这就意味着你未来无法证明你取得了这个文凭，因为你现在所持有的身份证和学历证书上持…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 96,
+        "media_key": "3_2060756355280203776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJlG_J0a8AABEYw.jpg",
+        "width": 180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2060933264928317768",
+        "created_at": "2026-05-31T03:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T04:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060933264928317768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1794306281572118528",
+              "start": 3,
+              "username": "520maodou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060933264928317768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060756357968732593",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @520maodou: 告诉各位跨友一个冷门但是十分冰冷的现实：\n如果我们未来真的性转成功，经三甲医院的鉴定，改掉身份证后。依照国内目前的教育厅规定，学历证书（学信网）上面的身份证是不能改的\n这就意味着你未来无法证明你取得了这个文凭，因为你现在所持有的身份证和学历证书上持…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060756355280203776"
+          ]
+        },
+        "author_id": "1794306281572118528",
+        "conversation_id": "2060756357968732593",
+        "created_at": "2026-05-30T16:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T17:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060756357968732593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tHI558aUJd",
+              "end": 165,
+              "expanded_url": "https://x.com/520maodou/status/2060756357968732593/photo/1",
+              "media_key": "3_2060756355280203776",
+              "start": 142,
+              "url": "https://t.co/tHI558aUJd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060756357968732593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 15508,
+          "like_count": 74,
+          "quote_count": 7,
+          "reply_count": 30,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "告诉各位跨友一个冷门但是十分冰冷的现实：\n如果我们未来真的性转成功，经三甲医院的鉴定，改掉身份证后。依照国内目前的教育厅规定，学历证书（学信网）上面的身份证是不能改的\n这就意味着你未来无法证明你取得了这个文凭，因为你现在所持有的身份证和学历证书上持有的身份证不一样，找工作会大大受限 https://t.co/tHI558aUJd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, 日本語（勉強してる, English…\n玩点机（不太行），听ボカロ，想变成xyn…\n友跨，目前不含糖qwq（？）\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年的说…",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 352,
+          "like_count": 4304,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 735
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T09:55:49.000Z",
+        "description": "一只可爱的刚出炉的MTF喵~\n生产日期07.4 | 无证含糖 | HRT 26.5.4  |26.5.15已炸柜 | 大一数学系新生一枚|「坐标杭州」 |181cm 57kg | 爱好数学与信息技术 欢迎同好友好交流😀| 支持新自由主义🏳️‍⚧️  可适当键政（不是粉红喵～）这里可以通过Telegram联系本喵👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xingbiepingdeng",
+                "end": 23,
+                "expanded_url": "https://t.me/xingbiepingdeng",
+                "start": 0,
+                "url": "https://t.co/AEgmmmLnGi"
+              }
+            ]
+          }
+        },
+        "id": "1794306281572118528",
+        "location": "浙江 杭州",
+        "name": "毛豆酱🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053460035469258752/gGYtCmAh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 167,
+          "like_count": 146,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 103
+        },
+        "url": "https://t.co/AEgmmmLnGi",
+        "username": "520maodou",
+        "verified": false
+      }
+    ]
+  }
+}

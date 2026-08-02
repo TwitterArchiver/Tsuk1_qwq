@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2060700587977474269",
+    "created_at": "2026-05-30T12:31:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T13:31:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060700587977474269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1643976839071928325",
+          "start": 3,
+          "username": "wyuhanbyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060700587977474269",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060515497805017479",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wyuhanbyu: 每天都幻想着能交到懂我的人陪着我，好孤独😔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2060700587977474269",
+        "created_at": "2026-05-30T12:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060700587977474269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1643976839071928325",
+              "start": 3,
+              "username": "wyuhanbyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060700587977474269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060515497805017479",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wyuhanbyu: 每天都幻想着能交到懂我的人陪着我，好孤独😔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643976839071928325",
+        "conversation_id": "2060515497805017479",
+        "created_at": "2026-05-30T00:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T01:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060515497805017479"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060515497805017479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 677,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "每天都幻想着能交到懂我的人陪着我，好孤独😔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, 日本語（勉強してる, English…\n玩点机（不太行），听ボカロ，想变成xyn…\n友跨，目前不含糖qwq（？）\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年的说…",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 350,
+          "like_count": 4179,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 710
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-06T14:01:10.000Z",
+        "description": "06xyn丨hrt:2026.5.11无证含糖生产日期2006.1.28现居江苏苏州市吴中区  无主丨我只是人群中刚走出来的xyn，关注我都会回关的请宝宝们不要取关我骂我做啥都好不要取关😭鱼鱼会哭的很厉害的鱼鱼爱你们",
+        "id": "1643976839071928325",
+        "location": "Japan",
+        "name": "余不是鱼🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051913380047503360/t10OCd9L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 44,
+          "like_count": 349,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 98
+        },
+        "username": "wyuhanbyu",
+        "verified": false
+      }
+    ]
+  }
+}

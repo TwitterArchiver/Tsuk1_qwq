@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2072973821200723984",
+    "created_at": "2026-07-03T09:23:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T10:23:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072974428238123112"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072974428238123112",
+    "in_reply_to_user_id": "1793218407640481793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072974258041745866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想让她快快回来呢……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072974254862389249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSvGgmaUAE9HW4.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2072973821200723984",
+        "created_at": "2026-07-03T09:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T10:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072974428238123112"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072974428238123112",
+        "in_reply_to_user_id": "1793218407640481793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072974258041745866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想让她快快回来呢……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072974254862389249"
+          ]
+        },
+        "author_id": "1793218407640481793",
+        "conversation_id": "2072973821200723984",
+        "created_at": "2026-07-03T09:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T10:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072974258041745866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f12ajdTPGK",
+              "end": 80,
+              "expanded_url": "https://x.com/Tsuk1_qwq/status/2072974258041745866/photo/1",
+              "media_key": "3_2072974254862389249",
+              "start": 57,
+              "url": "https://t.co/f12ajdTPGK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072974258041745866",
+        "in_reply_to_user_id": "1793218407640481793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072973821200723984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呜呜呜……\n我和她的最后记录……\nX会删掉这些记录吗……可能我和她的一切证明，都只存在那几十兆字节的缓存里呢…… https://t.co/f12ajdTPGK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "简中，繁体不怎么看懂，日語勉強,English下手…\n玩机（不太行），ボカロ，可能是xyn的说\n……想被温柔对待，也尽量尝试好好对待别人喵\n讨厌政治。\n2009（因为怕有未成年限制所以资料写是2000\nnegi快回来呀qwq",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 384,
+          "like_count": 5470,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 897
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

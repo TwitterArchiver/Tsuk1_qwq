@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082231512167329792"
+      ]
+    },
+    "author_id": "1793218407640481793",
+    "conversation_id": "2082095526439539195",
+    "created_at": "2026-07-28T22:27:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T23:27:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082231519998046587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1436287470207832064",
+          "start": 0,
+          "username": "wuyuandev"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1VfgvAvG2L",
+          "end": 44,
+          "expanded_url": "https://x.com/Tsuk1_qwq/status/2082231519998046587/photo/1",
+          "media_key": "3_2082231512167329792",
+          "start": 21,
+          "url": "https://t.co/1VfgvAvG2L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082231519998046587",
+    "in_reply_to_user_id": "1436287470207832064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082095526439539195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuyuandev 试了一下深色模式喵 https://t.co/1VfgvAvG2L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2082231512167329792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOWShzbbsAAGk96.jpg",
+        "width": 1080
+      },
+      {
+        "height": 788,
+        "media_key": "3_2082095516217946112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUW1zCasAAlWqP.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082231512167329792"
+          ]
+        },
+        "author_id": "1793218407640481793",
+        "conversation_id": "2082095526439539195",
+        "created_at": "2026-07-28T22:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T23:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082231519998046587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1436287470207832064",
+              "start": 0,
+              "username": "wuyuandev"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1VfgvAvG2L",
+              "end": 44,
+              "expanded_url": "https://x.com/Tsuk1_qwq/status/2082231519998046587/photo/1",
+              "media_key": "3_2082231512167329792",
+              "start": 21,
+              "url": "https://t.co/1VfgvAvG2L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082231519998046587",
+        "in_reply_to_user_id": "1436287470207832064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082095526439539195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyuandev 试了一下深色模式喵 https://t.co/1VfgvAvG2L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082095516217946112"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "2082095526439539195",
+        "created_at": "2026-07-28T13:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082095526439539195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6SqbgBXIl6",
+              "end": 61,
+              "expanded_url": "https://x.com/wuyuandev/status/2082095526439539195/photo/1",
+              "media_key": "3_2082095516217946112",
+              "start": 38,
+              "url": "https://t.co/6SqbgBXIl6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082095526439539195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 601,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新的头图！看起来是不是超级酷😆\n别的手机的用户可以截图看看你看到的效果嘛？ https://t.co/6SqbgBXIl6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "简中，繁体懂一点，日語勉強,English下手…\n玩机（不太行），ボカロ，不建政，负能，mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 426,
+          "like_count": 6970,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1206
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥，构建社区、AI 工具与各种好玩的工具。\n说话含喵量巨大🐱的高二在校生。\n\n你看白雪人间，你看冰霜璀璨。\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭捏 https://t.co/aMQp3GpkVJ\n私人 @lunayurari ｜❤️ @tsgostar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lunayurari"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 111,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 88,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2072929240442622209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1706,
+          "following_count": 909,
+          "like_count": 9561,
+          "listed_count": 8,
+          "media_count": 758,
+          "tweet_count": 3282
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      }
+    ]
+  }
+}

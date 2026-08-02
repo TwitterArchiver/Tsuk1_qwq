@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2077415555687235878",
+    "created_at": "2026-07-25T02:51:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T03:51:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080848490415161516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1701484460250890240",
+          "start": 0,
+          "username": "SonogamiRinneTS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080848490415161516",
+    "in_reply_to_user_id": "1701484460250890240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077415555687235878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SonogamiRinneTS 抱抱喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2077415555687235878",
+        "created_at": "2026-07-25T02:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T03:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080848490415161516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1701484460250890240",
+              "start": 0,
+              "username": "SonogamiRinneTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080848490415161516",
+        "in_reply_to_user_id": "1701484460250890240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077415555687235878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonogamiRinneTS 抱抱喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701484460250890240",
+        "conversation_id": "2077415555687235878",
+        "created_at": "2026-07-15T15:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077415555687235878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sonogamirinnet…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/sonogamirinnets/status/2076942795173200125",
+              "start": 139,
+              "url": "https://t.co/KttP5oDw4X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077415555687235878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "看有人说怀疑咱化验结果的真实性，说真的不仅你们怀疑，咱自己更怀疑，因为这个结果是咱妈给咱化验的（父母两人都在医院上班，咱妈正好是检验科主任，所以咱发出来的是屏幕照片而不是纸质报告单），这也是为啥咱化验编号正好是888，而且在没改证改名的情况下就把报告上的名字和性别都换成女的。\n\n咱也非常怀疑她是不是为了让我少吃药故意把化验结果改高的，毕竟这种类似的事情从小到大他们都干过无数次了。不过之前每天2mg补的时候，确实感觉激素吃多了，那段时间几乎天天都在高强度发情，都弄得咱没法正常上班和生活了连续减了三次剂量一直减到现在每两天1mg发情的问题才勉强解决了。想去别的医院自己再检查看看，但其他医院离家太远而且咱工资有限不太舍得掏钱，想想还是算了，反正咱已经跟家里人说好了大概率再过不到两年就重开，彻底摆烂了已经，听天由命吧"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5104,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076942795173200125",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看有人说怀疑咱化验结果的真实性，说真的不仅你们怀疑，咱自己更怀疑，因为这个结果是咱妈给咱化验的（父母两人都在医院上班，咱妈正好是检验科主任，所以咱发出来的是屏幕照片而不是纸质报告单），这也是为啥咱化验编号正好是888，而且在没改证改名的情况下就把报告上的名字和性别都换成女的。 https://t.co/KttP5oDw4X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "简中，繁体懂一点，日語勉強,English下手…\n玩机（不太行），ボカロ，不建政，负能，mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 414,
+          "like_count": 6357,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 1079
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5196,
+          "following_count": 3845,
+          "like_count": 1553,
+          "listed_count": 19,
+          "media_count": 297,
+          "tweet_count": 2064
+        },
+        "url": "",
+        "username": "SonogamiRinneTS",
+        "verified": true
+      }
+    ]
+  }
+}

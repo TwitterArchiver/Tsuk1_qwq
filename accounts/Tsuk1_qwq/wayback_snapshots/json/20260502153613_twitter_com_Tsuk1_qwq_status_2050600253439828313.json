@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2050600253439828313",
+    "created_at": "2026-05-02T15:36:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T16:36:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050600253439828313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1944397601354465280",
+          "start": 3,
+          "username": "AzusaBA0713"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050600253439828313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045936523200315598",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AzusaBA0713: 感觉...活着好空...对人，对环境，事物，都感觉很假，我是不是之前就死了？\n那你们是什么？是真的人吗？如果不是，以我现在的状态，怎么杀掉自己？\n或许会感觉我很弱智吧问出这种话，但是我现在一直感觉好空，像是...少了些东西吧......\n1.(…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045936520255913984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGSgbOLaQAAG3lw.jpg",
+        "width": 1266
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2050600253439828313",
+        "created_at": "2026-05-02T15:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T16:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050600253439828313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1944397601354465280",
+              "start": 3,
+              "username": "AzusaBA0713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050600253439828313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045936523200315598",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AzusaBA0713: 感觉...活着好空...对人，对环境，事物，都感觉很假，我是不是之前就死了？\n那你们是什么？是真的人吗？如果不是，以我现在的状态，怎么杀掉自己？\n或许会感觉我很弱智吧问出这种话，但是我现在一直感觉好空，像是...少了些东西吧......\n1.(…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045936520255913984"
+          ]
+        },
+        "author_id": "1944397601354465280",
+        "conversation_id": "2045936523200315598",
+        "created_at": "2026-04-19T18:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T19:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045936523200315598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kF2g2uWQdt",
+              "end": 183,
+              "expanded_url": "https://x.com/AzusaBA0713/status/2045936523200315598/photo/1",
+              "media_key": "3_2045936520255913984",
+              "start": 160,
+              "url": "https://t.co/kF2g2uWQdt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045936523200315598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 416,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "感觉...活着好空...对人，对环境，事物，都感觉很假，我是不是之前就死了？\n那你们是什么？是真的人吗？如果不是，以我现在的状态，怎么杀掉自己？\n或许会感觉我很弱智吧问出这种话，但是我现在一直感觉好空，像是...少了些东西吧......\n1.(不知道)\n2.(都是假的)\n3.(无视)\n4.&lt;说自己的想法&gt; https://t.co/kF2g2uWQdt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, Japanese日本語（勉強してる）, English……\n玩点机（不太行），听ボカロ，想变成xyn……\n友跨，目前不含糖qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年QAQ）",
+        "id": "1793218407640481793",
+        "name": "tsuki_夜隠し",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 306,
+          "like_count": 3558,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 554
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T14:05:32.000Z",
+        "description": "一只喜欢吃糖🍥の小孩纸˃ ˄ ˂̥/已炸柜/家长不管/INFP-T/生产日期2010/7/13/1.65m/mtf/hrt/中度抑郁/需陪伴/向自由💫/是只小烧0的乖乖~/同类交友/纯馋人不卖💦\n最爱の笨宝宝:@XueFu13456\n供🍬の猫猫:@AksharJethwa\n呆呆瓜星羽:@seiuki070327",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 105,
+                "username": "XueFu13456"
+              },
+              {
+                "end": 136,
+                "start": 123,
+                "username": "AksharJethwa"
+              },
+              {
+                "end": 156,
+                "start": 143,
+                "username": "seiuki070327"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/AzusaBA0713",
+                "end": 23,
+                "expanded_url": "http://t.me/AzusaBA0713",
+                "start": 0,
+                "url": "https://t.co/bbrOTQXtfz"
+              }
+            ]
+          }
+        },
+        "id": "1944397601354465280",
+        "location": "坐在守月的大金金上~",
+        "name": "木辛伊(梓星星)🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2001140478084001950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077580628578305/QarbvODq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1618,
+          "following_count": 1474,
+          "like_count": 1485,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 373
+        },
+        "url": "https://t.co/bbrOTQXtfz",
+        "username": "AzusaBA0713",
+        "verified": false
+      }
+    ]
+  }
+}

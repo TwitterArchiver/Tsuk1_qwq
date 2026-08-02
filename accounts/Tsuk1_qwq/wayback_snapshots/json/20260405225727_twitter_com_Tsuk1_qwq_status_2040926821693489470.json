@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2040926821693489470",
+    "created_at": "2026-04-05T22:57:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T23:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040926821693489470"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ggdxfulan/stat…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/ggdxfulan/status/2040636686544298121",
+          "start": 25,
+          "url": "https://t.co/FxoQ0ZNFkY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040926821693489470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040636686544298121",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个……好像是我的样子……\n我会认真考虑的qwq https://t.co/FxoQ0ZNFkY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2040926821693489470",
+        "created_at": "2026-04-05T22:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T23:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040926821693489470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ggdxfulan/stat…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/ggdxfulan/status/2040636686544298121",
+              "start": 25,
+              "url": "https://t.co/FxoQ0ZNFkY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040926821693489470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040636686544298121",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个……好像是我的样子……\n我会认真考虑的qwq https://t.co/FxoQ0ZNFkY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639816523190763521",
+        "conversation_id": "2040636686544298121",
+        "created_at": "2026-04-05T03:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T04:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040636686544298121"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040636686544298121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 19488,
+          "like_count": 216,
+          "quote_count": 13,
+          "reply_count": 14,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "性别回避\n\n这种种类的药娘 并不是天生就想当女生，而是后期遭受到重大变故，从而对男性身份产生厌恶从而吃糖，所以这种药娘通常性别焦虑不是很严重"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, Japanese日本語（勉強してる）, English……\n玩点机（不太行），听ボカロ，想变成xyn……\n友跨，目前不含糖qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年QAQ）",
+        "id": "1793218407640481793",
+        "name": "Tsuki~ずっと夜に隠してる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 287,
+          "like_count": 2959,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 421
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "二次翻车的小芙兰\n药娘1 纯1哦",
+        "id": "1639816523190763521",
+        "location": "距离你2km",
+        "name": "乖乖哒二小姐",
+        "pinned_tweet_id": "2039230799497547970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002781704680030208/O0cqzBz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16585,
+          "following_count": 491,
+          "like_count": 34969,
+          "listed_count": 32,
+          "media_count": 3630,
+          "tweet_count": 11316
+        },
+        "username": "ggdxfulan",
+        "verified": true
+      }
+    ]
+  }
+}

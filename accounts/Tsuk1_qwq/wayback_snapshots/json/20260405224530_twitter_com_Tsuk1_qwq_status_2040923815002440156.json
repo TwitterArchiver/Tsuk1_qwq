@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2040814381408399750",
+    "created_at": "2026-04-05T22:45:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T23:45:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040923815002440156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1867432957113204736",
+          "start": 0,
+          "username": "owO123qwe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040923815002440156",
+    "in_reply_to_user_id": "1867432957113204736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040814381408399750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@owO123qwe 不要喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2040814381408399750",
+        "created_at": "2026-04-05T22:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T23:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040923815002440156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1867432957113204736",
+              "start": 0,
+              "username": "owO123qwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040923815002440156",
+        "in_reply_to_user_id": "1867432957113204736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040814381408399750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@owO123qwe 不要喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867432957113204736",
+        "conversation_id": "2040814381408399750",
+        "created_at": "2026-04-05T15:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T16:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040814381408399750"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040814381408399750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我有能变成天使的方法~小声说»把手腕割开泡在水里~多泡一会就可以变成天使啦ᗴ͜ꩰ(՞⸝⸝o̴̶̷̥᷅ ̫ o̴̶̷᷄⸝⸝՞) ꩰ͜ᗱ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, Japanese日本語（勉強してる）, English……\n玩点机（不太行），听ボカロ，想变成xyn……\n友跨，目前不含糖qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年QAQ）",
+        "id": "1793218407640481793",
+        "name": "Tsuki~ずっと夜に隠してる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 286,
+          "like_count": 2942,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 420
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T04:55:02.000Z",
+        "description": "所有人都会离我而去，最后只剩下我的尸体|会发日常和梗图，还有..一些碎碎念..|喜欢所有人|希望世界毁灭|不见证|od抽烟喝酒自残|07|身高166|双相|无性别mtX|泛性恋|互fo.请私信|",
+        "id": "1867432957113204736",
+        "name": "⛧小然💊🍔🍡🍜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009579488129187840/g48sr7Cf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2508,
+          "following_count": 580,
+          "like_count": 5618,
+          "listed_count": 7,
+          "media_count": 406,
+          "tweet_count": 2417
+        },
+        "username": "owO123qwe",
+        "verified": false
+      }
+    ]
+  }
+}

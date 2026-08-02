@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2024384824921014406",
+    "created_at": "2026-02-19T16:40:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T17:40:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024524399400144940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1817513346645827584",
+          "start": 0,
+          "username": "linny83215"
+        },
+        {
+          "end": 17,
+          "id": "1720665183188922368",
+          "start": 12,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024524399400144940",
+    "in_reply_to_user_id": "1817513346645827584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024384824921014406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linny83215 @grok 我真的顺着一堆转帖点进这里来qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2024384824921014406",
+        "created_at": "2026-02-19T16:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024524399400144940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1817513346645827584",
+              "start": 0,
+              "username": "linny83215"
+            },
+            {
+              "end": 17,
+              "id": "1720665183188922368",
+              "start": 12,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024524399400144940",
+        "in_reply_to_user_id": "1817513346645827584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024384824921014406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linny83215 @grok 我真的顺着一堆转帖点进这里来qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817513346645827584",
+        "conversation_id": "2024384824921014406",
+        "created_at": "2026-02-19T07:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T08:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024384824921014406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 55,
+              "id": "1720665183188922368",
+              "start": 50,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024384824921014406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2510,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请阅读我账号的所有推文，包含转载的图文，请你分别用汉语最合适的的一个字一个词与一句话依次独立概括。\n@grok 请立即回答"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, Japanese日本語（勉強してる）, English……\n玩点机（不太行），听ボカロ，想变成xyn……\n友跨，目前不含糖qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年QAQ）",
+        "id": "1793218407640481793",
+        "name": "Tsuki~ずっと夜に隠してる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 214,
+          "like_count": 1605,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 183
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T10:52:20.000Z",
+        "description": "ugw:120lbs 未受洗新教徒/首席teenager/精神美国人/贪食症转限制/adhd/玉玉/唯一尝过的acid是胃酸/最喜欢蓝色/崇拜艺术/痛苦挂壁者/midwestemo/骂我的人你们忍心吗/沉迷ikea/乳糖不耐/我想学电影编剧/保持一颗银子般的心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miyu77",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miyu77",
+                "start": 0,
+                "url": "https://t.co/7JxVPIXEer"
+              }
+            ]
+          }
+        },
+        "id": "1817513346645827584",
+        "location": "peekaboo",
+        "name": "˚₊‧꒰ა✞uuuUu7✞໒꒱ ‧₊˚",
+        "pinned_tweet_id": "2022526683350471061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012243032624766976/Ri2TQ8on_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 117,
+          "like_count": 1483,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 2266
+        },
+        "url": "https://t.co/7JxVPIXEer",
+        "username": "linny83215",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7986344,
+          "following_count": 3,
+          "like_count": 85,
+          "listed_count": 6137,
+          "media_count": 8341822,
+          "tweet_count": 105505622
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073054848145362944"
+      ]
+    },
+    "author_id": "1793218407640481793",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2073054851316256894",
+    "created_at": "2026-07-03T14:42:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T15:42:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073054851316256894"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cxFTTAkPV2",
+          "end": 27,
+          "expanded_url": "https://x.com/Tsuk1_qwq/status/2073054851316256894/photo/1",
+          "media_key": "3_2073054848145362944",
+          "start": 4,
+          "url": "https://t.co/cxFTTAkPV2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073054851316256894",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好吃喵 https://t.co/cxFTTAkPV2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073054848145362944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMT4Zp-bEAAOpf4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073054848145362944"
+          ]
+        },
+        "author_id": "1793218407640481793",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073054851316256894",
+        "created_at": "2026-07-03T14:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T15:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073054851316256894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cxFTTAkPV2",
+              "end": 27,
+              "expanded_url": "https://x.com/Tsuk1_qwq/status/2073054851316256894/photo/1",
+              "media_key": "3_2073054848145362944",
+              "start": 4,
+              "url": "https://t.co/cxFTTAkPV2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073054851316256894",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好吃喵 https://t.co/cxFTTAkPV2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "简中，繁体不怎么看懂，日語勉強,English下手…\n玩机（不太行），ボカロ，可能是xyn的说\n……想被温柔对待，也尽量尝试好好对待别人喵\n讨厌政治。\n2009（因为怕有未成年限制所以资料写是2000\nnegi快回来呀qwq",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 384,
+          "like_count": 5510,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 906
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

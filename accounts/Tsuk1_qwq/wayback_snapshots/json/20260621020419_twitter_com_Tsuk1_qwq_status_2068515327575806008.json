@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2068197289777316289",
+    "created_at": "2026-06-21T02:04:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T03:04:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068515327575806008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "4885603273",
+          "start": 0,
+          "username": "mimi_3mi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068515327575806008",
+    "in_reply_to_user_id": "4885603273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068197289777316289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mimi_3mi おめでとうございます～本当に大好きな曲ですねww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1053,
+        "media_key": "3_2068197285683658752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLO2eTqaAAAQRsN.jpg",
+        "width": 1668
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2068197289777316289",
+        "created_at": "2026-06-21T02:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T03:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068515327575806008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4885603273",
+              "start": 0,
+              "username": "mimi_3mi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068515327575806008",
+        "in_reply_to_user_id": "4885603273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068197289777316289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mimi_3mi おめでとうございます～本当に大好きな曲ですねww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068197285683658752"
+          ]
+        },
+        "author_id": "4885603273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2068197289777316289",
+        "created_at": "2026-06-20T05:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T06:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068197289777316289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oUNbAcBPZp",
+              "end": 135,
+              "expanded_url": "https://x.com/mimi_3mi/status/2068197289777316289/photo/1",
+              "media_key": "3_2068197285683658752",
+              "start": 112,
+              "url": "https://t.co/oUNbAcBPZp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068197289777316289",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 40381,
+          "like_count": 2694,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 243
+        },
+        "reply_settings": "everyone",
+        "text": "こちらは奇跡的にピッタリ100万撮れた記念🙌\n\n『天使の涙』は、田中胡椒先生の天使ちゃんイラストにとても感動して、その衝動のまま書き上げた曲でした。\n今、傷が多くて上手く羽ばたけなくても 生きていく理由を探したっていいよね https://t.co/oUNbAcBPZp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, 日本語勉強,English下手…\n玩点机（不太行），听ボカロ，可能是xyn？（qwq\n……想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年的说…",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 385,
+          "like_count": 5487,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 889
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-10T01:01:56.000Z",
+        "description": "曲を作ったりしています。YouTube https://t.co/AHuwPw9hpS ファンアート→#MI民美術部",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 51,
+                "tag": "MI民美術部"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "goo.gl/A9EuqV",
+                "end": 43,
+                "expanded_url": "https://goo.gl/A9EuqV",
+                "start": 20,
+                "url": "https://t.co/AHuwPw9hpS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/mylist/55458052",
+                "end": 23,
+                "expanded_url": "http://nicovideo.jp/mylist/55458052",
+                "start": 0,
+                "url": "https://t.co/psIwCswRXQ"
+              }
+            ]
+          }
+        },
+        "id": "4885603273",
+        "location": "何かありましたらmimi_3mi@yahoo.co.jp ",
+        "name": "MIMI",
+        "pinned_tweet_id": "2064009175831920834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983717712783360000/kfISRDZf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133227,
+          "following_count": 416,
+          "like_count": 11527,
+          "listed_count": 478,
+          "media_count": 633,
+          "tweet_count": 3309
+        },
+        "url": "https://t.co/psIwCswRXQ",
+        "username": "mimi_3mi",
+        "verified": true
+      }
+    ]
+  }
+}

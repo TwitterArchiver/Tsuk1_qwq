@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2032053929593454794",
+    "created_at": "2026-03-12T11:19:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T12:19:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032053929593454794"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mimi_3mi/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/mimi_3mi/status/2031966362026065995",
+          "start": 9,
+          "url": "https://t.co/EdS2NReden"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032053929593454794",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031966362026065995",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喜欢mimi！~ https://t.co/EdS2NReden"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 819,
+        "media_key": "3_2031966357118664704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDL-os-aQAAQxVE.jpg",
+        "width": 1795
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2032053929593454794",
+        "created_at": "2026-03-12T11:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T12:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032053929593454794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mimi_3mi/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/mimi_3mi/status/2031966362026065995",
+              "start": 9,
+              "url": "https://t.co/EdS2NReden"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032053929593454794",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031966362026065995",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜欢mimi！~ https://t.co/EdS2NReden"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031966357118664704"
+          ]
+        },
+        "author_id": "4885603273",
+        "conversation_id": "2031966362026065995",
+        "created_at": "2026-03-12T05:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T06:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031966362026065995"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 95,
+              "normalized_text": "ハナタバ",
+              "probability": 0.3386,
+              "start": 92,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VndNjlQkhg",
+              "end": 173,
+              "expanded_url": "https://x.com/mimi_3mi/status/2031966362026065995/photo/1",
+              "media_key": "3_2031966357118664704",
+              "start": 150,
+              "url": "https://t.co/VndNjlQkhg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031966362026065995",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 91246,
+          "like_count": 2296,
+          "quote_count": 9,
+          "reply_count": 58,
+          "retweet_count": 238
+        },
+        "reply_settings": "everyone",
+        "text": "最近、bilibili動画でなりすましの投稿が多くなってきているようなので、、\nこの度、自分でbilibiliにもMVを出すことにしました。\n\nこちらが公式アカウントになります(まだ「ハナタバ」のみですが...これから増やしていこうと思います!)\n\nもし見かけた場合はどうぞよろしくお願いします🙏✨ https://t.co/VndNjlQkhg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, Japanese日本語（勉強してる）, English……\n玩点机（不太行），听ボカロ，想变成xyn……\n友跨，目前不含糖qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年QAQ）",
+        "id": "1793218407640481793",
+        "name": "Tsuki~ずっと夜に隠してる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 256,
+          "like_count": 2505,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 306
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-10T01:01:56.000Z",
+        "description": "曲を作ったりしています。YouTube https://t.co/AHuwPw9hpS ファンアート→#MI民美術部",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 51,
+                "tag": "MI民美術部"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "goo.gl/A9EuqV",
+                "end": 43,
+                "expanded_url": "https://goo.gl/A9EuqV",
+                "start": 20,
+                "url": "https://t.co/AHuwPw9hpS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/mylist/55458052",
+                "end": 23,
+                "expanded_url": "http://nicovideo.jp/mylist/55458052",
+                "start": 0,
+                "url": "https://t.co/psIwCswRXQ"
+              }
+            ]
+          }
+        },
+        "id": "4885603273",
+        "location": "何かありましたらmimi_3mi@yahoo.co.jp ",
+        "name": "MIMI",
+        "pinned_tweet_id": "2007033541117530494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983717712783360000/kfISRDZf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125187,
+          "following_count": 415,
+          "like_count": 10496,
+          "listed_count": 469,
+          "media_count": 586,
+          "tweet_count": 3167
+        },
+        "url": "https://t.co/psIwCswRXQ",
+        "username": "mimi_3mi",
+        "verified": true
+      }
+    ]
+  }
+}

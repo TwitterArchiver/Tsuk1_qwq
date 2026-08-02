@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+          "id": "1557697078762958848",
+          "name": "Pet Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543325212319744",
+          "name": "Animals"
+        }
+      }
+    ],
+    "conversation_id": "2050137636602609738",
+    "created_at": "2026-05-01T08:57:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T09:57:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050137636602609738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2006749860863815682",
+          "start": 3,
+          "username": "kawainegi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050137636602609738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048984263006233081",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kawainegi: 動物的絕育都能解決這麼多問題\n如果人類也拿掉荷爾蒙社會會變的很簡單嗎\n一些犯罪 強欲的 不快的壓迫會消失嗎\n\n全員都關機就好了阿🤗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          }
+        ],
+        "conversation_id": "2050137636602609738",
+        "created_at": "2026-05-01T08:57:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T09:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050137636602609738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2006749860863815682",
+              "start": 3,
+              "username": "kawainegi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050137636602609738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048984263006233081",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kawainegi: 動物的絕育都能解決這麼多問題\n如果人類也拿掉荷爾蒙社會會變的很簡單嗎\n一些犯罪 強欲的 不快的壓迫會消失嗎\n\n全員都關機就好了阿🤗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          }
+        ],
+        "conversation_id": "2048984263006233081",
+        "created_at": "2026-04-28T04:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048984263006233081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/momoxiezs/stat…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/momoxiezs/status/2048973286424678513",
+              "start": 66,
+              "url": "https://t.co/gfm4OKFwpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048984263006233081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048973286424678513",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "動物的絕育都能解決這麼多問題\n如果人類也拿掉荷爾蒙社會會變的很簡單嗎\n一些犯罪 強欲的 不快的壓迫會消失嗎\n\n全員都關機就好了阿🤗 https://t.co/gfm4OKFwpc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, Japanese日本語（勉強してる）, English……\n玩点机（不太行），听ボカロ，想变成xyn……\n友跨，目前不含糖qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年QAQ）",
+        "id": "1793218407640481793",
+        "name": "Tsuki~ずっと夜に隠してる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 293,
+          "like_count": 3232,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 510
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 123,
+          "like_count": 3225,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 594
+        },
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

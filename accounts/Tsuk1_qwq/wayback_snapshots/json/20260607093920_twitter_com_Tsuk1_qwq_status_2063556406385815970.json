@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2062038547981558040",
+    "created_at": "2026-06-07T09:39:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T10:39:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063556406385815970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2006749860863815682",
+          "start": 0,
+          "username": "kawainegi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063556406385815970",
+    "in_reply_to_user_id": "2006749860863815682",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062038547981558040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawainegi 摸摸猫~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2062038547981558040",
+        "created_at": "2026-06-07T09:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T10:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063556406385815970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2006749860863815682",
+              "start": 0,
+              "username": "kawainegi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063556406385815970",
+        "in_reply_to_user_id": "2006749860863815682",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062038547981558040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawainegi 摸摸猫~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2062038547981558040",
+        "created_at": "2026-06-03T05:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062038547981558040"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062038547981558040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抽血，貓哭ㄌ🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, 日本語勉強,English下手…\n玩点机（不太行），听ボカロ，可能是xyn？（qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年的说…",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 360,
+          "like_count": 4552,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 758
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 158,
+          "like_count": 6401,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1257
+        },
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

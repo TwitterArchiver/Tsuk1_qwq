@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045128734613860352"
+      ]
+    },
+    "author_id": "1793218407640481793",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2045128749025509422",
+    "created_at": "2026-04-17T13:14:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T14:14:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045128749025509422"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0HFFtpWpmF",
+          "end": 29,
+          "expanded_url": "https://x.com/Tsuk1_qwq/status/2045128749025509422/photo/1",
+          "media_key": "3_2045128734613860352",
+          "start": 6,
+          "url": "https://t.co/0HFFtpWpmF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045128749025509422",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好慢啊…… https://t.co/0HFFtpWpmF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2045128734613860352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHBv6KacAAVzGs.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045128734613860352"
+          ]
+        },
+        "author_id": "1793218407640481793",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045128749025509422",
+        "created_at": "2026-04-17T13:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T14:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045128749025509422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0HFFtpWpmF",
+              "end": 29,
+              "expanded_url": "https://x.com/Tsuk1_qwq/status/2045128749025509422/photo/1",
+              "media_key": "3_2045128734613860352",
+              "start": 6,
+              "url": "https://t.co/0HFFtpWpmF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045128749025509422",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好慢啊…… https://t.co/0HFFtpWpmF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, Japanese日本語（勉強してる）, English……\n玩点机（不太行），听ボカロ，想变成xyn……\n友跨，目前不含糖qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年QAQ）",
+        "id": "1793218407640481793",
+        "name": "Tsuki~ずっと夜に隠してる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 284,
+          "like_count": 2951,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 431
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

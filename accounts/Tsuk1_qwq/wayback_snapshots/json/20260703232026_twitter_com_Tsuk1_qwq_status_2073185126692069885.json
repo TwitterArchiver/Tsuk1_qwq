@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "1955301269465117058",
+    "created_at": "2026-07-03T23:20:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T00:20:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073185126692069885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1803288616539668480",
+          "start": 0,
+          "username": "ARVNVT870"
+        },
+        {
+          "end": 25,
+          "id": "2483009606",
+          "start": 11,
+          "username": "konoKatushada"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073185126692069885",
+    "in_reply_to_user_id": "1803288616539668480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955314556139606474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ARVNVT870 @konoKatushada 当我意识到我看到了什么的时候……\n卧槽！！预言家！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "1955301269465117058",
+        "created_at": "2026-07-03T23:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T00:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073185126692069885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1803288616539668480",
+              "start": 0,
+              "username": "ARVNVT870"
+            },
+            {
+              "end": 25,
+              "id": "2483009606",
+              "start": 11,
+              "username": "konoKatushada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073185126692069885",
+        "in_reply_to_user_id": "1803288616539668480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955314556139606474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ARVNVT870 @konoKatushada 当我意识到我看到了什么的时候……\n卧槽！！预言家！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803288616539668480",
+        "conversation_id": "1955301269465117058",
+        "created_at": "2025-08-12T17:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T18:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955314556139606474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2483009606",
+              "start": 0,
+              "username": "konoKatushada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955314556139606474",
+        "in_reply_to_user_id": "2483009606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 40796,
+          "like_count": 175,
+          "quote_count": 32,
+          "reply_count": 35,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955313752514994677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konoKatushada 然后把北京中信大厦撞了😈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "简中，繁体不怎么看懂，日語勉強,English下手…\n玩机（不太行），ボカロ，可能是xyn的说\n……想被温柔对待，也尽量尝试好好对待别人喵\n讨厌政治。\n2009（因为怕有未成年限制所以资料写是2000\nnegi快回来呀qwq",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 386,
+          "like_count": 5546,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 912
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T04:48:14.000Z",
+        "description": "哪天无了就启用此帐号:@vmmacv971",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "vmmacv971"
+              }
+            ]
+          }
+        },
+        "id": "1803288616539668480",
+        "location": "Panama",
+        "name": "VictorTran870",
+        "pinned_tweet_id": "1949834461836607537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069704498075803648/8SaIS-pQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 727,
+          "following_count": 1148,
+          "like_count": 12852,
+          "listed_count": 5,
+          "media_count": 616,
+          "tweet_count": 5344
+        },
+        "url": "",
+        "username": "ARVNVT870",
+        "verified": true
+      },
+      {
+        "created_at": "2014-05-08T01:35:27.000Z",
+        "description": "Yabba Dabba Doo Ringdigidingdingding🎵 | 斬り介とジョニー四百九十九人斬り",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/9455499",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/9455499",
+                "start": 0,
+                "url": "https://t.co/yjvO5WQOfT"
+              }
+            ]
+          }
+        },
+        "id": "2483009606",
+        "location": "Indiana",
+        "name": "KatushaMK2🛶",
+        "pinned_tweet_id": "2067768096513724613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038804072589881345/zQklpocQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2234,
+          "following_count": 4281,
+          "like_count": 637582,
+          "listed_count": 17,
+          "media_count": 17368,
+          "tweet_count": 189530
+        },
+        "url": "https://t.co/yjvO5WQOfT",
+        "username": "konoKatushada",
+        "verified": false
+      }
+    ]
+  }
+}

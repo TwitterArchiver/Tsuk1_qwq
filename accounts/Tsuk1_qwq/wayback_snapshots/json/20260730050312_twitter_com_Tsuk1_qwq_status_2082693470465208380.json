@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2068620268961206425",
+    "created_at": "2026-07-30T05:03:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T06:03:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082693470465208380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1878225515561332736",
+          "start": 0,
+          "username": "EScanlon95354"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082693470465208380",
+    "in_reply_to_user_id": "1878225515561332736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068620268961206425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EScanlon95354 抱抱……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2068620268961206425",
+        "created_at": "2026-07-30T05:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T06:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082693470465208380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1878225515561332736",
+              "start": 0,
+              "username": "EScanlon95354"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082693470465208380",
+        "in_reply_to_user_id": "1878225515561332736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068620268961206425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EScanlon95354 抱抱……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878225515561332736",
+        "conversation_id": "2068620268961206425",
+        "created_at": "2026-06-21T09:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T10:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068620268961206425"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068620268961206425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 12335,
+          "like_count": 123,
+          "quote_count": 3,
+          "reply_count": 38,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "抑郁曾短暂治好了我的易性症，那段时间不想女装，不想打扮，不考虑srs，连糖都不想吃了。但副作用是，自己也不想活了，每天都想着重开，觉得人生毫无意义。所以我现在觉得，不要在乎世俗的眼光，要学会取悦自己，只要能让自己快乐，爸妈怎么看都无所谓。如果不让爸妈觉得难受，那难受的就是你自己了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "简中，繁体懂一点，日語勉強,English下手…\n玩机（不太行），ボカロ，不建政，负能，mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 444,
+          "like_count": 7358,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 1259
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T23:40:50.000Z",
+        "description": "友跨不翻车！不雌堕！不吃糖！",
+        "id": "1878225515561332736",
+        "name": "大 E（友跨顺直男）",
+        "pinned_tweet_id": "1913519699222003943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972161890035085312/hmpyjcQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3509,
+          "following_count": 2451,
+          "like_count": 7084,
+          "listed_count": 6,
+          "media_count": 50,
+          "tweet_count": 2575
+        },
+        "url": "",
+        "username": "EScanlon95354",
+        "verified": false
+      }
+    ]
+  }
+}

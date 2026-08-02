@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2080098953853559252",
+    "created_at": "2026-07-23T01:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T02:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080098953853559252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2401396237",
+          "start": 3,
+          "username": "syorakuka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080098953853559252",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4096
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079895734023823516",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @syorakuka: 推しの顔、好きなんです\n推しの声が、好きなんです\n推しの歌声が、好きなんです\n推しの優しさが、好きなんです\n推しの笑った顔が、好きなんです\n推しのカッコよさが、好きなんです\n推しの可愛いらしさが、好きなんです\n推しの頑張っている姿が、好きなんです…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2080098953853559252",
+        "created_at": "2026-07-23T01:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T02:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080098953853559252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2401396237",
+              "start": 3,
+              "username": "syorakuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080098953853559252",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4096
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079895734023823516",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @syorakuka: 推しの顔、好きなんです\n推しの声が、好きなんです\n推しの歌声が、好きなんです\n推しの優しさが、好きなんです\n推しの笑った顔が、好きなんです\n推しのカッコよさが、好きなんです\n推しの可愛いらしさが、好きなんです\n推しの頑張っている姿が、好きなんです…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2401396237",
+        "conversation_id": "2079895734023823516",
+        "created_at": "2026-07-22T11:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T12:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079895734023823516"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079895734023823516",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1065,
+          "impression_count": 434199,
+          "like_count": 14570,
+          "quote_count": 456,
+          "reply_count": 54,
+          "retweet_count": 4096
+        },
+        "reply_settings": "everyone",
+        "text": "推しの顔、好きなんです\n推しの声が、好きなんです\n推しの歌声が、好きなんです\n推しの優しさが、好きなんです\n推しの笑った顔が、好きなんです\n推しのカッコよさが、好きなんです\n推しの可愛いらしさが、好きなんです\n推しの頑張っている姿が、好きなんです\n推しのすべてが、本当に、大好きなんです。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "简中，繁体懂一点，日語勉強,English下手…\n玩机（不太行），ボカロ，不建政，负能，mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 404,
+          "like_count": 5967,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 1004
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-21T11:02:56.000Z",
+        "description": "推し活（推愛）を筆と言葉で紡ぎます✨\n推しは、あなたを救う！☆書道家☆心理士\n\n無断転載・商用利用・二次加工禁止。\nフォロワーさんはID記載で保存/アイコン/ヘッダーOKです！\n\n推しを推すなら、無理せず、あなたのペースで、あなたらしく！\n推し活note　↓　↓\nhttps://t.co/tclD6wOjpK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "note.com/syorakuka",
+                "end": 155,
+                "expanded_url": "https://note.com/syorakuka",
+                "start": 132,
+                "url": "https://t.co/tclD6wOjpK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/syorakuka8",
+                "end": 23,
+                "expanded_url": "https://lit.link/syorakuka8",
+                "start": 0,
+                "url": "https://t.co/Z4YmJ3q1Z9"
+              }
+            ]
+          }
+        },
+        "id": "2401396237",
+        "location": "　☆埼玉県 ",
+        "name": "書楽遊人　しろ",
+        "pinned_tweet_id": "2071191882210664691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1429654461245399042/Jcrf8IFi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66466,
+          "following_count": 304,
+          "like_count": 172965,
+          "listed_count": 179,
+          "media_count": 6863,
+          "tweet_count": 39692
+        },
+        "url": "https://t.co/Z4YmJ3q1Z9",
+        "username": "syorakuka",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2081931769327366245",
+    "created_at": "2026-07-29T04:21:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T05:21:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082320660227916120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1841098665001435141",
+          "start": 0,
+          "username": "yinsuecci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082320660227916120",
+    "in_reply_to_user_id": "1841098665001435141",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081931769327366245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yinsuecci 突然感觉有点像泡沫经济？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2081931769327366245",
+        "created_at": "2026-07-29T04:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T05:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082320660227916120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1841098665001435141",
+              "start": 0,
+              "username": "yinsuecci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082320660227916120",
+        "in_reply_to_user_id": "1841098665001435141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081931769327366245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yinsuecci 突然感觉有点像泡沫经济？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841098665001435141",
+        "conversation_id": "2081931769327366245",
+        "created_at": "2026-07-28T02:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T03:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081931769327366245"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081931769327366245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今天有个合肥女孩子发信息给我说 \n这是她成年以来最好的夏天 \n这一年长鑫上市，她所在的酒店被摆满了庆功宴 \n她也听在长鑫工作的男朋友的话把所有存款都拿来买了长鑫的股票，一天就赚了了五年的薪水 \n今年工资一直在涨，男朋友拿着手里的长鑫股票做抵押贷款三十年买了附近的房子 \n昨天在合肥走路 \n大街上突然所有人停下手头的事  \n拥抱在一起欢呼\n她说很开心，有种拥抱黄金时代的感觉。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1857,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 49,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天有个合肥女孩子发信息给我说 \n这是她成年以来最好的夏天 \n这一年长鑫上市，她所在的酒店被摆满了庆功宴 \n她也听在长鑫工作的男朋友的话把所有存款都拿来买了长鑫的股票，一天就赚了了五年的薪水 \n今年工资一直在涨，男朋友拿着手里的长鑫股票做抵押贷款三十年买了附近的房子 \n昨天在合肥走路"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "简中，繁体懂一点，日語勉強,English下手…\n玩机（不太行），ボカロ，不建政，负能，mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 437,
+          "like_count": 7093,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1223
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-01T12:52:21.000Z",
+        "description": "Math ｜ Investment ｜ AI\n🎓 08男大，努力攒学费中\n⚡ 境外代充 / 数学竞赛，高中数理化授课\n💬 纯音乐 / 写文看文 / 投资心得\n📌 请称呼我：黄狗 / 小樱（En & Ch)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rw.udclass.top",
+                "end": 23,
+                "expanded_url": "https://rw.udclass.top",
+                "start": 0,
+                "url": "https://t.co/TaH2ekJBau"
+              }
+            ]
+          }
+        },
+        "id": "1841098665001435141",
+        "location": "Mars",
+        "name": "櫻序曦葉",
+        "pinned_tweet_id": "2067124610534150624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975161887664050176/xM8Jqs6-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 286,
+          "like_count": 103,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 1336
+        },
+        "url": "https://t.co/TaH2ekJBau",
+        "username": "yinsuecci",
+        "verified": true
+      }
+    ]
+  }
+}

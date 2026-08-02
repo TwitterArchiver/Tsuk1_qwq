@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2064189332299428113",
+    "created_at": "2026-06-09T22:23:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T23:23:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064473370155212981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1564465945480814592",
+          "start": 0,
+          "username": "person8883"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064473370155212981",
+    "in_reply_to_user_id": "1564465945480814592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064189332299428113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@person8883 现在每天晚上快冻死了……感冒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1427,
+        "media_key": "3_2064189329120051200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKV5Qh9aQAANjF_.jpg",
+        "width": 1000
+      },
+      {
+        "height": 800,
+        "media_key": "3_2064189329627574272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKV5Qj2acAA_M9T.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2064189332299428113",
+        "created_at": "2026-06-09T22:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T23:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064473370155212981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1564465945480814592",
+              "start": 0,
+              "username": "person8883"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064473370155212981",
+        "in_reply_to_user_id": "1564465945480814592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064189332299428113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@person8883 现在每天晚上快冻死了……感冒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064189329120051200",
+            "3_2064189329627574272"
+          ]
+        },
+        "author_id": "1564465945480814592",
+        "conversation_id": "2064189332299428113",
+        "created_at": "2026-06-09T03:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T04:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064189332299428113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LOjcN5YL8b",
+              "end": 194,
+              "expanded_url": "https://x.com/person8883/status/2064189332299428113/photo/1",
+              "media_key": "3_2064189329120051200",
+              "start": 171,
+              "url": "https://t.co/LOjcN5YL8b"
+            },
+            {
+              "display_url": "pic.x.com/LOjcN5YL8b",
+              "end": 194,
+              "expanded_url": "https://x.com/person8883/status/2064189332299428113/photo/1",
+              "media_key": "3_2064189329627574272",
+              "start": 171,
+              "url": "https://t.co/LOjcN5YL8b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064189332299428113",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {},
+          "text": "🇨🇳🇰🇷🇯🇵  중국인,일본인 친구들아 안녕! 😊 지금 너네 쪽 온도는 어때? 더위는 어떻게 피하고 있어?\n여기 한국은 진짜 너무 더워서 죽을 것 같아…🥵🥵\n지금 나는 에어컨 옆에서 천국을 느끼는중!😙😙\n그래도 에어컨을 발명해 준 윌리스 캐리어(Willis Carrier)에게 진심으로 감사하고 있어! 그분 덕분에 살고 있네!! 😂"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 60679,
+          "like_count": 820,
+          "quote_count": 10,
+          "reply_count": 595,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "🇨🇳🇰🇷🇯🇵  중국인,일본인 친구들아 안녕! 😊 지금 너네 쪽 온도는 어때? 더위는 어떻게 피하고 있어?\n여기 한국은 진짜 너무 더워서 죽을 것 같아…🥵🥵\n지금 나는 에어컨 옆에서 천국을 느끼는중!😙😙\n그래도 에어컨을 발명해 준 윌리스 캐리어(Willis Carrier)에게 진심으로 감사하고 있어! 그분 https://t.co/LOjcN5YL8b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, 日本語勉強,English下手…\n玩点机（不太行），听ボカロ，可能是xyn？（qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年的说…",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 380,
+          "like_count": 5212,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 843
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-30T04:12:12.000Z",
+        "description": "고양이 두 마리와 함께하는 집사 🐱| 🇰🇷.🌏😘😘\n수제트는 하이라이트에 | 트친환영❤️ |✨@Zynifp\n제가 생각하고 느끼는 것을 게재합니다.\n부계정 | @ppokkong225772\n루체=LUCE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 51,
+                "username": "Zynifp"
+              },
+              {
+                "end": 102,
+                "start": 87,
+                "username": "ppokkong225772"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "asked.kr/LUCEps",
+                "end": 23,
+                "expanded_url": "https://asked.kr/LUCEps",
+                "start": 0,
+                "url": "https://t.co/Ft1Xu5Erx0"
+              }
+            ]
+          }
+        },
+        "id": "1564465945480814592",
+        "location": "happy Island",
+        "name": "루체",
+        "pinned_tweet_id": "2060640393168109840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060968176100474880/nxH8f2wP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 902,
+          "like_count": 16888,
+          "listed_count": 7,
+          "media_count": 319,
+          "tweet_count": 3794
+        },
+        "url": "https://t.co/Ft1Xu5Erx0",
+        "username": "person8883",
+        "verified": true
+      }
+    ]
+  }
+}

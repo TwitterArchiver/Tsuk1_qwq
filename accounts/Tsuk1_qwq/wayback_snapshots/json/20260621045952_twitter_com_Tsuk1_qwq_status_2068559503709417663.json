@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2068341036666007627",
+    "created_at": "2026-06-21T04:59:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T05:59:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068559503709417663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1928705633135767600",
+          "start": 0,
+          "username": "Yg_Xyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068559503709417663",
+    "in_reply_to_user_id": "1928705633135767600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068341036666007627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yg_Xyn 抱抱喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3244,
+        "media_key": "3_2068341012167307264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQ5MSiasAABlJQ.jpg",
+        "width": 3975
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2068341036666007627",
+        "created_at": "2026-06-21T04:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T05:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068559503709417663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1928705633135767600",
+              "start": 0,
+              "username": "Yg_Xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068559503709417663",
+        "in_reply_to_user_id": "1928705633135767600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068341036666007627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yg_Xyn 抱抱喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068341012167307264"
+          ]
+        },
+        "author_id": "1928705633135767600",
+        "conversation_id": "2068341036666007627",
+        "created_at": "2026-06-20T14:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068341036666007627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D2I0riGvWG",
+              "end": 45,
+              "expanded_url": "https://x.com/Yg_Xyn/status/2068341036666007627/photo/1",
+              "media_key": "3_2068341012167307264",
+              "start": 22,
+              "url": "https://t.co/D2I0riGvWG"
+            },
+            {
+              "display_url": "x.com/Yg_Xyn/status/…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/Yg_Xyn/status/2067793121522712831",
+              "start": 46,
+              "url": "https://t.co/txxE9p6r6D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068341036666007627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2092,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067793121522712831",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "终于把这17张卷子给写完了✋😭✋，累趴我了 https://t.co/D2I0riGvWG https://t.co/txxE9p6r6D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, 日本語勉強,English下手…\n玩点机（不太行），听ボカロ，可能是xyn？（qwq\n……想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年的说…",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 385,
+          "like_count": 5491,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 891
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "|泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n| https://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 126,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 103,
+                "url": "https://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/prisetwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/prisetwinkle",
+                "start": 0,
+                "url": "https://t.co/l5lkW1bm2Y"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝑷𝒓𝒊𝒔𝒆𝑻𝒘𝒊𝒏𝒌𝒍𝒆 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2060638571346944111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065592411808788480/lhmgfvK5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1533,
+          "following_count": 8,
+          "like_count": 2264,
+          "listed_count": 5,
+          "media_count": 146,
+          "tweet_count": 885
+        },
+        "url": "https://t.co/l5lkW1bm2Y",
+        "username": "Yg_Xyn",
+        "verified": true
+      }
+    ]
+  }
+}

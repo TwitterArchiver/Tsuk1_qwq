@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2080100209531797572",
+    "created_at": "2026-07-23T01:18:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T02:18:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080100209531797572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2059475041126055936",
+          "start": 3,
+          "username": "Texiuszhichuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080100209531797572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078083235452698752",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Texiuszhichuan: 我们不要自残了，我们一起去过正常的生活吧，我们手握手一起看电影吧，我们闭着眼躺在床上拥抱吧，我们在马路上一起逛街吧，我们去药店买健胃消食片，一起去吃自助餐吧，我们傍晚洗完澡穿着睡衣手牵手在小区楼下散步吧我们手握手，一起在幸福的现实享受健康…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2080100209531797572",
+        "created_at": "2026-07-23T01:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T02:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080100209531797572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2059475041126055936",
+              "start": 3,
+              "username": "Texiuszhichuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080100209531797572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078083235452698752",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Texiuszhichuan: 我们不要自残了，我们一起去过正常的生活吧，我们手握手一起看电影吧，我们闭着眼躺在床上拥抱吧，我们在马路上一起逛街吧，我们去药店买健胃消食片，一起去吃自助餐吧，我们傍晚洗完澡穿着睡衣手牵手在小区楼下散步吧我们手握手，一起在幸福的现实享受健康…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2078083235452698752",
+        "created_at": "2026-07-17T11:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T12:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078083235452698752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xinqaqwww/stat…",
+              "end": 148,
+              "expanded_url": "https://twitter.com/xinqaqwww/status/2078082391969505632",
+              "start": 125,
+              "url": "https://t.co/RcJXJEr1s1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078083235452698752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 400,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078082391969505632",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们不要自残了，我们一起去过正常的生活吧，我们手握手一起看电影吧，我们闭着眼躺在床上拥抱吧，我们在马路上一起逛街吧，我们去药店买健胃消食片，一起去吃自助餐吧，我们傍晚洗完澡穿着睡衣手牵手在小区楼下散步吧我们手握手，一起在幸福的现实享受健康的生活吧。 https://t.co/RcJXJEr1s1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "简中，繁体懂一点，日語勉強,English下手…\n玩机（不太行），ボカロ，不建政，负能，mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 404,
+          "like_count": 6004,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 1007
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了不正常人，如满脑黄色废料）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "location": "在哪都行",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2079459514944983462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060374121587052544/q0nCI1WV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 383,
+          "like_count": 23466,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 1209
+        },
+        "url": "",
+        "username": "Texiuszhichuan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2064003021533814937",
+    "created_at": "2026-06-08T16:54:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T17:54:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064028214671143377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1945566578327916544",
+          "start": 0,
+          "username": "2477Sion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064028214671143377",
+    "in_reply_to_user_id": "1945566578327916544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064027719655104684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2477Sion 马上就能买了qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2064003021533814937",
+        "created_at": "2026-06-08T16:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T17:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064028214671143377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1945566578327916544",
+              "start": 0,
+              "username": "2477Sion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064028214671143377",
+        "in_reply_to_user_id": "1945566578327916544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064027719655104684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2477Sion 马上就能买了qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945566578327916544",
+        "conversation_id": "2064003021533814937",
+        "created_at": "2026-06-08T16:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T17:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064027719655104684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1793218407640481793",
+              "start": 0,
+              "username": "Tsuk1_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064027719655104684",
+        "in_reply_to_user_id": "1793218407640481793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064003021533814937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tsuk1_qwq 抗雄一天的价格比雌低多了……只是一整盒色贵，单买一板也够很久了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, 日本語勉強,English下手…\n玩点机（不太行），听ボカロ，可能是xyn？（qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年的说…",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 368,
+          "like_count": 4924,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 810
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-16T19:30:22.000Z",
+        "description": "MTF/INTJ 5w4/164cm 52kg/rle/hrt/弱社交/日常戴锁/键政负能勿扰/墙外主要涩涩相关但现实中比较正常所以不要觉得我很奇怪()",
+        "id": "1945566578327916544",
+        "name": "Sion_诗🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054726075603914752/wQCwC86s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1227,
+          "following_count": 5,
+          "like_count": 2,
+          "listed_count": 8,
+          "media_count": 34,
+          "tweet_count": 195
+        },
+        "username": "2477Sion",
+        "verified": false
+      }
+    ]
+  }
+}

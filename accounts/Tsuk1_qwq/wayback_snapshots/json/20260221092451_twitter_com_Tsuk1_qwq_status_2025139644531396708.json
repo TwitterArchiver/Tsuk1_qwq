@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2025139644531396708",
+    "created_at": "2026-02-21T09:24:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T10:24:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025139644531396708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1964265669362667520",
+          "start": 3,
+          "username": "zuiaiyiyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025139644531396708",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 106
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023226506932264993",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zuiaiyiyi: 最讨厌这种日子了，本来开开心心出门溜个弯吃个人，一看家家户户贴着红福红对联，还打鞭炮放爆竹，一下子就没心情了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2025139644531396708",
+        "created_at": "2026-02-21T09:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T10:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025139644531396708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964265669362667520",
+              "start": 3,
+              "username": "zuiaiyiyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025139644531396708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 106
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023226506932264993",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zuiaiyiyi: 最讨厌这种日子了，本来开开心心出门溜个弯吃个人，一看家家户户贴着红福红对联，还打鞭炮放爆竹，一下子就没心情了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964265669362667520",
+        "conversation_id": "2023226506932264993",
+        "created_at": "2026-02-16T02:42:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T03:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023226506932264993"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023226506932264993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 136,
+          "impression_count": 633011,
+          "like_count": 3075,
+          "quote_count": 18,
+          "reply_count": 339,
+          "retweet_count": 106
+        },
+        "reply_settings": "everyone",
+        "text": "最讨厌这种日子了，本来开开心心出门溜个弯吃个人，一看家家户户贴着红福红对联，还打鞭炮放爆竹，一下子就没心情了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, Japanese日本語（勉強してる）, English……\n玩点机（不太行），听ボカロ，想变成xyn……\n友跨，目前不含糖qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年QAQ）",
+        "id": "1793218407640481793",
+        "name": "Tsuki~ずっと夜に隠してる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 226,
+          "like_count": 1750,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 206
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T09:53:43.000Z",
+        "description": "止于推，只聊天。\n如果关注我，我很开心。\n回复看心情没礼貌我不回。\n只是一个会为五斗米折腰的资本主义受害者。\n标签纯引流，当真的那你这辈子有了。\n不加墙内联系方式，没有门槛，给一百万也不加vq\nx唯一亲友@羊奇羊https://t.co/uLfKv4ONH9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/cuteyangqi",
+                "end": 129,
+                "expanded_url": "https://x.com/cuteyangqi",
+                "start": 106,
+                "url": "https://t.co/uLfKv4ONH9"
+              }
+            ]
+          }
+        },
+        "id": "1964265669362667520",
+        "location": "亚特兰蒂斯",
+        "name": "熠熠舞",
+        "pinned_tweet_id": "2023337572500652104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004200904413925379/m3cu8rDM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14670,
+          "following_count": 9,
+          "like_count": 12,
+          "listed_count": 31,
+          "media_count": 134,
+          "tweet_count": 645
+        },
+        "username": "zuiaiyiyi",
+        "verified": false
+      }
+    ]
+  }
+}

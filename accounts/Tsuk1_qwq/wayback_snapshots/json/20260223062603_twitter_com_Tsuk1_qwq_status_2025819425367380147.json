@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2025528097131643108",
+    "created_at": "2026-02-23T06:26:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T07:26:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025819425367380147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1989517742127652866",
+          "start": 0,
+          "username": "AGNK_553"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025819425367380147",
+    "in_reply_to_user_id": "1989517742127652866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025528097131643108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AGNK_553 确实呢……\n还有短视频什么的，是因为大家都空虚吧。\n不需要热爱活力什么的，就随便看看，推什么我就看什么吧\n……反正，……在生活的其他地方也没有选择权。\n（哭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2025528088898256897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBwfEK1bQAEuF7x.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2025528097131643108",
+        "created_at": "2026-02-23T06:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T07:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025819425367380147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1989517742127652866",
+              "start": 0,
+              "username": "AGNK_553"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025819425367380147",
+        "in_reply_to_user_id": "1989517742127652866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025528097131643108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGNK_553 确实呢……\n还有短视频什么的，是因为大家都空虚吧。\n不需要热爱活力什么的，就随便看看，推什么我就看什么吧\n……反正，……在生活的其他地方也没有选择权。\n（哭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025528088898256897"
+          ]
+        },
+        "author_id": "1989517742127652866",
+        "conversation_id": "2025528097131643108",
+        "created_at": "2026-02-22T11:08:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T12:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025528097131643108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RLXj7zJ9KU",
+              "end": 155,
+              "expanded_url": "https://x.com/AGNK_553/status/2025528097131643108/photo/1",
+              "media_key": "3_2025528088898256897",
+              "start": 132,
+              "url": "https://t.co/RLXj7zJ9KU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025528097131643108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吗的中国人是人吗\n十六七岁的年纪 没有爱好没有理想没有追求\n就他吗刷那个b题 就在那里卷\n卷完了有点空就刷那短视频\n但凡有点自我意识都受不了这样搞好吗\n真的是我的问题吗\n我就他吗不该活着\n别他吗跟我提精英教育\n不卷的中国人是很多 那他们能养活自己吗\n整个一个笑话 https://t.co/RLXj7zJ9KU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, Japanese日本語（勉強してる）, English……\n玩点机（不太行），听ボカロ，想变成xyn……\n友跨，目前不含糖qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年QAQ）",
+        "id": "1793218407640481793",
+        "name": "Tsuki~ずっと夜に隠してる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 249,
+          "like_count": 2157,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 256
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T02:17:39.000Z",
+        "description": "重生喵～\n一般路过 可以叫我553\n09 MTX / ADHD / PhOer\n简繁中/EN ok\n求聊天什么都行\n没回fo可能没看到 可以评论喵\n看黄男&粉红勿扰\n简介编辑中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/user/317vzs3dk…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/user/317vzs3dkqdzhvxdjzsfi66wwp2i",
+                "start": 0,
+                "url": "https://t.co/QS5wTtdK10"
+              }
+            ]
+          }
+        },
+        "id": "1989517742127652866",
+        "location": "A&B整合包开荒来人 私信   ⬇️Hardcore歌单01",
+        "name": "AG553🏳️‍⚧️(互fo喵)",
+        "pinned_tweet_id": "2025424038810845559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009425649296134149/7XVRu4Xs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 1173,
+          "like_count": 17829,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1766
+        },
+        "url": "https://t.co/QS5wTtdK10",
+        "username": "AGNK_553",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2025898697775890448",
+    "created_at": "2026-02-23T11:41:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T12:41:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025898697775890448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "821614513736781825",
+          "start": 3,
+          "username": "14ManGo1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/jHNqOSZQ",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/jHNqOSZQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025898697775890448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025576808608080067",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @14ManGo1: 众所周知，女性是XX染色体男性是XY染色体。 \nY比X少一节染色体,第二个染色体只来自于男方 \nXY=4:3=4女3男 \nXX=4:4=4女4男 \n所以得出结论，男生的女性成分更多！男生才是真正的女生！！！ https://t.co/jHNqOSZQ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2025576799363858432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxLXfdbAAAKBvJ.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2025898697775890448",
+        "created_at": "2026-02-23T11:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T12:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025898697775890448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "821614513736781825",
+              "start": 3,
+              "username": "14ManGo1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/jHNqOSZQ",
+              "end": 139,
+              "start": 118,
+              "url": "https://t.co/jHNqOSZQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025898697775890448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025576808608080067",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @14ManGo1: 众所周知，女性是XX染色体男性是XY染色体。 \nY比X少一节染色体,第二个染色体只来自于男方 \nXY=4:3=4女3男 \nXX=4:4=4女4男 \n所以得出结论，男生的女性成分更多！男生才是真正的女生！！！ https://t.co/jHNqOSZQ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025576799363858432"
+          ]
+        },
+        "author_id": "821614513736781825",
+        "conversation_id": "2025576808608080067",
+        "created_at": "2026-02-22T14:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T15:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025576808608080067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jHNqOSZQDI",
+              "end": 127,
+              "expanded_url": "https://x.com/14ManGo1/status/2025576808608080067/photo/1",
+              "media_key": "3_2025576799363858432",
+              "start": 104,
+              "url": "https://t.co/jHNqOSZQDI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025576808608080067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 16176,
+          "like_count": 487,
+          "quote_count": 1,
+          "reply_count": 28,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "众所周知，女性是XX染色体男性是XY染色体。 \nY比X少一节染色体,第二个染色体只来自于男方 \nXY=4:3=4女3男 \nXX=4:4=4女4男 \n所以得出结论，男生的女性成分更多！男生才是真正的女生！！！ https://t.co/jHNqOSZQDI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, Japanese日本語（勉強してる）, English……\n玩点机（不太行），听ボカロ，想变成xyn……\n友跨，目前不含糖qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年QAQ）",
+        "id": "1793218407640481793",
+        "name": "Tsuki~ずっと夜に隠してる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 256,
+          "like_count": 2310,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 270
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-18T07:05:39.000Z",
+        "description": "MTF 底层画师 车车人 bilibili底层虚拟主播",
+        "id": "821614513736781825",
+        "location": "中华人民共和国",
+        "name": "芒伊木M-emo",
+        "pinned_tweet_id": "1581220939135479814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004772707540606976/yHcgxQAg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33125,
+          "following_count": 127,
+          "like_count": 291,
+          "listed_count": 109,
+          "media_count": 164,
+          "tweet_count": 362
+        },
+        "username": "14ManGo1",
+        "verified": false
+      }
+    ]
+  }
+}

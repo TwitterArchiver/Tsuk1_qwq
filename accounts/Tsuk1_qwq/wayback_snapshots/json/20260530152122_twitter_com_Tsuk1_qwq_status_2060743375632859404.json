@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060725430617812996"
+      ],
+      "media_source_tweet_id": [
+        "2060725440763895825"
+      ]
+    },
+    "author_id": "1793218407640481793",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2060743375632859404",
+    "created_at": "2026-05-30T15:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T16:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060743375632859404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2060632417153503234",
+          "start": 3,
+          "username": "AsahinaShikure"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y0VybkhLCU",
+          "end": 55,
+          "expanded_url": "https://x.com/AsahinaShikure/status/2060725440763895825/photo/1",
+          "media_key": "3_2060725430617812996",
+          "start": 32,
+          "url": "https://t.co/Y0VybkhLCU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060743375632859404",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060725440763895825",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AsahinaShikure: 至今无人能解此数学题。 https://t.co/Y0VybkhLCU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1282,
+        "media_key": "3_2060725430617812996",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkq3GeWsAQj687.jpg",
+        "width": 956
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060725430617812996"
+          ],
+          "media_source_tweet_id": [
+            "2060725440763895825"
+          ]
+        },
+        "author_id": "1793218407640481793",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060743375632859404",
+        "created_at": "2026-05-30T15:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060743375632859404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2060632417153503234",
+              "start": 3,
+              "username": "AsahinaShikure"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y0VybkhLCU",
+              "end": 55,
+              "expanded_url": "https://x.com/AsahinaShikure/status/2060725440763895825/photo/1",
+              "media_key": "3_2060725430617812996",
+              "start": 32,
+              "url": "https://t.co/Y0VybkhLCU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060743375632859404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060725440763895825",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AsahinaShikure: 至今无人能解此数学题。 https://t.co/Y0VybkhLCU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060725430617812996"
+          ]
+        },
+        "author_id": "2060632417153503234",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060725440763895825",
+        "created_at": "2026-05-30T14:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T15:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060725440763895825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y0VybkhLCU",
+              "end": 35,
+              "expanded_url": "https://x.com/AsahinaShikure/status/2060725440763895825/photo/1",
+              "media_key": "3_2060725430617812996",
+              "start": 12,
+              "url": "https://t.co/Y0VybkhLCU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060725440763895825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "至今无人能解此数学题。 https://t.co/Y0VybkhLCU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, 日本語（勉強してる, English…\n玩点机（不太行），听ボカロ，想变成xyn…\n友跨，目前不含糖qwq（？）\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年的说…",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 349,
+          "like_count": 4212,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 718
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T08:01:21.000Z",
+        "description": "新加坡🇸🇬中三学生/14岁/MtF🏳️‍⚧️/尚未HRT/世界计划/mfy激推/不od/可键政/社会自由主义/新号寻fo中/🇹🇼🇨🇳🇺🇸🇯🇵🇫🇷均可/格里芬联邦共和国总统/政府官网https://t.co/o8LDTBhpgz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gov-urg.net",
+                "end": 113,
+                "expanded_url": "http://gov-urg.net",
+                "start": 90,
+                "url": "https://t.co/o8LDTBhpgz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov-urg.net",
+                "end": 23,
+                "expanded_url": "https://www.gov-urg.net/",
+                "start": 0,
+                "url": "https://t.co/RUiH6Cf04O"
+              }
+            ]
+          }
+        },
+        "id": "2060632417153503234",
+        "location": "Central Region, Singapore🇸🇬",
+        "name": "朝比奈丶志暮 Asahina Shikure🏳️‍⚧️",
+        "pinned_tweet_id": "2060643875161530866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060634013363306496/Hl6bmtdb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 137,
+          "like_count": 114,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 33
+        },
+        "url": "https://t.co/RUiH6Cf04O",
+        "username": "AsahinaShikure",
+        "verified": false
+      }
+    ]
+  }
+}

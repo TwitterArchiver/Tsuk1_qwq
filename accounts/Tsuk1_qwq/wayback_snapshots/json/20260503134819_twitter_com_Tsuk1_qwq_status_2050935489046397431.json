@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050935486731206657"
+      ]
+    },
+    "author_id": "1793218407640481793",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "pixiv",
+          "id": "1038127846168780800",
+          "name": "pixiv (ピクシブ)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "pixiv",
+          "id": "1038127846168780800",
+          "name": "pixiv (ピクシブ)"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2050935489046397431",
+    "created_at": "2026-05-03T13:48:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T14:48:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050935489046397431"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 22,
+          "tag": "pixiv"
+        }
+      ],
+      "urls": [
+        {
+          "description": "知り合いのところのサークルカット用に描いたドロイド君とツインテールの女の子。せっかくなので色で遊んでみました。個人的には白い子がお気に入り。ドロイド君は緑のままです。",
+          "display_url": "pixiv.net/artworks/18358…",
+          "end": 52,
+          "expanded_url": "https://www.pixiv.net/artworks/18358595",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2050935506851258368/nGGFqGRV?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2050935506851258368/nGGFqGRV?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 29,
+          "status": 200,
+          "title": "ドロイドくん",
+          "unwound_url": "https://www.pixiv.net/artworks/18358595",
+          "url": "https://t.co/qKqc8AZtqq"
+        },
+        {
+          "display_url": "pic.x.com/sRCLpLF3wn",
+          "end": 76,
+          "expanded_url": "https://x.com/Tsuk1_qwq/status/2050935489046397431/photo/1",
+          "media_key": "3_2050935486731206657",
+          "start": 53,
+          "url": "https://t.co/sRCLpLF3wn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050935489046397431",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看上去不错！\nドロイドくん | うすめ四郎 #pixiv https://t.co/qKqc8AZtqq https://t.co/sRCLpLF3wn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 903,
+        "media_key": "3_2050935486731206657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZi9XfbQAExv0H.jpg",
+        "width": 635
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050935486731206657"
+          ]
+        },
+        "author_id": "1793218407640481793",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "pixiv",
+              "id": "1038127846168780800",
+              "name": "pixiv (ピクシブ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "pixiv",
+              "id": "1038127846168780800",
+              "name": "pixiv (ピクシブ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2050935489046397431",
+        "created_at": "2026-05-03T13:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T14:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050935489046397431"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 22,
+              "tag": "pixiv"
+            }
+          ],
+          "urls": [
+            {
+              "description": "知り合いのところのサークルカット用に描いたドロイド君とツインテールの女の子。せっかくなので色で遊んでみました。個人的には白い子がお気に入り。ドロイド君は緑のままです。",
+              "display_url": "pixiv.net/artworks/18358…",
+              "end": 52,
+              "expanded_url": "https://www.pixiv.net/artworks/18358595",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2050935506851258368/nGGFqGRV?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2050935506851258368/nGGFqGRV?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 29,
+              "status": 200,
+              "title": "ドロイドくん",
+              "unwound_url": "https://www.pixiv.net/artworks/18358595",
+              "url": "https://t.co/qKqc8AZtqq"
+            },
+            {
+              "display_url": "pic.x.com/sRCLpLF3wn",
+              "end": 76,
+              "expanded_url": "https://x.com/Tsuk1_qwq/status/2050935489046397431/photo/1",
+              "media_key": "3_2050935486731206657",
+              "start": 53,
+              "url": "https://t.co/sRCLpLF3wn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050935489046397431",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看上去不错！\nドロイドくん | うすめ四郎 #pixiv https://t.co/qKqc8AZtqq https://t.co/sRCLpLF3wn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, Japanese日本語（勉強してる）, English……\n玩点机（不太行），听ボカロ，想变成xyn……\n友跨，目前不含糖qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年QAQ）",
+        "id": "1793218407640481793",
+        "name": "tsuki_夜隠し",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 319,
+          "like_count": 3792,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 600
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

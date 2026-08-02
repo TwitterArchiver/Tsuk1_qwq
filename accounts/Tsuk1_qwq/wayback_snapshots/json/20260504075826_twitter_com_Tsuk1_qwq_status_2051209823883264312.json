@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2051209823883264312",
+    "created_at": "2026-05-04T07:58:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T08:58:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051209823883264312"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051209823883264312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "气死我了。家里老古董台式坏了，之前拆开看查看情况，结果装回去死活不开机。\n今天想玩玩steam游戏又试了一下还是没好，线什么的应该都插对了，显卡风扇机箱都亮但是显示器死活没信号，键盘指示灯也要死不活，那块电池也扣不下来也没找到短接线，老古董主板型号我也不清楚也没有debug灯，烦。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2051209823883264312",
+        "created_at": "2026-05-04T07:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T08:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051209823883264312"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051209823883264312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "气死我了。家里老古董台式坏了，之前拆开看查看情况，结果装回去死活不开机。\n今天想玩玩steam游戏又试了一下还是没好，线什么的应该都插对了，显卡风扇机箱都亮但是显示器死活没信号，键盘指示灯也要死不活，那块电池也扣不下来也没找到短接线，老古董主板型号我也不清楚也没有debug灯，烦。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, 日本語（勉強してる, English…\n玩点机（不太行），听ボカロ，想变成xyn…\n友跨，目前不含糖qwq（？）\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年的说…",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 323,
+          "like_count": 3852,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 618
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

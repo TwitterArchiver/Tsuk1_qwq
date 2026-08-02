@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2080563634972090689",
+    "created_at": "2026-07-24T23:17:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T00:17:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080794631969845630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1945070018905145344",
+          "start": 0,
+          "username": "DianaAnya0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080794631969845630",
+    "in_reply_to_user_id": "1945070018905145344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080563634972090689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DianaAnya0 对不起喵……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2080563634972090689",
+        "created_at": "2026-07-24T23:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T00:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080794631969845630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1945070018905145344",
+              "start": 0,
+              "username": "DianaAnya0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080794631969845630",
+        "in_reply_to_user_id": "1945070018905145344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080563634972090689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianaAnya0 对不起喵……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945070018905145344",
+        "conversation_id": "2080563634972090689",
+        "created_at": "2026-07-24T08:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T09:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080563634972090689"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080563634972090689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9754,
+          "like_count": 83,
+          "quote_count": 2,
+          "reply_count": 28,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "说白了药娘这个圈子就是狗咬狗，烂透了\n双标、引战、歧视、对立是有的，优越感更是莫名其妙的😆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "简中，繁体懂一点，日語勉強,English下手…\n玩机（不太行），ボカロ，不建政，负能，mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 411,
+          "like_count": 6261,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 1058
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T10:37:08.000Z",
+        "description": "砂糖橘小猫娘 // 友好(欢迎扩列) // 会发些碎碎念.日常和绳❤️ //  低音吉他🎸 // (隐退的..绳师？) //住在北京 // 想和可爱的男孩子交朋友❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SatouNya",
+                "end": 23,
+                "expanded_url": "https://t.me/SatouNya",
+                "start": 0,
+                "url": "https://t.co/cpFUZonbzW"
+              }
+            ]
+          }
+        },
+        "id": "1945070018905145344",
+        "location": "Beijing",
+        "name": "砂糖桔",
+        "pinned_tweet_id": "2072013583832260729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045038326084939776/jocz5Vv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9559,
+          "following_count": 147,
+          "like_count": 4860,
+          "listed_count": 14,
+          "media_count": 361,
+          "tweet_count": 1102
+        },
+        "url": "https://t.co/cpFUZonbzW",
+        "username": "DianaAnya0",
+        "verified": true
+      }
+    ]
+  }
+}

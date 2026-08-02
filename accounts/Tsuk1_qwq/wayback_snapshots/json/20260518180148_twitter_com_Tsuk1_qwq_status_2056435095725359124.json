@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056063925486055425"
+      ],
+      "media_source_tweet_id": [
+        "2056063936928030808"
+      ]
+    },
+    "author_id": "1793218407640481793",
+    "conversation_id": "2056435095725359124",
+    "created_at": "2026-05-18T18:01:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T19:01:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056435095725359124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1523294065063735298",
+          "start": 3,
+          "username": "Daryl336"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cX4OSTTSXa",
+          "end": 44,
+          "expanded_url": "https://x.com/Daryl336/status/2056063936928030808/photo/1",
+          "media_key": "3_2056063925486055425",
+          "start": 21,
+          "url": "https://t.co/cX4OSTTSXa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056435095725359124",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056063936928030808",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Daryl336: 🤢🤢🤢🤮🤮🤮 https://t.co/cX4OSTTSXa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2056063925486055425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIibPyoXcAE-_0y.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056063925486055425"
+          ],
+          "media_source_tweet_id": [
+            "2056063936928030808"
+          ]
+        },
+        "author_id": "1793218407640481793",
+        "conversation_id": "2056435095725359124",
+        "created_at": "2026-05-18T18:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T19:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056435095725359124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1523294065063735298",
+              "start": 3,
+              "username": "Daryl336"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cX4OSTTSXa",
+              "end": 44,
+              "expanded_url": "https://x.com/Daryl336/status/2056063936928030808/photo/1",
+              "media_key": "3_2056063925486055425",
+              "start": 21,
+              "url": "https://t.co/cX4OSTTSXa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056435095725359124",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056063936928030808",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Daryl336: 🤢🤢🤢🤮🤮🤮 https://t.co/cX4OSTTSXa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056063925486055425"
+          ]
+        },
+        "author_id": "1523294065063735298",
+        "conversation_id": "2056063936928030808",
+        "created_at": "2026-05-17T17:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T18:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056063936928030808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cX4OSTTSXa",
+              "end": 30,
+              "expanded_url": "https://x.com/Daryl336/status/2056063936928030808/photo/1",
+              "media_key": "3_2056063925486055425",
+              "start": 7,
+              "url": "https://t.co/cX4OSTTSXa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056063936928030808",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 10410,
+          "like_count": 478,
+          "quote_count": 8,
+          "reply_count": 20,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "🤢🤢🤢🤮🤮🤮 https://t.co/cX4OSTTSXa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, 日本語（勉強してる, English…\n玩点机（不太行），听ボカロ，想变成xyn…\n友跨，目前不含糖qwq（？）\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年的说…",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 319,
+          "like_count": 3949,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 665
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-08T13:29:58.000Z",
+        "description": "全网最尊重东雪莲博主。星野酱：@777Nanami_Cute ｜莲宝：@AzumaSeren",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "777Nanami_Cute"
+              },
+              {
+                "end": 46,
+                "start": 35,
+                "username": "AzumaSeren"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/azumaseren",
+                "end": 23,
+                "expanded_url": "https://lit.link/azumaseren",
+                "start": 0,
+                "url": "https://t.co/2VU2VE9tFl"
+              }
+            ]
+          }
+        },
+        "id": "1523294065063735298",
+        "location": "二次元世界",
+        "name": "東京の雪蓮い⛩️",
+        "pinned_tweet_id": "1795925402092785966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055311014925684736/8DfYFrNg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4387,
+          "following_count": 2963,
+          "like_count": 55117,
+          "listed_count": 21,
+          "media_count": 822,
+          "tweet_count": 4416
+        },
+        "url": "https://t.co/2VU2VE9tFl",
+        "username": "Daryl336",
+        "verified": false
+      }
+    ]
+  }
+}

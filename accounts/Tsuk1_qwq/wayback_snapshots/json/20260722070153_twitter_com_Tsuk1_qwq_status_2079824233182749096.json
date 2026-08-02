@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079824223644811264"
+      ]
+    },
+    "author_id": "1793218407640481793",
+    "conversation_id": "2079801989341594003",
+    "created_at": "2026-07-22T07:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T08:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079824233182749096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1778293240132759552",
+          "start": 0,
+          "username": "Yuanrpa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3I96M5t8TZ",
+          "end": 84,
+          "expanded_url": "https://x.com/Tsuk1_qwq/status/2079824233182749096/photo/1",
+          "media_key": "3_2079824223644811264",
+          "start": 61,
+          "url": "https://t.co/3I96M5t8TZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079824233182749096",
+    "in_reply_to_user_id": "1778293240132759552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079813530581393495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuanrpa 是萤火虫资源站里的喵\n看了一下是恢复包，没弄过没经验，就乱搞，无限重启……然后fastboot救砖…… https://t.co/3I96M5t8TZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079824223644811264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN0FHK2aAAAIYWW.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079824223644811264"
+          ]
+        },
+        "author_id": "1793218407640481793",
+        "conversation_id": "2079801989341594003",
+        "created_at": "2026-07-22T07:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T08:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079824233182749096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1778293240132759552",
+              "start": 0,
+              "username": "Yuanrpa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3I96M5t8TZ",
+              "end": 84,
+              "expanded_url": "https://x.com/Tsuk1_qwq/status/2079824233182749096/photo/1",
+              "media_key": "3_2079824223644811264",
+              "start": 61,
+              "url": "https://t.co/3I96M5t8TZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079824233182749096",
+        "in_reply_to_user_id": "1778293240132759552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079813530581393495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuanrpa 是萤火虫资源站里的喵\n看了一下是恢复包，没弄过没经验，就乱搞，无限重启……然后fastboot救砖…… https://t.co/3I96M5t8TZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778293240132759552",
+        "conversation_id": "2079801989341594003",
+        "created_at": "2026-07-22T06:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T07:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079813530581393495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1793218407640481793",
+              "start": 0,
+              "username": "Tsuk1_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079813530581393495",
+        "in_reply_to_user_id": "1793218407640481793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079801989341594003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tsuk1_qwq 鸿蒙4.3吗？那个是2025年初的包吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "简中，繁体懂一点，日語勉強,English下手…\n玩机（不太行），ボカロ，不建政，负能，mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 389,
+          "like_count": 5765,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 968
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-11T05:27:02.000Z",
+        "description": "芋圆圆🥺😭🥵😍😋😡😈 发的东西虽然有点煌，但是墙内也能过审，所以不算😈/讨厌：赌，毒，鉴政，伤害，od/",
+        "id": "1778293240132759552",
+        "location": "福建",
+        "name": "芋圆圆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004816052107333632/JyJWS9kB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 469,
+          "like_count": 8385,
+          "listed_count": 1,
+          "media_count": 208,
+          "tweet_count": 3972
+        },
+        "url": "",
+        "username": "Yuanrpa",
+        "verified": false
+      }
+    ]
+  }
+}

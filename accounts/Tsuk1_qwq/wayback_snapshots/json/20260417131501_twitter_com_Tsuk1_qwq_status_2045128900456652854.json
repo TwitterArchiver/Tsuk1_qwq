@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2044805644050714715",
+    "created_at": "2026-04-17T13:15:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T14:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045128900456652854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1753990410832379904",
+          "start": 0,
+          "username": "DRbitcoin36"
+        },
+        {
+          "end": 24,
+          "id": "2022153081031733252",
+          "start": 13,
+          "username": "ax09s84751"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045128900456652854",
+    "in_reply_to_user_id": "1753990410832379904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044805644050714715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DRbitcoin36 @ax09s84751 喵喵喵？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2044805644050714715",
+        "created_at": "2026-04-17T13:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T14:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045128900456652854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1753990410832379904",
+              "start": 0,
+              "username": "DRbitcoin36"
+            },
+            {
+              "end": 24,
+              "id": "2022153081031733252",
+              "start": 13,
+              "username": "ax09s84751"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045128900456652854",
+        "in_reply_to_user_id": "1753990410832379904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044805644050714715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DRbitcoin36 @ax09s84751 喵喵喵？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753990410832379904",
+        "conversation_id": "2044805644050714715",
+        "created_at": "2026-04-16T15:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T16:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044805644050714715"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044805644050714715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 157624,
+          "like_count": 620,
+          "quote_count": 5,
+          "reply_count": 484,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "大家的 VPN 全炸了吗？？\n怎么感觉中文区只剩几位博主在发推\n\n还能刷推的中国人还有几个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, Japanese日本語（勉強してる）, English……\n玩点机（不太行），听ボカロ，想变成xyn……\n友跨，目前不含糖qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年QAQ）",
+        "id": "1793218407640481793",
+        "name": "Tsuki~ずっと夜に隠してる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 284,
+          "like_count": 2952,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 433
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-04T03:54:42.000Z",
+        "description": "数据分析 + 数据可视化博主 | 自媒体打工人 + 00 后大学生｜顶级笨蛋钱｜推特当作自己的炒币日记 ｜玩 Meme 就用：https://t.co/gYZuqs7P96",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/AveSniperBot?s…",
+                "end": 86,
+                "expanded_url": "https://t.me/AveSniperBot?start=ref_6641008601",
+                "start": 63,
+                "url": "https://t.co/gYZuqs7P96"
+              }
+            ]
+          }
+        },
+        "id": "1753990410832379904",
+        "location": "singapore",
+        "name": "比特欧 Elvin",
+        "pinned_tweet_id": "1983500437874708833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871549554279194624/SLDJsDr2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26267,
+          "following_count": 2895,
+          "like_count": 36056,
+          "listed_count": 288,
+          "media_count": 1325,
+          "tweet_count": 25400
+        },
+        "username": "DRbitcoin36",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2044423846170877962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 902,
+          "like_count": 594,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 708
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      }
+    ]
+  }
+}

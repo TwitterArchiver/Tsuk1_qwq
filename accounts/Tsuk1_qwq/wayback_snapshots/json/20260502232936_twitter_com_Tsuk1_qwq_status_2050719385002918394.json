@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2050719385002918394",
+    "created_at": "2026-05-02T23:29:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T00:29:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050719385002918394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2044896801497509888",
+          "start": 3,
+          "username": "hasmiku520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050719385002918394",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049999940127216096",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hasmiku520: end了那就只有Fri了）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2050719385002918394",
+        "created_at": "2026-05-02T23:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T00:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050719385002918394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2044896801497509888",
+              "start": 3,
+              "username": "hasmiku520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050719385002918394",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049999940127216096",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hasmiku520: end了那就只有Fri了）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044896801497509888",
+        "conversation_id": "2049999940127216096",
+        "created_at": "2026-04-30T23:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T00:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049999940127216096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HatsuneMiku/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/HatsuneMiku/status/2049893097245446645",
+              "start": 14,
+              "url": "https://t.co/OrSijfUMC6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049999940127216096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 160,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049893097245446645",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "end了那就只有Fri了） https://t.co/OrSijfUMC6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, Japanese日本語（勉強してる）, English……\n玩点机（不太行），听ボカロ，想变成xyn……\n友跨，目前不含糖qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年QAQ）",
+        "id": "1793218407640481793",
+        "name": "tsuki_夜隠し",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 307,
+          "like_count": 3656,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 562
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T21:53:12.000Z",
+        "description": "感谢关注喵！|2009.12.22|浙江 温州|信竞小菜喵\n高一物化技desu|关注滴咱都会回关desuwa！|家长反对党\n探索X中喵w|《云律茶馆》游戏制作喵|割手手喵w\n菜菜音游入｜ＰＪＳＫ｜hrt 26.4.21|无证含糖\n不讨论政治喵~🇨🇳🇹🇼一家亲啦～各具优势，和平相处！\n没回应该是被限制发言惹喵ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hiroawa.top",
+                "end": 23,
+                "expanded_url": "https://hiroawa.top/",
+                "start": 0,
+                "url": "https://t.co/ZnEypkfQdT"
+              }
+            ]
+          }
+        },
+        "id": "2044896801497509888",
+        "location": "浙江省",
+        "name": "Puuki🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2050332288106610761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044897193967190016/SOBDwJyV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 342,
+          "like_count": 1468,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 589
+        },
+        "url": "https://t.co/ZnEypkfQdT",
+        "username": "hasmiku520",
+        "verified": false
+      }
+    ]
+  }
+}

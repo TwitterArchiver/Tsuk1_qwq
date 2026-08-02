@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2063977712029671592",
+    "created_at": "2026-06-08T23:01:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T00:01:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064120612331958490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1585829298405244928",
+          "start": 0,
+          "username": "itaru33776"
+        },
+        {
+          "end": 24,
+          "id": "170991222",
+          "start": 12,
+          "username": "wonaishenye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064120612331958490",
+    "in_reply_to_user_id": "1585829298405244928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064114380036563168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itaru33776 @wonaishenye 手写的话，现在写中文的“对”和“步”我都会加一点，变成“対”和“歩”……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2063977712029671592",
+        "created_at": "2026-06-08T23:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T00:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064120612331958490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1585829298405244928",
+              "start": 0,
+              "username": "itaru33776"
+            },
+            {
+              "end": 24,
+              "id": "170991222",
+              "start": 12,
+              "username": "wonaishenye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064120612331958490",
+        "in_reply_to_user_id": "1585829298405244928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064114380036563168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itaru33776 @wonaishenye 手写的话，现在写中文的“对”和“步”我都会加一点，变成“対”和“歩”……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585829298405244928",
+        "conversation_id": "2063977712029671592",
+        "created_at": "2026-06-08T22:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T23:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064114380036563168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "170991222",
+              "start": 0,
+              "username": "wonaishenye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064114380036563168",
+        "in_reply_to_user_id": "170991222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063977712029671592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wonaishenye 如果是手寫的話就沒這個問題了，我大學日語作文課沒用過電腦😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, 日本語勉強,English下手…\n玩点机（不太行），听ボカロ，可能是xyn？（qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年的说…",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 369,
+          "like_count": 4963,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 814
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-28T03:02:42.000Z",
+        "description": "願己能溫柔對待他人，也願能被他人溫柔對待；社会常識という枠組みに囚われないため、自分なりの生きがいを探し、人生の果てまで。",
+        "id": "1585829298405244928",
+        "location": "Tainan City, Taiwan",
+        "name": "いたる🌠",
+        "pinned_tweet_id": "2012695189228494913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794618833581551616/ITtskzDy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 724,
+          "like_count": 7399,
+          "listed_count": 5,
+          "media_count": 602,
+          "tweet_count": 6348
+        },
+        "username": "itaru33776",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-26T08:33:07.000Z",
+        "description": "提供线上的私教日语课以及文字修改，翻译文章的服务（常见问题：https://t.co/J6OzPXZDnL） / 学习推 / 学汉语10多年的日本人 / 语言学博gou士shi / 谢绝交友 / 有十多年的教学经验 /",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "note.youdao.com/s/Rkcc6omJ",
+                "end": 53,
+                "expanded_url": "http://note.youdao.com/s/Rkcc6omJ",
+                "start": 30,
+                "url": "https://t.co/J6OzPXZDnL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.youdao.com/s/Rkcc6omJ",
+                "end": 23,
+                "expanded_url": "https://note.youdao.com/s/Rkcc6omJ",
+                "start": 0,
+                "url": "https://t.co/XEeIIjUsmt"
+              }
+            ]
+          }
+        },
+        "id": "170991222",
+        "name": "神野先生（日语&汉语私教）",
+        "pinned_tweet_id": "1150445391709532163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1426935463047094274/lqAlnY2w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16527,
+          "following_count": 1,
+          "like_count": 340,
+          "listed_count": 137,
+          "media_count": 3488,
+          "tweet_count": 21464
+        },
+        "url": "https://t.co/XEeIIjUsmt",
+        "username": "wonaishenye",
+        "verified": true
+      }
+    ]
+  }
+}

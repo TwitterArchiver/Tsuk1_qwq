@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2063581226246828438",
+    "created_at": "2026-06-07T11:17:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T12:17:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063581226246828438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1735728536827334657",
+          "start": 3,
+          "username": "SakurasakaRiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063581226246828438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063316093322817767",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SakurasakaRiko: 无聊的时候\n*打开QQ\n无人在意你\n*关闭QQ\n*打开X\n无人在意你\n*起飞一下\n*关闭X\n*打开QQ\n*关闭QQ\n*打开X\n*关闭X\n*打开B站\n*关闭B站\n*打开QQ\n*关闭QQ\n*打开X\n*关闭X\n*打开QQ\n*关闭QQ\n*打开X…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2063581226246828438",
+        "created_at": "2026-06-07T11:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063581226246828438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1735728536827334657",
+              "start": 3,
+              "username": "SakurasakaRiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063581226246828438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063316093322817767",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SakurasakaRiko: 无聊的时候\n*打开QQ\n无人在意你\n*关闭QQ\n*打开X\n无人在意你\n*起飞一下\n*关闭X\n*打开QQ\n*关闭QQ\n*打开X\n*关闭X\n*打开B站\n*关闭B站\n*打开QQ\n*关闭QQ\n*打开X\n*关闭X\n*打开QQ\n*关闭QQ\n*打开X…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735728536827334657",
+        "conversation_id": "2063316093322817767",
+        "created_at": "2026-06-06T17:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063316093322817767"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063316093322817767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 10611,
+          "like_count": 364,
+          "quote_count": 9,
+          "reply_count": 67,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "无聊的时候\n*打开QQ\n无人在意你\n*关闭QQ\n*打开X\n无人在意你\n*起飞一下\n*关闭X\n*打开QQ\n*关闭QQ\n*打开X\n*关闭X\n*打开B站\n*关闭B站\n*打开QQ\n*关闭QQ\n*打开X\n*关闭X\n*打开QQ\n*关闭QQ\n*打开X\n*关闭X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, 日本語勉強,English下手…\n玩点机（不太行），听ボカロ，可能是xyn？（qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年的说…",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 360,
+          "like_count": 4561,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 760
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T18:28:33.000Z",
+        "description": "日本語/中文/EN OK 喜欢玩各种音游的普通玩家。 maimai 樱桃堇晓橙白熊华超檄辉将持有，真神持有。你可以称呼我为riko或者璃子。全球各地旅游中。\n⬛️🟨⬛️🟪⬛️🟨⬛️",
+        "id": "1735728536827334657",
+        "location": "万达广场附近",
+        "name": "樱坂璃子Riko",
+        "pinned_tweet_id": "2045383031490560228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054559274341392384/IBqpzPWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 170,
+          "like_count": 4402,
+          "listed_count": 3,
+          "media_count": 176,
+          "tweet_count": 1463
+        },
+        "username": "SakurasakaRiko",
+        "verified": true
+      }
+    ]
+  }
+}

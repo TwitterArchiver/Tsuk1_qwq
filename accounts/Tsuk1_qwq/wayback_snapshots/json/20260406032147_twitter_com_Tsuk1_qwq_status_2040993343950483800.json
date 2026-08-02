@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040969791863996416"
+      ],
+      "media_source_tweet_id": [
+        "2040969800097358244"
+      ]
+    },
+    "author_id": "1793218407640481793",
+    "conversation_id": "2040993343950483800",
+    "created_at": "2026-04-06T03:21:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T04:21:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040993343950483800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1444716723978981380",
+          "start": 3,
+          "username": "EleanorAnatidae"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GHtN9JT9PW",
+          "end": 76,
+          "expanded_url": "https://x.com/EleanorAnatidae/status/2040969800097358244/photo/1",
+          "media_key": "3_2040969791863996416",
+          "start": 53,
+          "url": "https://t.co/GHtN9JT9PW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040993343950483800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040969800097358244",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EleanorAnatidae: 给苹果投了简历。\n每次看到这种选项都会很感动，觉得得到了尊重。 https://t.co/GHtN9JT9PW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040969791863996416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFL7NlFbQAAZ5NS.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040969791863996416"
+          ],
+          "media_source_tweet_id": [
+            "2040969800097358244"
+          ]
+        },
+        "author_id": "1793218407640481793",
+        "conversation_id": "2040993343950483800",
+        "created_at": "2026-04-06T03:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T04:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040993343950483800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1444716723978981380",
+              "start": 3,
+              "username": "EleanorAnatidae"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GHtN9JT9PW",
+              "end": 76,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/2040969800097358244/photo/1",
+              "media_key": "3_2040969791863996416",
+              "start": 53,
+              "url": "https://t.co/GHtN9JT9PW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040993343950483800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040969800097358244",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EleanorAnatidae: 给苹果投了简历。\n每次看到这种选项都会很感动，觉得得到了尊重。 https://t.co/GHtN9JT9PW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040969791863996416"
+          ]
+        },
+        "author_id": "1444716723978981380",
+        "conversation_id": "2040969800097358244",
+        "created_at": "2026-04-06T01:48:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T02:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040969800097358244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GHtN9JT9PW",
+              "end": 55,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/2040969800097358244/photo/1",
+              "media_key": "3_2040969791863996416",
+              "start": 32,
+              "url": "https://t.co/GHtN9JT9PW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040969800097358244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2732,
+          "like_count": 97,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "给苹果投了简历。\n每次看到这种选项都会很感动，觉得得到了尊重。 https://t.co/GHtN9JT9PW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, Japanese日本語（勉強してる）, English……\n玩点机（不太行），听ボカロ，想变成xyn……\n友跨，目前不含糖qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年QAQ）",
+        "id": "1793218407640481793",
+        "name": "Tsuki~ずっと夜に隠してる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 286,
+          "like_count": 2970,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 422
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T17:31:37.000Z",
+        "description": "👩‍❤️‍👩🦌@aliciathesika/🐇@Shirlene_girl /Liberté Égalité Fraternité/备用号@PetiteRenarde21",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "aliciathesika"
+              },
+              {
+                "end": 37,
+                "start": 23,
+                "username": "Shirlene_girl"
+              },
+              {
+                "end": 85,
+                "start": 69,
+                "username": "PetiteRenarde21"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lycoris.online",
+                "end": 23,
+                "expanded_url": "https://lycoris.online",
+                "start": 0,
+                "url": "https://t.co/pE8yXcPFC7"
+              }
+            ]
+          }
+        },
+        "id": "1444716723978981380",
+        "name": "雪雁",
+        "pinned_tweet_id": "2021166737559818271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011472697138790400/zWZC7GQy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3754,
+          "following_count": 2101,
+          "like_count": 28225,
+          "listed_count": 9,
+          "media_count": 147,
+          "tweet_count": 6840
+        },
+        "url": "https://t.co/pE8yXcPFC7",
+        "username": "EleanorAnatidae",
+        "verified": false
+      }
+    ]
+  }
+}

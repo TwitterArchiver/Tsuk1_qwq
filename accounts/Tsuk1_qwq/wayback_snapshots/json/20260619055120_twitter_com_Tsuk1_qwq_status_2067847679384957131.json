@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2029600897139924992"
+      ],
+      "media_source_tweet_id": [
+        "2029600918061133966"
+      ]
+    },
+    "author_id": "1793218407640481793",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2067847679384957131",
+    "created_at": "2026-06-19T05:51:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T06:51:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067847679384957131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1253534174335643648",
+          "start": 3,
+          "username": "germano_ka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/L2ZL4d2vKV",
+          "end": 74,
+          "expanded_url": "https://x.com/Whotfismick/status/2029600918061133966/video/1",
+          "media_key": "13_2029600897139924992",
+          "start": 51,
+          "url": "https://t.co/L2ZL4d2vKV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067847679384957131",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12473
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067566372243087606",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @germano_ka: Abrir o Twitter em público é assim https://t.co/L2ZL4d2vKV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11600,
+        "height": 240,
+        "media_key": "13_2029600897139924992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2029600897139924992/img/nxgMWU9aLxmB5OCy.jpg",
+        "public_metrics": {
+          "view_count": 840749
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029600897139924992/vid/avc1/250x240/1J5o-jEvFdxBXxTn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2029600897139924992/pl/E3IPv6K6q37fQe8C.m3u8"
+          }
+        ],
+        "width": 250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2029600897139924992"
+          ],
+          "media_source_tweet_id": [
+            "2029600918061133966"
+          ]
+        },
+        "author_id": "1793218407640481793",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2067847679384957131",
+        "created_at": "2026-06-19T05:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T06:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067847679384957131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1253534174335643648",
+              "start": 3,
+              "username": "germano_ka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L2ZL4d2vKV",
+              "end": 74,
+              "expanded_url": "https://x.com/Whotfismick/status/2029600918061133966/video/1",
+              "media_key": "13_2029600897139924992",
+              "start": 51,
+              "url": "https://t.co/L2ZL4d2vKV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067847679384957131",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12473
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067566372243087606",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @germano_ka: Abrir o Twitter em público é assim https://t.co/L2ZL4d2vKV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2029600897139924992"
+          ],
+          "media_source_tweet_id": [
+            "2029600918061133966"
+          ]
+        },
+        "author_id": "1253534174335643648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2067566372243087606",
+        "created_at": "2026-06-18T11:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067566372243087606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L2ZL4d2vKV",
+              "end": 58,
+              "expanded_url": "https://x.com/Whotfismick/status/2029600918061133966/video/1",
+              "media_key": "13_2029600897139924992",
+              "start": 35,
+              "url": "https://t.co/L2ZL4d2vKV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067566372243087606",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1824,
+          "impression_count": 446092,
+          "like_count": 56947,
+          "quote_count": 202,
+          "reply_count": 90,
+          "retweet_count": 12473
+        },
+        "reply_settings": "everyone",
+        "text": "Abrir o Twitter em público é assim https://t.co/L2ZL4d2vKV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, 日本語勉強,English下手…\n玩点机（不太行），听ボカロ，可能是xyn？（qwq\n……想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年的说…",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 381,
+          "like_count": 5332,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 862
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-24T04:00:51.000Z",
+        "description": "Me siga no insta 👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kassio_junior1…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/kassio_junior1?igsh=YjQzeTJ3MnVkNjRq&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/2u9oigE4CR"
+              }
+            ]
+          }
+        },
+        "id": "1253534174335643648",
+        "location": "Cuiabá",
+        "name": "Germano",
+        "pinned_tweet_id": "2043025671711011033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064853330698899456/35Czt-uv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8647,
+          "following_count": 3802,
+          "like_count": 57272,
+          "listed_count": 4,
+          "media_count": 4774,
+          "tweet_count": 18258
+        },
+        "url": "https://t.co/2u9oigE4CR",
+        "username": "germano_ka",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2042959293729927319",
+    "created_at": "2026-05-04T10:05:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T11:05:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051241803991687577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944397601354465280",
+          "start": 0,
+          "username": "AzusaBA0713"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051241803991687577",
+    "in_reply_to_user_id": "1944397601354465280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042959293729927319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AzusaBA0713 摸摸~快点好起来哦~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2042959290131189764",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFoMpnrakAQGgyv.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1257,
+        "media_key": "3_2042959289577598976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFoMplnbcAAlVfd.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2042959293729927319",
+        "created_at": "2026-05-04T10:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T11:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051241803991687577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944397601354465280",
+              "start": 0,
+              "username": "AzusaBA0713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051241803991687577",
+        "in_reply_to_user_id": "1944397601354465280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042959293729927319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AzusaBA0713 摸摸~快点好起来哦~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042959290131189764",
+            "3_2042959289577598976"
+          ]
+        },
+        "author_id": "1944397601354465280",
+        "conversation_id": "2042959293729927319",
+        "created_at": "2026-04-11T13:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T14:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042959293729927319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/94tVKNNQXJ",
+              "end": 48,
+              "expanded_url": "https://x.com/AzusaBA0713/status/2042959293729927319/photo/1",
+              "media_key": "3_2042959290131189764",
+              "start": 25,
+              "url": "https://t.co/94tVKNNQXJ"
+            },
+            {
+              "display_url": "pic.x.com/94tVKNNQXJ",
+              "end": 48,
+              "expanded_url": "https://x.com/AzusaBA0713/status/2042959293729927319/photo/1",
+              "media_key": "3_2042959289577598976",
+              "start": 25,
+              "url": "https://t.co/94tVKNNQXJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042959293729927319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 604,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "............没有什么新鲜的，一如既往 https://t.co/94tVKNNQXJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, 日本語（勉強してる, English…\n玩点机（不太行），听ボカロ，想变成xyn…\n友跨，目前不含糖qwq（？）\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年的说…",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 323,
+          "like_count": 3866,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 624
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T14:05:32.000Z",
+        "description": "一只喜欢吃糖🍥の小孩纸˃ ˄ ˂̥/已炸柜/家长不管/INFP-T/生产日期2010/7/13/1.65m/mtf/hrt/中度抑郁/需陪伴/向自由💫/是只小烧0的乖乖~/同类交友/纯馋人不卖💦\n最爱の笨宝宝:@XueFu13456\n供🍬の猫猫:@AksharJethwa\n呆呆瓜星羽:@seiuki070327",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 105,
+                "username": "XueFu13456"
+              },
+              {
+                "end": 136,
+                "start": 123,
+                "username": "AksharJethwa"
+              },
+              {
+                "end": 156,
+                "start": 143,
+                "username": "seiuki070327"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/AzusaBA0713",
+                "end": 23,
+                "expanded_url": "http://t.me/AzusaBA0713",
+                "start": 0,
+                "url": "https://t.co/bbrOTQXtfz"
+              }
+            ]
+          }
+        },
+        "id": "1944397601354465280",
+        "location": "坐在守月的大金金上~",
+        "name": "木辛伊(梓星星)🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2001140478084001950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077580628578305/QarbvODq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1629,
+          "following_count": 1492,
+          "like_count": 1585,
+          "listed_count": 4,
+          "media_count": 182,
+          "tweet_count": 385
+        },
+        "url": "https://t.co/bbrOTQXtfz",
+        "username": "AzusaBA0713",
+        "verified": false
+      }
+    ]
+  }
+}

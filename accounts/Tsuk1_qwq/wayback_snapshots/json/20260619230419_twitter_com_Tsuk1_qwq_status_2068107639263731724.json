@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2068107639263731724",
+    "created_at": "2026-06-19T23:04:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T00:04:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068107639263731724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "993590725",
+          "start": 3,
+          "username": "SakuyaFuyuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068107639263731724",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065247995235590322",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SakuyaFuyuki: 昔：日本文化が好きで、日本人の友達が欲しくて日本語を始めた。\n今：他人に迷惑をかけないのが大事って学びすぎて、自分の下手な日本語で迷惑かけたくなくて、逆に交流を避けちゃう……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2068107639263731724",
+        "created_at": "2026-06-19T23:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T00:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068107639263731724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "993590725",
+              "start": 3,
+              "username": "SakuyaFuyuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068107639263731724",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065247995235590322",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SakuyaFuyuki: 昔：日本文化が好きで、日本人の友達が欲しくて日本語を始めた。\n今：他人に迷惑をかけないのが大事って学びすぎて、自分の下手な日本語で迷惑かけたくなくて、逆に交流を避けちゃう……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "993590725",
+        "conversation_id": "2065247995235590322",
+        "created_at": "2026-06-12T01:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T02:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065247995235590322"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065247995235590322",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 9622,
+          "like_count": 130,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "昔：日本文化が好きで、日本人の友達が欲しくて日本語を始めた。\n今：他人に迷惑をかけないのが大事って学びすぎて、自分の下手な日本語で迷惑かけたくなくて、逆に交流を避けちゃう……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, 日本語勉強,English下手…\n玩点机（不太行），听ボカロ，可能是xyn？（qwq\n……想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年的说…",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 381,
+          "like_count": 5416,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 875
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-06T18:24:36.000Z",
+        "description": "1/400 の INFJ-T\n\n無糖類 , 一匹狼\n\nアイコン ＆ バーナ : @magu_MM_0824\n\n趣味 : お酒🥂、デザート🍰、旅行♨️\n⛔S4KUY4FUYUK1⛔",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "magu_MM_0824"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kemoaccess.booth.pm",
+                "end": 23,
+                "expanded_url": "https://kemoaccess.booth.pm/",
+                "start": 0,
+                "url": "https://t.co/MagZZSAc3E"
+              }
+            ]
+          }
+        },
+        "id": "993590725",
+        "name": "朔夜ふゆき",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969908361216028672/4e3lJuge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1264,
+          "following_count": 1333,
+          "like_count": 68018,
+          "listed_count": 15,
+          "media_count": 1605,
+          "tweet_count": 7992
+        },
+        "url": "https://t.co/MagZZSAc3E",
+        "username": "SakuyaFuyuki",
+        "verified": false
+      }
+    ]
+  }
+}

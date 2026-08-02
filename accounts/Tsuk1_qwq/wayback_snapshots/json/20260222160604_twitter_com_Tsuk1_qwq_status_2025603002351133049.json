@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025602994952400896"
+      ]
+    },
+    "author_id": "1793218407640481793",
+    "conversation_id": "2025603002351133049",
+    "created_at": "2026-02-22T16:06:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T17:06:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025603002351133049"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "We don't disclose our methodology, but we guarantee that it is the same for all users, taking into account the worth of every Twitter account equally.",
+          "display_url": "infinitetweet.me/account-worth?…",
+          "end": 44,
+          "expanded_url": "https://infinitetweet.me/account-worth?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2024840044461400064/BrO4750A?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2024840044461400064/BrO4750A?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 21,
+          "status": 200,
+          "title": "Account Worth • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/account-worth?lang=zh",
+          "url": "https://t.co/4EfQMuZl2m"
+        },
+        {
+          "display_url": "pic.x.com/l2VoYJOBiO",
+          "end": 68,
+          "expanded_url": "https://x.com/Tsuk1_qwq/status/2025603002351133049/photo/1",
+          "media_key": "3_2025602994952400896",
+          "start": 45,
+          "url": "https://t.co/l2VoYJOBiO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025603002351133049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的推特价值是: ¥252.72\n\n➡️ https://t.co/4EfQMuZl2m https://t.co/l2VoYJOBiO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 861,
+        "media_key": "3_2025602994952400896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxjMRoa8AAngTt.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025602994952400896"
+          ]
+        },
+        "author_id": "1793218407640481793",
+        "conversation_id": "2025603002351133049",
+        "created_at": "2026-02-22T16:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T17:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025603002351133049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "We don't disclose our methodology, but we guarantee that it is the same for all users, taking into account the worth of every Twitter account equally.",
+              "display_url": "infinitetweet.me/account-worth?…",
+              "end": 44,
+              "expanded_url": "https://infinitetweet.me/account-worth?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2024840044461400064/BrO4750A?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2024840044461400064/BrO4750A?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 21,
+              "status": 200,
+              "title": "Account Worth • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/account-worth?lang=zh",
+              "url": "https://t.co/4EfQMuZl2m"
+            },
+            {
+              "display_url": "pic.x.com/l2VoYJOBiO",
+              "end": 68,
+              "expanded_url": "https://x.com/Tsuk1_qwq/status/2025603002351133049/photo/1",
+              "media_key": "3_2025602994952400896",
+              "start": 45,
+              "url": "https://t.co/l2VoYJOBiO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025603002351133049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的推特价值是: ¥252.72\n\n➡️ https://t.co/4EfQMuZl2m https://t.co/l2VoYJOBiO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, Japanese日本語（勉強してる）, English……\n玩点机（不太行），听ボカロ，想变成xyn……\n友跨，目前不含糖qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年QAQ）",
+        "id": "1793218407640481793",
+        "name": "Tsuki~ずっと夜に隠してる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 242,
+          "like_count": 2069,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 234
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

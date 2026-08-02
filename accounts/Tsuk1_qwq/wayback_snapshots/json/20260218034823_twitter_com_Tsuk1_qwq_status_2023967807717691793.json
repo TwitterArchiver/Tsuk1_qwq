@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2023967807717691793",
+    "created_at": "2026-02-18T03:48:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T04:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023967807717691793"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "中国",
+          "probability": 0.8426,
+          "start": 37,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "941682926755856384",
+          "start": 3,
+          "username": "matcha__ore_p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023967807717691793",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021144822489416049",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @matcha__ore_p: わずか2日でフォロワーの約4分の1が中国の方達になりました\n私も中国語を学ばなければなりませんか？\nになっています"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2023967807717691793",
+        "created_at": "2026-02-18T03:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T04:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023967807717691793"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "中国",
+              "probability": 0.8426,
+              "start": 37,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "941682926755856384",
+              "start": 3,
+              "username": "matcha__ore_p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023967807717691793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021144822489416049",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @matcha__ore_p: わずか2日でフォロワーの約4分の1が中国の方達になりました\n私も中国語を学ばなければなりませんか？\nになっています"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "941682926755856384",
+        "conversation_id": "2021144822489416049",
+        "created_at": "2026-02-10T08:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T09:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021144822489416049"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "中国",
+              "probability": 0.8332,
+              "start": 18,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021144822489416049",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 77016,
+          "like_count": 1071,
+          "quote_count": 6,
+          "reply_count": 100,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "わずか2日でフォロワーの約4分の1が中国の方達になりました\n私も中国語を学ばなければなりませんか？\nになっています"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, Japanese日本語（勉強してる）, English……\n玩点机（不太行），听ボカロ，想变成xyn……\n友跨，目前不含糖qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年QAQ）",
+        "id": "1793218407640481793",
+        "name": "Tsuki~ずっと夜に隠してる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 203,
+          "like_count": 1539,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 163
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-15T14:54:40.000Z",
+        "description": "#たゃおれ絵 お仕事はDM𓆜 𓆝 𓆞 𓆟 グッズ・本(https://t.co/aYVpW4piOg) 未公開イラスト等（https://t.co/mmvyzwEzmX）⚠︎︎AI学習禁止⚠︎︎アイコン（@2525monaca）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "たゃおれ絵"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "2525monaca"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "matcha-ore-p.booth.pm",
+                "end": 50,
+                "expanded_url": "https://matcha-ore-p.booth.pm",
+                "start": 27,
+                "url": "https://t.co/aYVpW4piOg"
+              },
+              {
+                "display_url": "matcha-ore-p.fanbox.cc",
+                "end": 84,
+                "expanded_url": "https://matcha-ore-p.fanbox.cc",
+                "start": 61,
+                "url": "https://t.co/mmvyzwEzmX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@matcha__ore_p",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@matcha__ore_p",
+                "start": 0,
+                "url": "https://t.co/EcWAl4h6to"
+              }
+            ]
+          }
+        },
+        "id": "941682926755856384",
+        "name": "まったゃおれ",
+        "pinned_tweet_id": "2021410387124683203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944998115263832064/DOOC6_GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41519,
+          "following_count": 196,
+          "like_count": 55308,
+          "listed_count": 256,
+          "media_count": 669,
+          "tweet_count": 5450
+        },
+        "url": "https://t.co/EcWAl4h6to",
+        "username": "matcha__ore_p",
+        "verified": false
+      }
+    ]
+  }
+}

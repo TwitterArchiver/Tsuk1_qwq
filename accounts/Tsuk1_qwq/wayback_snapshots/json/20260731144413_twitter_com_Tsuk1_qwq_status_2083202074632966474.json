@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2083202074632966474",
+    "created_at": "2026-07-31T14:44:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T15:44:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083202074632966474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 34,
+          "id": "1720665183188922368",
+          "start": 29,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/17nuun/status/…",
+          "end": 156,
+          "expanded_url": "https://twitter.com/17nuun/status/2082805108115656783",
+          "start": 133,
+          "url": "https://t.co/lN3F9uMPy8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083202074632966474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082805108115656783",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在我经常互动的粉丝中，告诉我符合的人  \n好好想想再做！\n@grok  \n\n父亲:  \n母亲:  \n哥哥:  \n弟弟:  \n姐姐:  \n妹妹:  \n闺蜜:  \n朋友:  \n前辈:  \n后辈:  \n男朋友:  \n女朋友:  \n邻家哥哥:  \n邻家姐姐:  \n跟踪狂: https://t.co/lN3F9uMPy8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2083202074632966474",
+        "created_at": "2026-07-31T14:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083202074632966474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "1720665183188922368",
+              "start": 29,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/17nuun/status/…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/17nuun/status/2082805108115656783",
+              "start": 133,
+              "url": "https://t.co/lN3F9uMPy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083202074632966474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082805108115656783",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在我经常互动的粉丝中，告诉我符合的人  \n好好想想再做！\n@grok  \n\n父亲:  \n母亲:  \n哥哥:  \n弟弟:  \n姐姐:  \n妹妹:  \n闺蜜:  \n朋友:  \n前辈:  \n后辈:  \n男朋友:  \n女朋友:  \n邻家哥哥:  \n邻家姐姐:  \n跟踪狂: https://t.co/lN3F9uMPy8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2082805108115656783",
+        "created_at": "2026-07-30T12:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082805108115656783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "1720665183188922368",
+              "start": 29,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/wuyuandev/stat…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/wuyuandev/status/2082797365854109771",
+              "start": 133,
+              "url": "https://t.co/IvCbo3jVWU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082805108115656783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8143,
+          "like_count": 13,
+          "quote_count": 8,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082797365854109771",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在我经常互动的粉丝中，告诉我符合的人  \n好好想想再做！\n@grok  \n\n父亲:  \n母亲:  \n哥哥:  \n弟弟:  \n姐姐:  \n妹妹:  \n闺蜜:  \n朋友:  \n前辈:  \n后辈:  \n男朋友:  \n女朋友:  \n邻家哥哥:  \n邻家姐姐:  \n跟踪狂: https://t.co/IvCbo3jVWU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "简中，繁体懂一点，日語勉強,English下手…\n玩机（不太行），ボカロ，不建政，负能，mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 451,
+          "like_count": 7683,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1312
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8890618,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7242,
+          "media_count": 9204035,
+          "tweet_count": 133068702
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\n剩余存活日期？？？天\nmtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊od/♡永远爱着你/小号@danshuishuimu\n永远的爱人@dnshu135734\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 134,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 111,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "正在拥抱你",
+        "name": "海月水母x17",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2591,
+          "following_count": 228,
+          "like_count": 1170,
+          "listed_count": 5,
+          "media_count": 51,
+          "tweet_count": 1030
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2064005721730257015",
+    "created_at": "2026-06-08T15:24:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T16:24:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064005721730257015"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zqtlovekris99/…",
+          "end": 196,
+          "expanded_url": "https://twitter.com/zqtlovekris99/status/2064003482219344211",
+          "start": 173,
+          "url": "https://t.co/TDXK0CZUJk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064005721730257015",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064003482219344211",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我各个学科水平：\n语文：日本語本当下手、御免\n数学：6+128,8+256,12+512,16+1024（\n英语：fastboot reboot recovery\n物理：我今天又多了十多牛的重力……\n化学：我+氧气=废人+二氧化碳\n生物：啊啊啊为什么我是xy染色体啊啊\n政治：好讨厌啊才不要……\n历史：唐宋元明清\n地理：（我初中的时候能手搓地图 https://t.co/TDXK0CZUJk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2064005721730257015",
+        "created_at": "2026-06-08T15:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064005721730257015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zqtlovekris99/…",
+              "end": 196,
+              "expanded_url": "https://twitter.com/zqtlovekris99/status/2064003482219344211",
+              "start": 173,
+              "url": "https://t.co/TDXK0CZUJk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064005721730257015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064003482219344211",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我各个学科水平：\n语文：日本語本当下手、御免\n数学：6+128,8+256,12+512,16+1024（\n英语：fastboot reboot recovery\n物理：我今天又多了十多牛的重力……\n化学：我+氧气=废人+二氧化碳\n生物：啊啊啊为什么我是xy染色体啊啊\n政治：好讨厌啊才不要……\n历史：唐宋元明清\n地理：（我初中的时候能手搓地图 https://t.co/TDXK0CZUJk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2064003482219344211",
+        "created_at": "2026-06-08T15:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064003482219344211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RogerDisboard/…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/RogerDisboard/status/2063997183872172323",
+              "start": 72,
+              "url": "https://t.co/dZDvEeMnWL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064003482219344211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063997183872172323",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我各个学科水平：\n语文：你好\n数学：忘了\n英语：hi\n物理：苹果会掉\n化学：忘了\n地理：不会\n政治：课本写的真傻逼\n生物：忘了\n历史：上课睡觉 https://t.co/dZDvEeMnWL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, 日本語勉強,English下手…\n玩点机（不太行），听ボカロ，可能是xyn？（qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年的说…",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 367,
+          "like_count": 4884,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 799
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "找我提问箱！",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2059679856359809440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13327,
+          "following_count": 1652,
+          "like_count": 26036,
+          "listed_count": 15,
+          "media_count": 5233,
+          "tweet_count": 28573
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

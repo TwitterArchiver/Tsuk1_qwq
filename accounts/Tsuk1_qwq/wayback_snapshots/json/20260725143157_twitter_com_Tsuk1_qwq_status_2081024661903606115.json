@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2080679838642569601",
+    "created_at": "2026-07-25T14:31:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T15:31:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081024661903606115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2060652328915701760",
+          "start": 0,
+          "username": "MEMZFuHua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081024661903606115",
+    "in_reply_to_user_id": "2060652328915701760",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081008111612285127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MEMZFuHua qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2080679838642569601",
+        "created_at": "2026-07-25T14:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T15:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081024661903606115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2060652328915701760",
+              "start": 0,
+              "username": "MEMZFuHua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081024661903606115",
+        "in_reply_to_user_id": "2060652328915701760",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081008111612285127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEMZFuHua qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060652328915701760",
+        "conversation_id": "2080679838642569601",
+        "created_at": "2026-07-25T13:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081008111612285127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1793218407640481793",
+              "start": 0,
+              "username": "Tsuk1_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081008111612285127",
+        "in_reply_to_user_id": "1793218407640481793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080679838642569601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tsuk1_qwq 原来tee挂掉之后会导致无法登录吗？我还在想怎么回事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "简中，繁体懂一点，日語勉強,English下手…\n玩机（不太行），ボカロ，不建政，负能，mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 418,
+          "like_count": 6544,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 1113
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T09:20:39.000Z",
+        "description": "2010.12.27崭新下线 | HRT2026.6.11 | 理科不好 | 无证含糖 | 中度抑郁 | 同类互fo | 技术花粉 | 抖m | 不OD不割手 | 打舞萌",
+        "id": "2060652328915701760",
+        "location": "中国 安徽",
+        "name": "MEMZ-FuHua🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2075555105970233537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075471807206084610/ovf4uAvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 190,
+          "like_count": 306,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 374
+        },
+        "url": "",
+        "username": "MEMZFuHua",
+        "verified": true
+      }
+    ]
+  }
+}

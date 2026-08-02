@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2083479896056373430",
+    "created_at": "2026-08-02T00:08:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T01:08:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083706504449052833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2006749860863815682",
+          "start": 0,
+          "username": "kawainegi"
+        },
+        {
+          "end": 24,
+          "id": "1766644305660420096",
+          "start": 11,
+          "username": "umehara02A01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083706504449052833",
+    "in_reply_to_user_id": "2006749860863815682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083581063113388238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawainegi @umehara02A01 抱抱……他们都是坏人……qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2083479896056373430",
+        "created_at": "2026-08-02T00:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T01:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083706504449052833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2006749860863815682",
+              "start": 0,
+              "username": "kawainegi"
+            },
+            {
+              "end": 24,
+              "id": "1766644305660420096",
+              "start": 11,
+              "username": "umehara02A01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083706504449052833",
+        "in_reply_to_user_id": "2006749860863815682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083581063113388238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawainegi @umehara02A01 抱抱……他们都是坏人……qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2083479896056373430",
+        "created_at": "2026-08-01T15:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083581063113388238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1766644305660420096",
+              "start": 0,
+              "username": "umehara02A01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083581063113388238",
+        "in_reply_to_user_id": "1766644305660420096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083479896056373430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@umehara02A01 我不會收到這種 只會直接收到被凍結的郵件"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "简中，繁体懂一点，日語勉強,English下手…\n玩机（不太行），ボカロ，不建政，负能，mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 453,
+          "like_count": 7827,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 1345
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "余命日記を書いてます",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 188,
+          "like_count": 7911,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 1572
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T01:56:57.000Z",
+        "description": "akaすいか/高校2年生/mtf（x？🏳️‍⚧️🍥/地雷女/リスカ🔪🩸/お酒🍷依存/ASD/プログラマー👩‍💻/うつ/撮り鉄🚞/ 子猫🐱/ネコ民国の小統領/ zh-hant/ja/en /@happysugarlifeA 推し/裏垢@umeharaAC02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 94,
+                "username": "happysugarlifeA"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "umeharaAC02"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "republicofneko.site",
+                "end": 23,
+                "expanded_url": "http://republicofneko.site",
+                "start": 0,
+                "url": "https://t.co/BjCzmF2uTU"
+              }
+            ]
+          }
+        },
+        "id": "1766644305660420096",
+        "location": "Republic of Neko/ネコ民国 下海市 ",
+        "name": "🏳️‍⚧️梅原寒咲🐱",
+        "pinned_tweet_id": "2060350171293319289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060312968013979648/Dmn7X3b2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1946,
+          "following_count": 2188,
+          "like_count": 18469,
+          "listed_count": 6,
+          "media_count": 499,
+          "tweet_count": 9469
+        },
+        "url": "https://t.co/BjCzmF2uTU",
+        "username": "umehara02A01",
+        "verified": false
+      }
+    ]
+  }
+}

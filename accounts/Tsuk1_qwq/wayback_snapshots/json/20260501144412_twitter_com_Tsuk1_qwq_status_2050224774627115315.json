@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045024914177241088"
+      ],
+      "media_source_tweet_id": [
+        "2045789499196842478"
+      ]
+    },
+    "author_id": "1793218407640481793",
+    "conversation_id": "2050224774627115315",
+    "created_at": "2026-05-01T14:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T15:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050224774627115315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1545277694325116928",
+          "start": 3,
+          "username": "YongQuan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pg38dKUlJ4",
+          "end": 101,
+          "expanded_url": "https://x.com/BI3BXI/status/2045789499196842478/photo/1",
+          "media_key": "3_2045024914177241088",
+          "start": 78,
+          "url": "https://t.co/pg38dKUlJ4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050224774627115315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 78
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045789499196842478",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @YongQuan: 该复写的复写、该穿透的穿透、该返工的返工、该询问的询问、该绕过的绕过、该等待的等待、该提醒的提醒、该动手的动手，反对盲目蛮干。 https://t.co/pg38dKUlJ4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 889,
+        "media_key": "3_2045024914177241088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGFjUw5bsAAU70C.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045024914177241088"
+          ],
+          "media_source_tweet_id": [
+            "2045789499196842478"
+          ]
+        },
+        "author_id": "1793218407640481793",
+        "conversation_id": "2050224774627115315",
+        "created_at": "2026-05-01T14:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T15:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050224774627115315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1545277694325116928",
+              "start": 3,
+              "username": "YongQuan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pg38dKUlJ4",
+              "end": 101,
+              "expanded_url": "https://x.com/BI3BXI/status/2045789499196842478/photo/1",
+              "media_key": "3_2045024914177241088",
+              "start": 78,
+              "url": "https://t.co/pg38dKUlJ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050224774627115315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 78
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045789499196842478",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @YongQuan: 该复写的复写、该穿透的穿透、该返工的返工、该询问的询问、该绕过的绕过、该等待的等待、该提醒的提醒、该动手的动手，反对盲目蛮干。 https://t.co/pg38dKUlJ4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045024914177241088"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2045789499196842478",
+        "created_at": "2026-04-19T09:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T10:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045789499196842478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pg38dKUlJ4",
+              "end": 87,
+              "expanded_url": "https://x.com/BI3BXI/status/2045789499196842478/photo/1",
+              "media_key": "3_2045024914177241088",
+              "start": 64,
+              "url": "https://t.co/pg38dKUlJ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045789499196842478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 197,
+          "impression_count": 41056,
+          "like_count": 720,
+          "quote_count": 10,
+          "reply_count": 28,
+          "retweet_count": 78
+        },
+        "reply_settings": "other",
+        "text": "该复写的复写、该穿透的穿透、该返工的返工、该询问的询问、该绕过的绕过、该等待的等待、该提醒的提醒、该动手的动手，反对盲目蛮干。 https://t.co/pg38dKUlJ4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, Japanese日本語（勉強してる）, English……\n玩点机（不太行），听ボカロ，想变成xyn……\n友跨，目前不含糖qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年QAQ）",
+        "id": "1793218407640481793",
+        "name": "tsuki_夜隠し",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 297,
+          "like_count": 3452,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 536
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@Show5560｜ @XUEQIUxka ｜@Tennoujinyano｜\nBest Gamers in @JDGaming & @BilibiliGaming\n双相｜🏳️‍⚧️Enby🏳️‍🌈｜Esports｜AI/ML在读",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 16,
+                "start": 7,
+                "username": "Show5560"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "JDGaming"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "铨🍥",
+        "pinned_tweet_id": "2049415816337297897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9204,
+          "following_count": 4166,
+          "like_count": 43679,
+          "listed_count": 28,
+          "media_count": 3059,
+          "tweet_count": 11458
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

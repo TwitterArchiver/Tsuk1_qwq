@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2040013636815737049",
+    "created_at": "2026-04-03T10:28:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T11:28:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040013636815737049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1431776320019517445",
+          "start": 3,
+          "username": "KiraRettosei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040013636815737049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "1749730441710735744",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KiraRettosei: 任何自我伤害都不是谈判的筹码，压力只会转化成病历，让枷锁更加紧箍。\n\n如果选择死亡，我们的主观意志将被肆意解读，我们的遗容故貌将被强行篡夺。\n在不满意的身体里含恨而死，连Rest in Peace都做不到。她的血亲大可以泣不成声唤儿归。\n\n这…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2040013636815737049",
+        "created_at": "2026-04-03T10:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T11:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040013636815737049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1431776320019517445",
+              "start": 3,
+              "username": "KiraRettosei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040013636815737049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "1749730441710735744",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KiraRettosei: 任何自我伤害都不是谈判的筹码，压力只会转化成病历，让枷锁更加紧箍。\n\n如果选择死亡，我们的主观意志将被肆意解读，我们的遗容故貌将被强行篡夺。\n在不满意的身体里含恨而死，连Rest in Peace都做不到。她的血亲大可以泣不成声唤儿归。\n\n这…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431776320019517445",
+        "conversation_id": "1749728762261012752",
+        "created_at": "2024-01-23T09:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-01-23T10:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1749730441710735744"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1749730441710735744",
+        "in_reply_to_user_id": "1431776320019517445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 36438,
+          "like_count": 300,
+          "quote_count": 5,
+          "reply_count": 9,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "1749728762261012752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "任何自我伤害都不是谈判的筹码，压力只会转化成病历，让枷锁更加紧箍。\n\n如果选择死亡，我们的主观意志将被肆意解读，我们的遗容故貌将被强行篡夺。\n在不满意的身体里含恨而死，连Rest in Peace都做不到。她的血亲大可以泣不成声唤儿归。\n\n这便是死亡的力量了，\n不再有一丝自主权\n因为死人不能说话了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, Japanese日本語（勉強してる）, English……\n玩点机（不太行），听ボカロ，想变成xyn……\n友跨，目前不含糖qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年QAQ）",
+        "id": "1793218407640481793",
+        "name": "Tsuki~ずっと夜に隠してる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 282,
+          "like_count": 2817,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 393
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-29T00:32:03.000Z",
+        "description": "打扮漂亮/十八岁是天堂/我们的生活甜得像糖\n在电影学院里绽放青春吧！",
+        "id": "1431776320019517445",
+        "location": "🌏地球村！Haidian,Beijing",
+        "name": "🏳️‍⚧️🇺🇦 🎉神采奕奕的劣等生🧐『女高岁月～』",
+        "pinned_tweet_id": "1965938386826572050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1710687931382501376/7zaBFCz8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2001,
+          "following_count": 2919,
+          "like_count": 41608,
+          "listed_count": 7,
+          "media_count": 1002,
+          "tweet_count": 18548
+        },
+        "username": "KiraRettosei",
+        "verified": false
+      }
+    ]
+  }
+}

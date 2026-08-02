@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2050818676857901496",
+    "created_at": "2026-05-03T06:04:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T07:04:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050818676857901496"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050818676857901496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我爸买了个5位数字的密码锁，说用密码锁锁自行车我不在家他们就可以骑车，要我想个密码。但是我没设过5位的密码，想了一下说设11888吧，小米11是骁龙888。然后我妈：好诶要要发发发。\n……好庸俗……那改成10865算了……\n或者40870，我主力机k40用的870qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2050818676857901496",
+        "created_at": "2026-05-03T06:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T07:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050818676857901496"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050818676857901496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爸买了个5位数字的密码锁，说用密码锁锁自行车我不在家他们就可以骑车，要我想个密码。但是我没设过5位的密码，想了一下说设11888吧，小米11是骁龙888。然后我妈：好诶要要发发发。\n……好庸俗……那改成10865算了……\n或者40870，我主力机k40用的870qwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, Japanese日本語（勉強してる）, English……\n玩点机（不太行），听ボカロ，想变成xyn……\n友跨，目前不含糖qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年QAQ）",
+        "id": "1793218407640481793",
+        "name": "tsuki_夜隠し",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 308,
+          "like_count": 3697,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 573
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

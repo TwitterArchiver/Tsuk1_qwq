@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068304316994408448"
+      ]
+    },
+    "author_id": "1793218407640481793",
+    "conversation_id": "2068304320463077645",
+    "created_at": "2026-06-20T12:05:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T13:05:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068304320463077645"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QswpG0Xwh9",
+          "end": 110,
+          "expanded_url": "https://x.com/Tsuk1_qwq/status/2068304320463077645/photo/1",
+          "media_key": "3_2068304316994408448",
+          "start": 87,
+          "url": "https://t.co/QswpG0Xwh9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068304320463077645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我说怎么这么多洛天依的图呢，原来是7月份存的（\n（除了7月12天依和8月12星尘，其他歌姬的生日好像都和我的放假日错开……\n（可不到生日是7月7但是那个时候我们还没放假…… https://t.co/QswpG0Xwh9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068304316994408448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQX0WXb0AAKufd.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068304316994408448"
+          ]
+        },
+        "author_id": "1793218407640481793",
+        "conversation_id": "2068304320463077645",
+        "created_at": "2026-06-20T12:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T13:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068304320463077645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QswpG0Xwh9",
+              "end": 110,
+              "expanded_url": "https://x.com/Tsuk1_qwq/status/2068304320463077645/photo/1",
+              "media_key": "3_2068304316994408448",
+              "start": 87,
+              "url": "https://t.co/QswpG0Xwh9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068304320463077645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我说怎么这么多洛天依的图呢，原来是7月份存的（\n（除了7月12天依和8月12星尘，其他歌姬的生日好像都和我的放假日错开……\n（可不到生日是7月7但是那个时候我们还没放假…… https://t.co/QswpG0Xwh9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, 日本語勉強,English下手…\n玩点机（不太行），听ボカロ，可能是xyn？（qwq\n……想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年的说…",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 385,
+          "like_count": 5466,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 881
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

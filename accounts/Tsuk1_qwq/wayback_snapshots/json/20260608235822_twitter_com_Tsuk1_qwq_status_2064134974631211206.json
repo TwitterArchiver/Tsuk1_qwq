@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2064134974631211206",
+    "created_at": "2026-06-08T23:58:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T00:58:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064134974631211206"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/smiroyama/stat…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/smiroyama/status/2064004057388528074",
+          "start": 10,
+          "url": "https://t.co/tyAztOQorN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064134974631211206",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064004057388528074",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啥玩意啊好过分…… https://t.co/tyAztOQorN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2064003923120357376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTQoeyaAAAAv8b.jpg",
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2064134974631211206",
+        "created_at": "2026-06-08T23:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T00:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064134974631211206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/smiroyama/stat…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/smiroyama/status/2064004057388528074",
+              "start": 10,
+              "url": "https://t.co/tyAztOQorN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064134974631211206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064004057388528074",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啥玩意啊好过分…… https://t.co/tyAztOQorN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064003923120357376"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "conversation_id": "2064004057388528074",
+        "created_at": "2026-06-08T15:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064004057388528074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/79tGtLQZKa",
+              "end": 59,
+              "expanded_url": "https://x.com/smiroyama/status/2064004057388528074/photo/1",
+              "media_key": "3_2064003923120357376",
+              "start": 36,
+              "url": "https://t.co/79tGtLQZKa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064004057388528074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3844,
+          "like_count": 53,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "确实，这些人大代表都是住别墅，做菜都是阿姨做的，能说出这番言论情有可原 https://t.co/79tGtLQZKa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, 日本語勉強,English下手…\n玩点机（不太行），听ボカロ，可能是xyn？（qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年的说…",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 369,
+          "like_count": 5083,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 823
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "Developing https://t.co/pJ9VtduSxe | 好姐姐 🥰: @qianxunchan | friends: @Huang_Yut1ng @fukui_p26",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "qianxunchan"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "fukui_p26"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 34,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 11,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🏳️‍⚧️🍡",
+        "pinned_tweet_id": "2034816823921885638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062932840699084800/9M3agsOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6498,
+          "following_count": 2370,
+          "like_count": 12847,
+          "listed_count": 21,
+          "media_count": 2031,
+          "tweet_count": 7592
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

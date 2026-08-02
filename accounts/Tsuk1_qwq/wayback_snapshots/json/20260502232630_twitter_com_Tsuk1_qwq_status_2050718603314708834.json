@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050206572270510081"
+      ],
+      "media_source_tweet_id": [
+        "2050206577697902945"
+      ]
+    },
+    "author_id": "1793218407640481793",
+    "conversation_id": "2050718603314708834",
+    "created_at": "2026-05-02T23:26:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T00:26:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050718603314708834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1575765089030139905",
+          "start": 3,
+          "username": "wodanggangqiang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e7lRLXJPva",
+          "end": 56,
+          "expanded_url": "https://x.com/wodanggangqiang/status/2050206577697902945/photo/1",
+          "media_key": "3_2050206572270510081",
+          "start": 33,
+          "url": "https://t.co/e7lRLXJPva"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050718603314708834",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 193
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050206577697902945",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wodanggangqiang: 我很喜欢这种精神状态。 https://t.co/e7lRLXJPva"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1579,
+        "media_key": "3_2050206572270510081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHPMA9ha4AEFwQZ.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050206572270510081"
+          ],
+          "media_source_tweet_id": [
+            "2050206577697902945"
+          ]
+        },
+        "author_id": "1793218407640481793",
+        "conversation_id": "2050718603314708834",
+        "created_at": "2026-05-02T23:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T00:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050718603314708834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1575765089030139905",
+              "start": 3,
+              "username": "wodanggangqiang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e7lRLXJPva",
+              "end": 56,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2050206577697902945/photo/1",
+              "media_key": "3_2050206572270510081",
+              "start": 33,
+              "url": "https://t.co/e7lRLXJPva"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050718603314708834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 193
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050206577697902945",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wodanggangqiang: 我很喜欢这种精神状态。 https://t.co/e7lRLXJPva"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050206572270510081"
+          ]
+        },
+        "author_id": "1575765089030139905",
+        "conversation_id": "2050206577697902945",
+        "created_at": "2026-05-01T13:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T14:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050206577697902945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e7lRLXJPva",
+              "end": 35,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2050206577697902945/photo/1",
+              "media_key": "3_2050206572270510081",
+              "start": 12,
+              "url": "https://t.co/e7lRLXJPva"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050206577697902945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 25797,
+          "like_count": 2309,
+          "quote_count": 4,
+          "reply_count": 52,
+          "retweet_count": 193
+        },
+        "reply_settings": "everyone",
+        "text": "我很喜欢这种精神状态。 https://t.co/e7lRLXJPva"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, Japanese日本語（勉強してる）, English……\n玩点机（不太行），听ボカロ，想变成xyn……\n友跨，目前不含糖qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年QAQ）",
+        "id": "1793218407640481793",
+        "name": "tsuki_夜隠し",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 307,
+          "like_count": 3644,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 560
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T08:31:04.000Z",
+        "description": "独立而自由的灵魂，才是幸福之源。做自己，比任何事情都重要。",
+        "id": "1575765089030139905",
+        "location": "Japan",
+        "name": "我当刚强壮胆",
+        "pinned_tweet_id": "1824841439647515059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961052065981194240/mj8Sddub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28919,
+          "following_count": 558,
+          "like_count": 35199,
+          "listed_count": 90,
+          "media_count": 9961,
+          "tweet_count": 27259
+        },
+        "username": "wodanggangqiang",
+        "verified": true
+      }
+    ]
+  }
+}

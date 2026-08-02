@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899469046054924",
+          "name": "Virtual reality games"
+        }
+      }
+    ],
+    "conversation_id": "2024830565439156648",
+    "created_at": "2026-02-20T12:56:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T13:56:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024830565439156648"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 36,
+          "normalized_text": "ウェンディ",
+          "probability": 0.5662,
+          "start": 32,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 87,
+          "id": "1444572892138598402",
+          "start": 79,
+          "username": "Fla_VRC"
+        }
+      ],
+      "urls": [
+        {
+          "description": "VRChatで可愛いペットと一緒に世界を歩くのは、もはや一般的なスタイル。ですが、ペットと一緒に世界を「漂う」",
+          "display_url": "metacul-frontier.com/?p=31230",
+          "end": 78,
+          "expanded_url": "https://metacul-frontier.com/?p=31230",
+          "start": 55,
+          "status": 200,
+          "title": "【VRChat】幽霊の女の子と「漂う」ひとときを。新作アバター『ウェンディ』【VRChatアバターレビュー】 | メタカル最前線",
+          "unwound_url": "https://metacul-frontier.com/?p=31230",
+          "url": "https://t.co/GQEJfCzJH8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024830565439156648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "【VRChat】幽霊の女の子と「漂う」ひとときを。新作アバター『ウェンディ』【VRChatアバターレビュー】 https://t.co/GQEJfCzJH8 @Fla_VRCから"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "2024830565439156648",
+        "created_at": "2026-02-20T12:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T13:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024830565439156648"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "ウェンディ",
+              "probability": 0.5662,
+              "start": 32,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 87,
+              "id": "1444572892138598402",
+              "start": 79,
+              "username": "Fla_VRC"
+            }
+          ],
+          "urls": [
+            {
+              "description": "VRChatで可愛いペットと一緒に世界を歩くのは、もはや一般的なスタイル。ですが、ペットと一緒に世界を「漂う」",
+              "display_url": "metacul-frontier.com/?p=31230",
+              "end": 78,
+              "expanded_url": "https://metacul-frontier.com/?p=31230",
+              "start": 55,
+              "status": 200,
+              "title": "【VRChat】幽霊の女の子と「漂う」ひとときを。新作アバター『ウェンディ』【VRChatアバターレビュー】 | メタカル最前線",
+              "unwound_url": "https://metacul-frontier.com/?p=31230",
+              "url": "https://t.co/GQEJfCzJH8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024830565439156648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【VRChat】幽霊の女の子と「漂う」ひとときを。新作アバター『ウェンディ』【VRChatアバターレビュー】 https://t.co/GQEJfCzJH8 @Fla_VRCから"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, Japanese日本語（勉強してる）, English……\n玩点机（不太行），听ボカロ，想变成xyn……\n友跨，目前不含糖qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年QAQ）",
+        "id": "1793218407640481793",
+        "name": "Tsuki~ずっと夜に隠してる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 220,
+          "like_count": 1685,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 197
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T08:00:01.000Z",
+        "description": "メタカル最前線(@metacul_project)編集部 \n兼 \nBarOneDrop(@BaroneDrop)のオーナーのふれあ。です！\n美味しいご飯を食べることと、可愛いものを集めることを生業にしています\n\nVRC:ふれあ。  \n\nお砂糖ちゃん(@teti_vrc35)  自己紹介等はURLに！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 8,
+                "username": "metacul_project"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "BaroneDrop"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "teti_vrc35"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/aj3E2CZy8jbE…",
+                "end": 23,
+                "expanded_url": "https://profcard.info/u/aj3E2CZy8jbETCJRjlCpsVG6R263",
+                "start": 0,
+                "url": "https://t.co/lnERMBVcoz"
+              }
+            ]
+          }
+        },
+        "id": "1444572892138598402",
+        "location": "予想を、期待を、裏切ってしまえ 次回予告の僕を",
+        "name": "ふれあ。",
+        "pinned_tweet_id": "2022095903767892198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922451620626432/WJS2U-YA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1278,
+          "following_count": 1681,
+          "like_count": 41414,
+          "listed_count": 25,
+          "media_count": 3335,
+          "tweet_count": 39241
+        },
+        "url": "https://t.co/lnERMBVcoz",
+        "username": "Fla_VRC",
+        "verified": false
+      }
+    ]
+  }
+}

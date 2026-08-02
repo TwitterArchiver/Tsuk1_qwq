@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2040780203660923124",
+    "created_at": "2026-04-05T13:14:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T14:14:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040780203660923124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1598557374046179328",
+          "start": 3,
+          "username": "huihui_mikumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040780203660923124",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040756888657412598",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huihui_mikumi: MTF交友规则怪谈\n\n1.XXN是个重度缺爱的群体，请多多给他们爱\n2.若你的朋友有自杀冲动，请多多关爱他们，帮助他们走出阴影，他们会极度感谢你\n3.打招呼时请使用“喵喵喵”\n4.若你的朋友OD未成瘾，请及时劝阻，若已成瘾，请多多关爱他们…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2040780203660923124",
+        "created_at": "2026-04-05T13:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T14:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040780203660923124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1598557374046179328",
+              "start": 3,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040780203660923124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040756888657412598",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huihui_mikumi: MTF交友规则怪谈\n\n1.XXN是个重度缺爱的群体，请多多给他们爱\n2.若你的朋友有自杀冲动，请多多关爱他们，帮助他们走出阴影，他们会极度感谢你\n3.打招呼时请使用“喵喵喵”\n4.若你的朋友OD未成瘾，请及时劝阻，若已成瘾，请多多关爱他们…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2040756888657412598",
+        "created_at": "2026-04-05T11:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T12:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040756888657412598"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2040756888657412598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1046,
+          "like_count": 20,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "MTF交友规则怪谈\n\n1.XXN是个重度缺爱的群体，请多多给他们爱\n2.若你的朋友有自杀冲动，请多多关爱他们，帮助他们走出阴影，他们会极度感谢你\n3.打招呼时请使用“喵喵喵”\n4.若你的朋友OD未成瘾，请及时劝阻，若已成瘾，请多多关爱他们\n5.请不要随意键政，部分XNN反感键政行为\n6.请使用“姐姐”“妹妹”称呼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, Japanese日本語（勉強してる）, English……\n玩点机（不太行），听ボカロ，想变成xyn……\n友跨，目前不含糖qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年QAQ）",
+        "id": "1793218407640481793",
+        "name": "Tsuki~ずっと夜に隠してる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 285,
+          "like_count": 2920,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 413
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼\n|腹黑|病娇|OD药|缺爱|抖M/S|自残|随缘fo\n\n在替某人活下去，帮助更多想结束生命之人",
+        "id": "1598557374046179328",
+        "location": "广州",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "pinned_tweet_id": "2039216871254401419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 213,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 309
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      }
+    ]
+  }
+}

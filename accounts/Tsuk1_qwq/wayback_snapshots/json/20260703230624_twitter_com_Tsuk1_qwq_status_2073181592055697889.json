@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2073170690786889882",
+    "created_at": "2026-07-03T23:06:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T00:06:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073181592055697889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1320354023451496450",
+          "start": 0,
+          "username": "OuO02213882"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073181592055697889",
+    "in_reply_to_user_id": "1320354023451496450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073170690786889882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OuO02213882 鸟好可爱（虽说不知道是什么品种qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2073170690786889882",
+        "created_at": "2026-07-03T23:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T00:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073181592055697889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "OuO02213882"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073181592055697889",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073170690786889882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OuO02213882 鸟好可爱（虽说不知道是什么品种qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2073170690786889882",
+        "created_at": "2026-07-03T22:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T23:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073170690786889882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "-, 视频播放量 10808、弹幕量 109、点赞数 1763、投硬币枚数 163、收藏人数 164、转发人数 73, 视频作者 Nicr鲤, 作者简介 我有很多小鸦朋友 ，相关视频：响尾蛇嫌我烦的原因找到了，当近距离偷拍乌鸦时、它好奇地看回我……，知道你育雏压力大，但你不能三分钟就吃我5条鱼，大的离谱的澳洲渡鸦，美好的一天从打扮亲亲老公开始，响尾蛇非常有意思的社交习惯，鸟爸不堪巨婴索食，找人类避难，乌鸦赠予我翎羽，这是一个很小又很大的惊喜，把响尾蛇的尾巴换成铃铛，比鸡还大的乌鸦",
+              "display_url": "b23.tv/61bwbjd",
+              "end": 48,
+              "expanded_url": "https://b23.tv/61bwbjd",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2073170694578520064/Yy3hcfeW?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2073170694578520064/Yy3hcfeW?format=png&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 25,
+              "status": 200,
+              "title": "一名憔悴的父亲无声的求救_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1fBTx6oEeZ/?-Arouter=story&buvid=XU8CF158D65494634C7F562468FF2AAD3B9EA&from_spmid=tm.recommend.0.0&is_story_h5=true&mid=4oOAKnQPGlPhcUYT1t2Tng%3D%3D&p=1&plat_id=163&share_from=ugc&share_medium=android_i&share_plat=android&share_session_id=10f0d33e-5f2d-40cb-a2ed-f8f15b513f94&share_source=COPY&share_tag=s_i&spmid=main.ugc-video-detail-vertical.0.0&timestamp=1783117369&unique_k=61bwbjd&up_id=5403222",
+              "url": "https://t.co/WF6Wl7ndzY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073170690786889882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "來看鴉\n\n【一名憔悴的父亲无声的求救-哔哩哔哩】 https://t.co/WF6Wl7ndzY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "简中，繁体不怎么看懂，日語勉強,English下手…\n玩机（不太行），ボカロ，可能是xyn的说\n……想被温柔对待，也尽量尝试好好对待别人喵\n讨厌政治。\n2009（因为怕有未成年限制所以资料写是2000\nnegi快回来呀qwq",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 385,
+          "like_count": 5528,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 909
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "還在慢慢認識自己喵",
+        "id": "1320354023451496450",
+        "location": "不能說喵 反正不在杭州喵",
+        "name": "粉天藍貓QxQ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 1528,
+          "like_count": 28969,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 547
+        },
+        "url": "",
+        "username": "OuO02213882",
+        "verified": true
+      }
+    ]
+  }
+}

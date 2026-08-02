@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2070328266716746019",
+    "created_at": "2026-07-03T09:19:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T10:19:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072973463065854275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2044319134326964224",
+          "start": 0,
+          "username": "RETURN8964"
+        },
+        {
+          "end": 25,
+          "id": "1802704441961017344",
+          "start": 12,
+          "username": "misumikaede3"
+        },
+        {
+          "end": 36,
+          "id": "1608637128132685825",
+          "start": 26,
+          "username": "nyaepheia"
+        },
+        {
+          "end": 47,
+          "id": "2006749860863815682",
+          "start": 37,
+          "username": "kawainegi"
+        },
+        {
+          "end": 56,
+          "id": "1821304109451931648",
+          "start": 48,
+          "username": "Fisa_wo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072973463065854275",
+    "in_reply_to_user_id": "2044319134326964224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072540741126303941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@RETURN8964 @misumikaede3 @nyaepheia @kawainegi @Fisa_wo 啊……\n虽然说早有预感，但是…………\n还是很难受呢……最后的时间没能陪陪她……\n呜呜呜……"
+  },
+  "errors": [
+    {
+      "detail": "User is unavailable: [kawainegi].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "kawainegi",
+      "resource_type": "user",
+      "title": "Resource Unavailable Error",
+      "type": "https://api.twitter.com/2/problems/resource-unavailable"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2070328266716746019",
+        "created_at": "2026-07-03T09:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T10:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072973463065854275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044319134326964224",
+              "start": 0,
+              "username": "RETURN8964"
+            },
+            {
+              "end": 25,
+              "id": "1802704441961017344",
+              "start": 12,
+              "username": "misumikaede3"
+            },
+            {
+              "end": 36,
+              "id": "1608637128132685825",
+              "start": 26,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 47,
+              "id": "2006749860863815682",
+              "start": 37,
+              "username": "kawainegi"
+            },
+            {
+              "end": 56,
+              "id": "1821304109451931648",
+              "start": 48,
+              "username": "Fisa_wo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072973463065854275",
+        "in_reply_to_user_id": "2044319134326964224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072540741126303941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@RETURN8964 @misumikaede3 @nyaepheia @kawainegi @Fisa_wo 啊……\n虽然说早有预感，但是…………\n还是很难受呢……最后的时间没能陪陪她……\n呜呜呜……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044319134326964224",
+        "conversation_id": "2070328266716746019",
+        "created_at": "2026-07-02T04:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T05:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072540741126303941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1802704441961017344",
+              "start": 0,
+              "username": "misumikaede3"
+            },
+            {
+              "end": 24,
+              "id": "1608637128132685825",
+              "start": 14,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 35,
+              "id": "2006749860863815682",
+              "start": 25,
+              "username": "kawainegi"
+            },
+            {
+              "end": 44,
+              "id": "1821304109451931648",
+              "start": 36,
+              "username": "Fisa_wo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072540741126303941",
+        "in_reply_to_user_id": "1802704441961017344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 125,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070402810324361361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@misumikaede3 @nyaepheia @kawainegi @Fisa_wo 川井跳楼了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "简中，繁体不怎么看懂，日語勉強,English下手…\n玩机（不太行），ボカロ，可能是xyn的说\n……想被温柔对待，也尽量尝试好好对待别人喵\n讨厌政治。\n2009（因为怕有未成年限制所以资料写是2000\nnegi快回来呀qwq",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 384,
+          "like_count": 5469,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 893
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T07:37:25.000Z",
+        "description": "“我对法则克兰和银河战舰的梦想，随刚才的失败破灭。扭扭布罗基在我心中的完美形象正在解体，我现在只想救我自己。”——《凯圣帝君芬·安德森私人回忆录》",
+        "id": "2044319134326964224",
+        "name": "EternalSubconsciencƎ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068701757245431808/ozd1kF9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 384,
+          "like_count": 14445,
+          "listed_count": 5,
+          "media_count": 320,
+          "tweet_count": 2706
+        },
+        "url": "",
+        "username": "RETURN8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T14:06:56.000Z",
+        "description": "（百八十無常、冰川枫）20+ AuDHD🌪️ enby 🍥 2025.11.14 oder💊｜不论虚无与现实，且行，且行，行动以得知，得知而正行｜精神状态奇异 政治倾向奇特 想成为不走极端的人 喜欢我的请来和我交朋友 如果我发疯非常抱歉",
+        "id": "1802704441961017344",
+        "location": "燃素与以太之地",
+        "name": "三角枫🏳️‍⚧️#锦绣三",
+        "pinned_tweet_id": "2033998879956619524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062045921832300544/FeFvueDz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1235,
+          "following_count": 1301,
+          "like_count": 39727,
+          "listed_count": 4,
+          "media_count": 403,
+          "tweet_count": 12739
+        },
+        "url": "",
+        "username": "misumikaede3",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "https://t.co/nBvMeK1OLJ \n/ɪˈfiːə/ she/they\n评论&备用账号&误ban申诉@epheiamoe\nNo NSFW.\n\nhrt since26.4.1\n可以访问此账号的委派者：@yxrchina @0502railgun1949 @lckmtfdesu\n紧急联系：@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 57,
+                "username": "epheiamoe"
+              },
+              {
+                "end": 115,
+                "start": 106,
+                "username": "yxrchina"
+              },
+              {
+                "end": 132,
+                "start": 116,
+                "username": "0502railgun1949"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "lckmtfdesu"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "yxrchina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 23,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 0,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/OH6juSIljq"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️(she/they)",
+        "pinned_tweet_id": "2072731071423389856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 922,
+          "like_count": 33472,
+          "listed_count": 3,
+          "media_count": 738,
+          "tweet_count": 6449
+        },
+        "url": "https://t.co/OH6juSIljq",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-07T21:55:18.000Z",
+        "description": "一片虚无～",
+        "id": "1821304109451931648",
+        "location": "翎窝",
+        "name": "翎",
+        "pinned_tweet_id": "2035389791513309440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050125787693776896/-YEFkiHf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 1507,
+          "like_count": 17554,
+          "listed_count": 3,
+          "media_count": 489,
+          "tweet_count": 3280
+        },
+        "url": "",
+        "username": "Fisa_wo",
+        "verified": false
+      }
+    ]
+  }
+}

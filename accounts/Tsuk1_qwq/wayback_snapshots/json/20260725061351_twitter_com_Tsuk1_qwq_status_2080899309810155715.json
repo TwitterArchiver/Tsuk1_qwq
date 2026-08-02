@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2080601680169599302",
+    "created_at": "2026-07-25T06:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T07:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080899309810155715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1679381806913560578",
+          "start": 0,
+          "username": "kurazawanaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080899309810155715",
+    "in_reply_to_user_id": "1679381806913560578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080601680169599302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kurazawanaki 小米17羡慕喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2606,
+        "media_key": "3_2080601653988966400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_ILkkaQAAN1CY.jpg",
+        "width": 3203
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2080601680169599302",
+        "created_at": "2026-07-25T06:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T07:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080899309810155715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1679381806913560578",
+              "start": 0,
+              "username": "kurazawanaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080899309810155715",
+        "in_reply_to_user_id": "1679381806913560578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080601680169599302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurazawanaki 小米17羡慕喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080601653988966400"
+          ]
+        },
+        "author_id": "1679381806913560578",
+        "conversation_id": "2080601680169599302",
+        "created_at": "2026-07-24T10:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T11:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080601680169599302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mg3enCWUAR",
+              "end": 32,
+              "expanded_url": "https://x.com/kurazawanaki/status/2080601680169599302/photo/1",
+              "media_key": "3_2080601653988966400",
+              "start": 9,
+              "url": "https://t.co/mg3enCWUAR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080601680169599302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 5045,
+          "like_count": 183,
+          "quote_count": 0,
+          "reply_count": 44,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "贝斯用脚都能弹（ https://t.co/mg3enCWUAR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "简中，繁体懂一点，日語勉強,English下手…\n玩机（不太行），ボカロ，不建政，负能，mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 419,
+          "like_count": 6486,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 1094
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T06:47:07.000Z",
+        "description": "只是一个普通的女⃫孩⃫子⃫.🏳️‍⚧️",
+        "id": "1679381806913560578",
+        "name": "Anemoly",
+        "pinned_tweet_id": "2056329506856796287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054398857346207744/mxos-SBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 1306,
+          "like_count": 17628,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 190
+        },
+        "url": "",
+        "username": "kurazawanaki",
+        "verified": false
+      }
+    ]
+  }
+}

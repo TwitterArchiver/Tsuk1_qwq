@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2048895700512227347",
+    "created_at": "2026-04-27T22:42:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T23:42:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048895700512227347"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mmshuxing/stat…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/mmshuxing/status/2048464838305763684",
+          "start": 2,
+          "url": "https://t.co/S4H1Zp9hUb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048895700512227347",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048464838305763684",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哭 https://t.co/S4H1Zp9hUb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2048895700512227347",
+        "created_at": "2026-04-27T22:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T23:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048895700512227347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mmshuxing/stat…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/mmshuxing/status/2048464838305763684",
+              "start": 2,
+              "url": "https://t.co/S4H1Zp9hUb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048895700512227347",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048464838305763684",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哭 https://t.co/S4H1Zp9hUb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980410903850885120",
+        "conversation_id": "2048464838305763684",
+        "created_at": "2026-04-26T18:10:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T19:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048464838305763684"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048464838305763684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 9657,
+          "like_count": 291,
+          "quote_count": 5,
+          "reply_count": 65,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "如果你在18岁之前自杀，那你就读了一辈子的书"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, Japanese日本語（勉強してる）, English……\n玩点机（不太行），听ボカロ，想变成xyn……\n友跨，目前不含糖qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年QAQ）",
+        "id": "1793218407640481793",
+        "name": "Tsuki~ずっと夜に隠してる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 292,
+          "like_count": 3175,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 488
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T23:09:07.000Z",
+        "description": "幼幼 第一世@mshuxing 我喜欢@MmeTuT\n喜欢哥哥 餐券 抑焦 割手\n11年 INTP-T 顺女 友跨（🏳️‍🌈）\n低龄 低智 爱视奸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "mshuxing"
+              },
+              {
+                "end": 26,
+                "start": 19,
+                "username": "MmeTuT"
+              }
+            ]
+          }
+        },
+        "id": "1980410903850885120",
+        "location": "好友位88 纯绿128 288",
+        "name": "死罪绝命",
+        "pinned_tweet_id": "2041265760366956715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044485430943584256/xHHVw5Uu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 97,
+          "like_count": 2011,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 76
+        },
+        "username": "mmshuxing",
+        "verified": false
+      }
+    ]
+  }
+}

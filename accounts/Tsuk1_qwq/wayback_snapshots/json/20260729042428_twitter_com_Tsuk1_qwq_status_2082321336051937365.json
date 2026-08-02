@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2082057896695919081",
+    "created_at": "2026-07-29T04:24:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T05:24:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082321336051937365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1958048434021437440",
+          "start": 0,
+          "username": "baizhimengyao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082321336051937365",
+    "in_reply_to_user_id": "1958048434021437440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082057896695919081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baizhimengyao 坏诶……抱抱喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2082057896695919081",
+        "created_at": "2026-07-29T04:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T05:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082321336051937365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1958048434021437440",
+              "start": 0,
+              "username": "baizhimengyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082321336051937365",
+        "in_reply_to_user_id": "1958048434021437440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082057896695919081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baizhimengyao 坏诶……抱抱喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958048434021437440",
+        "conversation_id": "2082057896695919081",
+        "created_at": "2026-07-28T10:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082057896695919081"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082057896695919081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4115,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前……买盐的事情被同学告诉老师了……我就被迫紧急心理咨询了……然后……评估有高度风险……学校建议休学……我爸妈死活不让……我爸说你惹的事你自己去医院办，不行就退学；我妈认为是我为了说服她陪我去看医生所以搞的鬼，直接说不看病去就直接退学……还要剪我的头发……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "简中，繁体懂一点，日語勉強,English下手…\n玩机（不太行），ボカロ，不建政，负能，mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 438,
+          "like_count": 7113,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1224
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-20T06:08:29.000Z",
+        "description": "无证糖🍥/出厂日期2007.02.17/北京/爸妈严正反对/enfp/文学发烧友/@k66cheng 伪物空城我大姐头/紧急逃生舱：@wuheyuyang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "k66cheng"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "wuheyuyang"
+              }
+            ]
+          }
+        },
+        "id": "1958048434021437440",
+        "location": "距你0.1km",
+        "name": "白芷梦瑶🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041418903319166976/IHr3Mv0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 35,
+          "like_count": 508,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 1718
+        },
+        "url": "",
+        "username": "baizhimengyao",
+        "verified": false
+      }
+    ]
+  }
+}

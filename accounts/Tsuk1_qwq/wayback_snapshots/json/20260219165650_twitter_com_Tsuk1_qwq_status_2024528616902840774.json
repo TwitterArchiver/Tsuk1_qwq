@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2024514270927692232",
+    "created_at": "2026-02-19T16:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T17:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024528616902840774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1941079522490953728",
+          "start": 0,
+          "username": "xvliowo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024528616902840774",
+    "in_reply_to_user_id": "1941079522490953728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024514270927692232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xvliowo 诶诶我的也这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2024514270927692232",
+        "created_at": "2026-02-19T16:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024528616902840774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1941079522490953728",
+              "start": 0,
+              "username": "xvliowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024528616902840774",
+        "in_reply_to_user_id": "1941079522490953728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024514270927692232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xvliowo 诶诶我的也这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "conversation_id": "2024514270927692232",
+        "created_at": "2026-02-19T15:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T16:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024514270927692232"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024514270927692232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "要被gemini搞吐了 我没让你生成图片 你一直在 🔹正在加载 Nano Banana… 到底在干什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, Japanese日本語（勉強してる）, English……\n玩点机（不太行），听ボカロ，想变成xyn……\n友跨，目前不含糖qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年QAQ）",
+        "id": "1793218407640481793",
+        "name": "Tsuki~ずっと夜に隠してる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 214,
+          "like_count": 1626,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 189
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "一个被世界抛弃的笨蛋（可爱喵）\nISFP-T 16龄MTF🍥hrt25.10.06\n另一个我@maoliqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "maoliqwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi_yi2233",
+                "end": 23,
+                "expanded_url": "https://t.me/xi_yi2233",
+                "start": 0,
+                "url": "https://t.co/WagdVQM6xw"
+              }
+            ]
+          }
+        },
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "雨🍥",
+        "pinned_tweet_id": "2023692062370238620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023242882224988160/zrmtx_KH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 612,
+          "like_count": 962,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 577
+        },
+        "url": "https://t.co/WagdVQM6xw",
+        "username": "xvliowo",
+        "verified": false
+      }
+    ]
+  }
+}

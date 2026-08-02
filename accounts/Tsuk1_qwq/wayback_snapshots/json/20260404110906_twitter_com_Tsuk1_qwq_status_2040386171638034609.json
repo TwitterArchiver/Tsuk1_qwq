@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2040315053006889205",
+    "created_at": "2026-04-04T11:09:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T12:09:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040386171638034609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1621552410048237569",
+          "start": 0,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040386171638034609",
+    "in_reply_to_user_id": "1621552410048237569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040315053006889205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amecandy_x 呜啊，好心疼..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3857,
+        "media_key": "3_2040315047839510528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFCnudhbsAAqS1G.jpg",
+        "width": 2893
+      },
+      {
+        "height": 1323,
+        "media_key": "3_2040315038800777216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFCnt72bkAATlJF.jpg",
+        "width": 1323
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2040315053006889205",
+        "created_at": "2026-04-04T11:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T12:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040386171638034609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040386171638034609",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040315053006889205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x 呜啊，好心疼..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040315047839510528",
+            "3_2040315038800777216"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2040315053006889205",
+        "created_at": "2026-04-04T06:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T07:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040315053006889205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "In solitude, where we are least alone. 这里是小雨的个人博客，记录技术、思考与生活点滴。",
+              "display_url": "angelkawaii.xyz",
+              "end": 173,
+              "expanded_url": "https://angelkawaii.xyz",
+              "images": [
+                {
+                  "height": 1200,
+                  "url": "https://pbs.twimg.com/news_img/2040315123617918977/M-Ty0yWo?format=jpg&name=orig",
+                  "width": 1920
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2040315123617918977/M-Ty0yWo?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 150,
+              "status": 200,
+              "title": "❤ 小雨的博客 ❤",
+              "unwound_url": "https://angelkawaii.xyz",
+              "url": "https://t.co/Bo7nRF0GQp"
+            },
+            {
+              "display_url": "pic.x.com/zC1ZgmbzR2",
+              "end": 197,
+              "expanded_url": "https://x.com/amecandy_x/status/2040315053006889205/photo/1",
+              "media_key": "3_2040315047839510528",
+              "start": 174,
+              "url": "https://t.co/zC1ZgmbzR2"
+            },
+            {
+              "display_url": "pic.x.com/zC1ZgmbzR2",
+              "end": 197,
+              "expanded_url": "https://x.com/amecandy_x/status/2040315053006889205/photo/1",
+              "media_key": "3_2040315038800777216",
+              "start": 174,
+              "url": "https://t.co/zC1ZgmbzR2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040315053006889205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1449,
+          "like_count": 53,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "【置顶】\n我是小雨，一名被学校摧残患上抑郁症在出租屋抽烟自残嗑药发情的18岁天才小药娘，大模型工程师/独立AI研究者/铁道迷/biohacker，音乐是VOCALOID/摇滚，喜欢人类学/语言学/西哲/西马\n\n我好无聊的请和我聊天吧！\n色色也可以🥺\n\n转+关+评+赞 参与抽奖，见评论区\n\nblog：https://t.co/Bo7nRF0GQp https://t.co/zC1ZgmbzR2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, Japanese日本語（勉強してる）, English……\n玩点机（不太行），听ボカロ，想变成xyn……\n友跨，目前不含糖qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年QAQ）",
+        "id": "1793218407640481793",
+        "name": "Tsuki~ずっと夜に隠してる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 282,
+          "like_count": 2850,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 400
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "🚬/ 07 /  @whitecloud_ybw ❤️/ 私信即可找我玩 / 我不是顺女你给我看清楚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "whitecloud_ybw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东·济南",
+        "name": "小雨",
+        "pinned_tweet_id": "2040315053006889205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5829,
+          "following_count": 2035,
+          "like_count": 26705,
+          "listed_count": 15,
+          "media_count": 1386,
+          "tweet_count": 9874
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": false
+      }
+    ]
+  }
+}

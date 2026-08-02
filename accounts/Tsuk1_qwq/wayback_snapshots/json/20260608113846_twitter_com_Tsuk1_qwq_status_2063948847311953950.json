@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2063948847311953950",
+    "created_at": "2026-06-08T11:38:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T12:38:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063948847311953950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2031715041196875776",
+          "start": 3,
+          "username": "YiJin_0v0"
+        },
+        {
+          "end": 22,
+          "id": "2055095022425722880",
+          "start": 15,
+          "username": "UnkMtX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063948847311953950",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063782869517164816",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @YiJin_0v0: @UnkMtX 马斯克停手吧，放过中国青年"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2063948847311953950",
+        "created_at": "2026-06-08T11:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063948847311953950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2031715041196875776",
+              "start": 3,
+              "username": "YiJin_0v0"
+            },
+            {
+              "end": 22,
+              "id": "2055095022425722880",
+              "start": 15,
+              "username": "UnkMtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063948847311953950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063782869517164816",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @YiJin_0v0: @UnkMtX 马斯克停手吧，放过中国青年"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031715041196875776",
+        "conversation_id": "2063780061246058920",
+        "created_at": "2026-06-08T00:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T01:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063782869517164816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2055095022425722880",
+              "start": 0,
+              "username": "UnkMtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063782869517164816",
+        "in_reply_to_user_id": "2055095022425722880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 320,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063780061246058920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@UnkMtX 马斯克停手吧，放过中国青年"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, 日本語勉強,English下手…\n玩点机（不太行），听ボカロ，可能是xyn？（qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年的说…",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 366,
+          "like_count": 4817,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 787
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T12:53:23.000Z",
+        "description": "不发帖就是被抓进精神病院了【寻回推u】\n- ✰*🎀ੈ✩🍥✰*💗ੈ✩-\n生活在互联网！查成分回fo/我是低龄糖逼大傻福，十分抱歉！\n宇宙级严重失眠 -12现役初中生\n^✟❀上有小下有老❀小号@Shivam3228❀@elna_elvie9091✿✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 94,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 121,
+                "start": 106,
+                "username": "elna_elvie9091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 0,
+                "url": "https://t.co/BEawMTYyNs"
+              }
+            ]
+          }
+        },
+        "id": "2031715041196875776",
+        "location": "你看看你身后",
+        "name": "3.霖（完全病娇邪恶中2）",
+        "pinned_tweet_id": "2062221902165446782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052347801045200896/4j5q_ZbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1337,
+          "following_count": 861,
+          "like_count": 8493,
+          "listed_count": 3,
+          "media_count": 250,
+          "tweet_count": 4995
+        },
+        "url": "https://t.co/BEawMTYyNs",
+        "username": "YiJin_0v0",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T01:17:01.000Z",
+        "description": "被关精卫了😭不发帖就是没手机了😭|永远怀念@UnkXyn|MtX|Hrt🍥01.28.2026，断糖06.06.2026|家长反对党+年龄党|生产日期11.13.2011|暂时无法Od💊，普瑞巴林我会想你的😭|对象@Lvmaosamaovo|159cm51kg|INFP-T|，重度社恐|休学中|同类互fo喵~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 21,
+                "username": "UnkXyn"
+              },
+              {
+                "end": 120,
+                "start": 107,
+                "username": "Lvmaosamaovo"
+              }
+            ]
+          }
+        },
+        "id": "2055095022425722880",
+        "location": "武汉市精神卫生中心(二七院区)",
+        "name": "3.Unk🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060807051815854080/KA8UAH6G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 883,
+          "like_count": 1240,
+          "listed_count": 14,
+          "media_count": 35,
+          "tweet_count": 228
+        },
+        "username": "UnkMtX",
+        "verified": true
+      }
+    ]
+  }
+}

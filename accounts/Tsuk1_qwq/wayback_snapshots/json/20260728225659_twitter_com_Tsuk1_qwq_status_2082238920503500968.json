@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2082238920503500968",
+    "created_at": "2026-07-28T22:56:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T23:56:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082238920503500968"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/PinkCatLoveSky…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/PinkCatLoveSky/status/2082010904758194679",
+          "start": 21,
+          "url": "https://t.co/Fblud4OwNQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082238920503500968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082010904758194679",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果因为我感到不舒服……\n很对不起喵…… https://t.co/Fblud4OwNQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2082238920503500968",
+        "created_at": "2026-07-28T22:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T23:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082238920503500968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PinkCatLoveSky…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/PinkCatLoveSky/status/2082010904758194679",
+              "start": 21,
+              "url": "https://t.co/Fblud4OwNQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082238920503500968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082010904758194679",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果因为我感到不舒服……\n很对不起喵…… https://t.co/Fblud4OwNQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2082010904758194679",
+        "created_at": "2026-07-28T07:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T08:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082010904758194679"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082010904758194679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 887,
+          "like_count": 47,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "請不能承受負面情緒的人不要fo我\n因為推特就是我的日記\n你們能看到的都是我當下的感受\n影響到你們非常抱歉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "简中，繁体懂一点，日語勉強,English下手…\n玩机（不太行），ボカロ，不建政，负能，mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 426,
+          "like_count": 6978,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1207
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "迷戀天空/mtx (貓) /友善/矛盾/健忘/兩個人格共存（她失蹤了）\n垃圾桶: @TrashcanCats",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "TrashcanCats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "0.1km        在台       問喵問題！➡",
+        "name": "粉天藍貓☁️",
+        "pinned_tweet_id": "2082010904758194679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1367,
+          "following_count": 2070,
+          "like_count": 57953,
+          "listed_count": 1,
+          "media_count": 248,
+          "tweet_count": 2986
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true
+      }
+    ]
+  }
+}

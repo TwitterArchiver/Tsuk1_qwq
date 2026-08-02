@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2045650304709071271",
+    "created_at": "2026-04-18T23:46:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T00:46:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045650304709071271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1856186701280075776",
+          "start": 3,
+          "username": "baizhouzi520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045650304709071271",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045482109402550757",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baizhouzi520: 这里是白洲，您在我们这里每购买的每一样产品都将会为我们的帮扶组织提供一部分资金去用来为需要帮助的同类提供药物以及心理辅导等帮助，我们致力于让更多的同类吃起低价糖!\n目前产品有自制凝胶：普通版（约10倍）50r/瓶，三瓶包邮，高雌版88r/瓶，…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5433,
+        "height": 1280,
+        "media_key": "7_2045482014032429057",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2045482014032429057/pu/img/DCQqdKwuW1SbJept.jpg",
+        "public_metrics": {
+          "view_count": 20
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045482014032429057/pu/vid/avc1/320x568/si4vORmYbopZcrgl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045482014032429057/pu/vid/avc1/480x852/fNKwYRVOMOm9IAwg.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045482014032429057/pu/vid/avc1/720x1280/eCZK3QLVcZ88O0qV.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2045482014032429057/pu/pl/Jvk5m0hWFNg9V9ty.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045482034945286144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGMDEsdbYAAtepF.jpg",
+        "width": 654
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2045482025864597504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGMDEKobEAAhKok.jpg",
+        "width": 996
+      },
+      {
+        "height": 1987,
+        "media_key": "3_2045482034941071360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGMDEscbEAAMTgl.jpg",
+        "width": 1096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2045650304709071271",
+        "created_at": "2026-04-18T23:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T00:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045650304709071271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1856186701280075776",
+              "start": 3,
+              "username": "baizhouzi520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045650304709071271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045482109402550757",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baizhouzi520: 这里是白洲，您在我们这里每购买的每一样产品都将会为我们的帮扶组织提供一部分资金去用来为需要帮助的同类提供药物以及心理辅导等帮助，我们致力于让更多的同类吃起低价糖!\n目前产品有自制凝胶：普通版（约10倍）50r/瓶，三瓶包邮，高雌版88r/瓶，…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2045482014032429057",
+            "3_2045482034945286144",
+            "3_2045482025864597504",
+            "3_2045482034941071360"
+          ]
+        },
+        "author_id": "1856186701280075776",
+        "conversation_id": "2045482109402550757",
+        "created_at": "2026-04-18T12:38:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T13:38:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045482109402550757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/71dBtDj952",
+              "end": 171,
+              "expanded_url": "https://x.com/baizhouzi520/status/2045482109402550757/video/1",
+              "media_key": "7_2045482014032429057",
+              "start": 148,
+              "url": "https://t.co/71dBtDj952"
+            },
+            {
+              "display_url": "pic.x.com/71dBtDj952",
+              "end": 171,
+              "expanded_url": "https://x.com/baizhouzi520/status/2045482109402550757/video/1",
+              "media_key": "3_2045482034945286144",
+              "start": 148,
+              "url": "https://t.co/71dBtDj952"
+            },
+            {
+              "display_url": "pic.x.com/71dBtDj952",
+              "end": 171,
+              "expanded_url": "https://x.com/baizhouzi520/status/2045482109402550757/video/1",
+              "media_key": "3_2045482025864597504",
+              "start": 148,
+              "url": "https://t.co/71dBtDj952"
+            },
+            {
+              "display_url": "pic.x.com/71dBtDj952",
+              "end": 171,
+              "expanded_url": "https://x.com/baizhouzi520/status/2045482109402550757/video/1",
+              "media_key": "3_2045482034941071360",
+              "start": 148,
+              "url": "https://t.co/71dBtDj952"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045482109402550757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 354,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这里是白洲，您在我们这里每购买的每一样产品都将会为我们的帮扶组织提供一部分资金去用来为需要帮助的同类提供药物以及心理辅导等帮助，我们致力于让更多的同类吃起低价糖!\n目前产品有自制凝胶：普通版（约10倍）50r/瓶，三瓶包邮，高雌版88r/瓶，两瓶包邮\n日雌：380一盒包邮\n土色：350一盒包邮 https://t.co/71dBtDj952"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, Japanese日本語（勉強してる）, English……\n玩点机（不太行），听ボカロ，想变成xyn……\n友跨，目前不含糖qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年QAQ）",
+        "id": "1793218407640481793",
+        "name": "Tsuki~ずっと夜に隠してる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 286,
+          "like_count": 3116,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 468
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-12T04:06:17.000Z",
+        "description": "小证含糖家长党|hrt2024.12.15|死精神病一个|有时候会od，自残|多意识体（白洲/黎星/诗遥/haku）|姐姐/合作伙伴：@mishamimihemumu|有凝胶和日雌出售喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 67,
+                "username": "mishamimihemumu"
+              }
+            ]
+          }
+        },
+        "id": "1856186701280075776",
+        "location": "星落湖です",
+        "name": "白白白白洲洲洲洲🍥🍔🍙💊凝胶有售喵",
+        "pinned_tweet_id": "2045482109402550757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035716012918886400/w1JKUgDd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1520,
+          "following_count": 668,
+          "like_count": 11961,
+          "listed_count": 3,
+          "media_count": 531,
+          "tweet_count": 1809
+        },
+        "username": "baizhouzi520",
+        "verified": false
+      }
+    ]
+  }
+}

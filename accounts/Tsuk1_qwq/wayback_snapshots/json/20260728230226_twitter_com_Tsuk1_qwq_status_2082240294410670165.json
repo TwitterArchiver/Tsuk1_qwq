@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2082025245276561774",
+    "created_at": "2026-07-28T23:02:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T00:02:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082240294410670165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2070544483977232389",
+          "start": 0,
+          "username": "AkanoQWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082240294410670165",
+    "in_reply_to_user_id": "2070544483977232389",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082025245276561774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkanoQWQ 蹭蹭~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2082025161285681152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTW2mfbwAA396f.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2082025178645807104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTW3nKaQAAkR0Z.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2082025193502130177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTW4egbwAEbnOI.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2082025224560869376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTW6SNagAAc8Mz.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2082025245276561774",
+        "created_at": "2026-07-28T23:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T00:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082240294410670165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070544483977232389",
+              "start": 0,
+              "username": "AkanoQWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082240294410670165",
+        "in_reply_to_user_id": "2070544483977232389",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082025245276561774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkanoQWQ 蹭蹭~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082025161285681152",
+            "3_2082025178645807104",
+            "3_2082025193502130177",
+            "3_2082025224560869376"
+          ]
+        },
+        "author_id": "2070544483977232389",
+        "conversation_id": "2082025245276561774",
+        "created_at": "2026-07-28T08:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082025245276561774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k63eA7rpxD",
+              "end": 59,
+              "expanded_url": "https://x.com/AkanoQWQ/status/2082025245276561774/photo/1",
+              "media_key": "3_2082025161285681152",
+              "start": 36,
+              "url": "https://t.co/k63eA7rpxD"
+            },
+            {
+              "display_url": "pic.x.com/k63eA7rpxD",
+              "end": 59,
+              "expanded_url": "https://x.com/AkanoQWQ/status/2082025245276561774/photo/1",
+              "media_key": "3_2082025178645807104",
+              "start": 36,
+              "url": "https://t.co/k63eA7rpxD"
+            },
+            {
+              "display_url": "pic.x.com/k63eA7rpxD",
+              "end": 59,
+              "expanded_url": "https://x.com/AkanoQWQ/status/2082025245276561774/photo/1",
+              "media_key": "3_2082025193502130177",
+              "start": 36,
+              "url": "https://t.co/k63eA7rpxD"
+            },
+            {
+              "display_url": "pic.x.com/k63eA7rpxD",
+              "end": 59,
+              "expanded_url": "https://x.com/AkanoQWQ/status/2082025245276561774/photo/1",
+              "media_key": "3_2082025224560869376",
+              "start": 36,
+              "url": "https://t.co/k63eA7rpxD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082025245276561774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 337,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被小猫蹭蹭了！\n被小猫贴贴了！\n被小猫喜欢了！\n好猫猫🥰\n心情超级好！ https://t.co/k63eA7rpxD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "简中，繁体懂一点，日語勉強,English下手…\n玩机（不太行），ボカロ，不建政，负能，mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 427,
+          "like_count": 7011,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1211
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-26T16:28:13.000Z",
+        "description": "退役OIer | 现役RMer | Counter-Strike | 超级萌豚（百合控!） | sim racing | 可爱是最高赞美！| 希望成为友善与温暖的人 | 🇨🇳简繁中文/🇬🇧ENG(installing…)",
+        "id": "2070544483977232389",
+        "location": "Hong Kong",
+        "name": "Akano",
+        "pinned_tweet_id": "2077057751046558030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070544928502153218/ZFgKKGdd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 189,
+          "like_count": 1045,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 457
+        },
+        "url": "",
+        "username": "AkanoQWQ",
+        "verified": true
+      }
+    ]
+  }
+}

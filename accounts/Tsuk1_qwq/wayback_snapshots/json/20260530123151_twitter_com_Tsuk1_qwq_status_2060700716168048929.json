@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2060560762293350607",
+    "created_at": "2026-05-30T12:31:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T13:31:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060700716168048929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1257822205905219584",
+          "start": 0,
+          "username": "dzcwys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060700716168048929",
+    "in_reply_to_user_id": "1257822205905219584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060560762293350607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dzcwys 摸摸……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2060560753929932800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJiVFqAa0AAUpAZ.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2060560762293350607",
+        "created_at": "2026-05-30T12:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060700716168048929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1257822205905219584",
+              "start": 0,
+              "username": "dzcwys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060700716168048929",
+        "in_reply_to_user_id": "1257822205905219584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060560762293350607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dzcwys 摸摸……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060560753929932800"
+          ]
+        },
+        "author_id": "1257822205905219584",
+        "conversation_id": "2060560762293350607",
+        "created_at": "2026-05-30T03:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T04:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060560762293350607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G35Dd7kLnq",
+              "end": 163,
+              "expanded_url": "https://x.com/dzcwys/status/2060560762293350607/photo/1",
+              "media_key": "3_2060560753929932800",
+              "start": 140,
+              "url": "https://t.co/G35Dd7kLnq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060560762293350607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做噩梦了，没想到这次噩梦又是在拷打自己的精神状态，醒来脑海里第一个词是“好痛苦”然后没忍住哭了一会儿。\n\n但是仔细想想，我根本不可能和很多人去聚餐，至于来自谁的敌视也不过是一场笑话。\n\n但是梦中却想不到这一点，只会在梦里生气、难过和感受到很痛苦，失控般地爆发，甚至影响到梦醒时分 https://t.co/G35Dd7kLnq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, 日本語（勉強してる, English…\n玩点机（不太行），听ボカロ，想变成xyn…\n友跨，目前不含糖qwq（？）\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年的说…",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 350,
+          "like_count": 4181,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 711
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-05T23:59:22.000Z",
+        "description": "爱读轻小说，喜欢可爱的事物，是🍥xyn～，世界的观察者🍥（hrt→2023/02/03）",
+        "id": "1257822205905219584",
+        "location": "梦幻中的伊甸园",
+        "name": "樱下 琉璃🏳️‍⚧️",
+        "pinned_tweet_id": "1610804435109974017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002104162159636483/8n4PwQqo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1337,
+          "following_count": 619,
+          "like_count": 4182,
+          "listed_count": 2,
+          "media_count": 160,
+          "tweet_count": 1382
+        },
+        "username": "dzcwys",
+        "verified": false
+      }
+    ]
+  }
+}

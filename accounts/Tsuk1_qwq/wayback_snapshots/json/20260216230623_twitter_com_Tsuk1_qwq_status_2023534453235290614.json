@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2023530954095292563",
+    "created_at": "2026-02-16T23:06:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T00:06:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023534453235290614"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2023534453235290614",
+    "in_reply_to_user_id": "1793218407640481793",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023530954095292563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "emmm早上刷牙牙刷直接断了qwq……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2023530951037652992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBUGrcibkAABQ9d.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2023530954095292563",
+        "created_at": "2026-02-16T23:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T00:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023534453235290614"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023534453235290614",
+        "in_reply_to_user_id": "1793218407640481793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023530954095292563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "emmm早上刷牙牙刷直接断了qwq……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023530951037652992"
+          ]
+        },
+        "author_id": "1793218407640481793",
+        "conversation_id": "2023530954095292563",
+        "created_at": "2026-02-16T22:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T23:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023530954095292563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h4lAVGLVQR",
+              "end": 33,
+              "expanded_url": "https://x.com/Tsuk1_qwq/status/2023530954095292563/photo/1",
+              "media_key": "3_2023530951037652992",
+              "start": 10,
+              "url": "https://t.co/h4lAVGLVQR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023530954095292563",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上好喵～（揉眼） https://t.co/h4lAVGLVQR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, Japanese日本語（勉強してる）, English……\n玩点机（不太行），听ボカロ，想变成xyn……\n友跨，目前不含糖qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年QAQ）",
+        "id": "1793218407640481793",
+        "name": "Tsuki~ずっと夜に隠してる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 201,
+          "like_count": 1525,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 150
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

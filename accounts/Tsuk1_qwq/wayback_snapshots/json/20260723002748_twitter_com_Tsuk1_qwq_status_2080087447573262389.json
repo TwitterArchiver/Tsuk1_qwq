@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2079977961881743365",
+    "created_at": "2026-07-23T00:27:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T01:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080087447573262389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1751439404651130880",
+          "start": 0,
+          "username": "itigo021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080087447573262389",
+    "in_reply_to_user_id": "1751439404651130880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079977961881743365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itigo021 ありがとうね~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079977956349464576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN2Q7lzaUAAwnSt.jpg",
+        "width": 1570
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2079977961881743365",
+        "created_at": "2026-07-23T00:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T01:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080087447573262389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1751439404651130880",
+              "start": 0,
+              "username": "itigo021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080087447573262389",
+        "in_reply_to_user_id": "1751439404651130880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079977961881743365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itigo021 ありがとうね~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079977956349464576"
+          ]
+        },
+        "author_id": "1751439404651130880",
+        "conversation_id": "2079977961881743365",
+        "created_at": "2026-07-22T17:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T18:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079977961881743365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XFice0PmW9",
+              "end": 75,
+              "expanded_url": "https://x.com/itigo021/status/2079977961881743365/photo/1",
+              "media_key": "3_2079977956349464576",
+              "start": 52,
+              "url": "https://t.co/XFice0PmW9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079977961881743365",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 960,
+          "like_count": 81,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "どんなに辛く、なんのために頑張っているのか分からない日々を過ごしていても、可不ちゃんはみんなの味方だよ https://t.co/XFice0PmW9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "简中，繁体懂一点，日語勉強,English下手…\n玩机（不太行），ボカロ，不建政，负能，mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 391,
+          "like_count": 5893,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 991
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T02:58:12.000Z",
+        "description": "初心者が絵を練習するアカウント 可不ちゃん好き 絵の利用についてはDMまで AI利用❌ うちの子タグ #煮たいちごジャム pixiv→ https://t.co/pqXo91mYqC",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 51,
+                "tag": "煮たいちごジャム"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/41962377",
+                "end": 91,
+                "expanded_url": "https://www.pixiv.net/users/41962377",
+                "start": 68,
+                "url": "https://t.co/pqXo91mYqC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/itigo0…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/itigo02.bsky.social",
+                "start": 0,
+                "url": "https://t.co/CG9p3t5bwu"
+              }
+            ]
+          }
+        },
+        "id": "1751439404651130880",
+        "name": "にいちご",
+        "pinned_tweet_id": "1950409126200197532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039267103069687808/sXTVJ0jF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1767,
+          "following_count": 143,
+          "like_count": 6119,
+          "listed_count": 7,
+          "media_count": 422,
+          "tweet_count": 2864
+        },
+        "url": "https://t.co/CG9p3t5bwu",
+        "username": "itigo021",
+        "verified": false
+      }
+    ]
+  }
+}

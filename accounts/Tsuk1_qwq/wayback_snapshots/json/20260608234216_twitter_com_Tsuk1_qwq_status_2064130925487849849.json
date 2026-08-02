@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2064065325323432095",
+    "created_at": "2026-06-08T23:42:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T00:42:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064130925487849849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1426015810472972298",
+          "start": 0,
+          "username": "CyronANNO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064130925487849849",
+    "in_reply_to_user_id": "1426015810472972298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064065325323432095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyronANNO 可能备份的照片是之前备份过的，扫描了就跳过了……"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12335,
+        "height": 1108,
+        "media_key": "13_2064065192997376000",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064065192997376000/img/YjJ4RfklTnyQz-Rq.jpg",
+        "public_metrics": {
+          "view_count": 124
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064065192997376000/pl/vxdtYUwLkND9D-ml.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064065192997376000/vid/avc1/782x720/nyV7o6I1n-rxp98U.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064065192997376000/vid/avc1/1206x1108/X-hHGtJq1ZTkLDmy.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064065192997376000/vid/avc1/390x360/55XflcEEdS6vHHrr.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064065192997376000/vid/avc1/292x270/q86_KwdFNYFPE1t8.mp4"
+          }
+        ],
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2064065325323432095",
+        "created_at": "2026-06-08T23:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T00:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064130925487849849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1426015810472972298",
+              "start": 0,
+              "username": "CyronANNO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064130925487849849",
+        "in_reply_to_user_id": "1426015810472972298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064065325323432095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyronANNO 可能备份的照片是之前备份过的，扫描了就跳过了……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064065192997376000"
+          ]
+        },
+        "author_id": "1426015810472972298",
+        "conversation_id": "2064065325323432095",
+        "created_at": "2026-06-08T19:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T20:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064065325323432095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HeDpY6zDXs",
+              "end": 41,
+              "expanded_url": "https://x.com/CyronANNO/status/2064065325323432095/video/1",
+              "media_key": "13_2064065192997376000",
+              "start": 18,
+              "url": "https://t.co/HeDpY6zDXs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064065325323432095",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 324,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Google Photos 何意味 https://t.co/HeDpY6zDXs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, 日本語勉強,English下手…\n玩点机（不太行），听ボカロ，可能是xyn？（qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年的说…",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 369,
+          "like_count": 5052,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 818
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-13T03:00:52.000Z",
+        "description": "雑多 | 撮影 | ナチョ､フブキ推し | ガジェット | 音ゲー | チュウマイ | バンドリ | \nDM⇒フォロバ",
+        "id": "1426015810472972298",
+        "location": "Soochow ",
+        "name": "￴ ￴アノ￴￴ ￴￴ ￴￴ ￴￴︎",
+        "pinned_tweet_id": "2064066480434708792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061700160309325824/pubnTMXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2482,
+          "following_count": 908,
+          "like_count": 202684,
+          "listed_count": 0,
+          "media_count": 5315,
+          "tweet_count": 21840
+        },
+        "username": "CyronANNO",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032833138901282816",
+        "3_2032833139891200001"
+      ]
+    },
+    "author_id": "1793218407640481793",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1173614294082048001",
+          "name": "OPPO Indonesia"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "OPPO",
+          "id": "912729836665237505",
+          "name": "OPPO"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "OPPO",
+          "id": "912729836665237505",
+          "name": "OPPO"
+        }
+      }
+    ],
+    "conversation_id": "2032833143322063031",
+    "created_at": "2026-03-14T14:56:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T15:56:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032833143322063031"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rBo37qde3B",
+          "end": 197,
+          "expanded_url": "https://x.com/Tsuk1_qwq/status/2032833143322063031/photo/1",
+          "media_key": "3_2032833138901282816",
+          "start": 174,
+          "url": "https://t.co/rBo37qde3B"
+        },
+        {
+          "display_url": "pic.x.com/rBo37qde3B",
+          "end": 197,
+          "expanded_url": "https://x.com/Tsuk1_qwq/status/2032833143322063031/photo/1",
+          "media_key": "3_2032833139891200001",
+          "start": 174,
+          "url": "https://t.co/rBo37qde3B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032833143322063031",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "手头所有的设备\n从左到右是拥有她们的时间顺序：\nVivo X20A 4+64 骁龙660 当年我妈三千多买的（具体多少钱忘了）\n当时我妈这个是主力机，不过我经常玩。那时我自己有个OPPO A5但后来被砸了\n现在这玩意屏幕坏了，完全黑掉\nNote 12 Turbo 1TB\n中间刷了机40现在主力\nmiku ui小米6x\n今天刚得到的一加10Pro https://t.co/rBo37qde3B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2032833138901282816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDYS-CvacAAuU4S.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2032833139891200001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDYS-GbbYAEA5aM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032833138901282816",
+            "3_2032833139891200001"
+          ]
+        },
+        "author_id": "1793218407640481793",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1173614294082048001",
+              "name": "OPPO Indonesia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          }
+        ],
+        "conversation_id": "2032833143322063031",
+        "created_at": "2026-03-14T14:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T15:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032833143322063031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rBo37qde3B",
+              "end": 197,
+              "expanded_url": "https://x.com/Tsuk1_qwq/status/2032833143322063031/photo/1",
+              "media_key": "3_2032833138901282816",
+              "start": 174,
+              "url": "https://t.co/rBo37qde3B"
+            },
+            {
+              "display_url": "pic.x.com/rBo37qde3B",
+              "end": 197,
+              "expanded_url": "https://x.com/Tsuk1_qwq/status/2032833143322063031/photo/1",
+              "media_key": "3_2032833139891200001",
+              "start": 174,
+              "url": "https://t.co/rBo37qde3B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032833143322063031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "手头所有的设备\n从左到右是拥有她们的时间顺序：\nVivo X20A 4+64 骁龙660 当年我妈三千多买的（具体多少钱忘了）\n当时我妈这个是主力机，不过我经常玩。那时我自己有个OPPO A5但后来被砸了\n现在这玩意屏幕坏了，完全黑掉\nNote 12 Turbo 1TB\n中间刷了机40现在主力\nmiku ui小米6x\n今天刚得到的一加10Pro https://t.co/rBo37qde3B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, Japanese日本語（勉強してる）, English……\n玩点机（不太行），听ボカロ，想变成xyn……\n友跨，目前不含糖qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年QAQ）",
+        "id": "1793218407640481793",
+        "name": "Tsuki~ずっと夜に隠してる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 273,
+          "like_count": 2703,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 353
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

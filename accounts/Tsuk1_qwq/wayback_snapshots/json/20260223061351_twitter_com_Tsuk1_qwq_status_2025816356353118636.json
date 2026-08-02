@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2025532198091379141",
+    "created_at": "2026-02-23T06:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T07:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025816356353118636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1752640236138684416",
+          "start": 0,
+          "username": "xiohunggu251015"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025816356353118636",
+    "in_reply_to_user_id": "1752640236138684416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025532198091379141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiohunggu251015 学了一年OI然后被家里退了……哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2025532198091379141",
+        "created_at": "2026-02-23T06:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T07:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025816356353118636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1752640236138684416",
+              "start": 0,
+              "username": "xiohunggu251015"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025816356353118636",
+        "in_reply_to_user_id": "1752640236138684416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025532198091379141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiohunggu251015 学了一年OI然后被家里退了……哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752640236138684416",
+        "conversation_id": "2025532198091379141",
+        "created_at": "2026-02-22T11:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T12:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025532198091379141"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025532198091379141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 13811,
+          "like_count": 116,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "程序员分为两派\n其中一派师承图灵老祖，得到神力的代价是变成小南梁\n另一派师承冯·诺依曼，得到神力的代价是秃顶\n我获得了图灵之力🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, Japanese日本語（勉強してる）, English……\n玩点机（不太行），听ボカロ，想变成xyn……\n友跨，目前不含糖qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年QAQ）",
+        "id": "1793218407640481793",
+        "name": "Tsuki~ずっと夜に隠してる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 249,
+          "like_count": 2112,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 249
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T10:29:40.000Z",
+        "description": "2009/12/24  |  MC玩家  |  台湾药娘王(座标台中)  |  精神状态轻度糟糕(?)  |  不od不割手  |  旧帐号  @omgnowihavefish  |  大社恐  |  妈妈: @HappyHejsDay",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "omgnowihavefish"
+              },
+              {
+                "end": 118,
+                "start": 105,
+                "username": "HappyHejsDay"
+              }
+            ]
+          }
+        },
+        "id": "1752640236138684416",
+        "name": "黄瓜🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2025023382308487514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015661976337461249/5k_w3tLy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1776,
+          "following_count": 780,
+          "like_count": 6295,
+          "listed_count": 3,
+          "media_count": 137,
+          "tweet_count": 1199
+        },
+        "username": "xiohunggu251015",
+        "verified": false
+      }
+    ]
+  }
+}

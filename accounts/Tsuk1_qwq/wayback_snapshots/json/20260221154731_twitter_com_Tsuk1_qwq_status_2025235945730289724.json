@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2025235945730289724",
+    "created_at": "2026-02-21T15:47:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T16:47:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025235945730289724"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2025235945730289724",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呜呜呜初八就要回学校寄宿了\n真的不喜欢学校，但也不喜欢家里。\n无论怎么难受的总是我吧。\n在家里什么事情都要被压着一头，在学校也是所有事情都要被压着大气不敢喘\n\n活着真的好累\n\n想起很久很久以前我不会天天看推，也不会像现在这样因为一个赞或者回复开心很久\n现在，或许有点敏感了吧。\n谢谢你们啦~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2025235945730289724",
+        "created_at": "2026-02-21T15:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T16:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025235945730289724"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025235945730289724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜呜初八就要回学校寄宿了\n真的不喜欢学校，但也不喜欢家里。\n无论怎么难受的总是我吧。\n在家里什么事情都要被压着一头，在学校也是所有事情都要被压着大气不敢喘\n\n活着真的好累\n\n想起很久很久以前我不会天天看推，也不会像现在这样因为一个赞或者回复开心很久\n现在，或许有点敏感了吧。\n谢谢你们啦~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, Japanese日本語（勉強してる）, English……\n玩点机（不太行），听ボカロ，想变成xyn……\n友跨，目前不含糖qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年QAQ）",
+        "id": "1793218407640481793",
+        "name": "Tsuki~ずっと夜に隠してる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 228,
+          "like_count": 1805,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 214
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

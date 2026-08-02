@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2082795422750531731",
+    "created_at": "2026-07-30T23:27:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T00:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082971282199757109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2033116026410598400",
+          "start": 0,
+          "username": "Irosas_xyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082971282199757109",
+    "in_reply_to_user_id": "2033116026410598400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082795422750531731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Irosas_xyn 喵～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2082795422750531731",
+        "created_at": "2026-07-30T23:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T00:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082971282199757109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033116026410598400",
+              "start": 0,
+              "username": "Irosas_xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082971282199757109",
+        "in_reply_to_user_id": "2033116026410598400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082795422750531731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Irosas_xyn 喵～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033116026410598400",
+        "conversation_id": "2082795422750531731",
+        "created_at": "2026-07-30T11:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T12:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082795422750531731"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082795422750531731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2270,
+          "like_count": 95,
+          "quote_count": 0,
+          "reply_count": 68,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个号好像解ban了🤔\n能看到这条推文的喵一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "简中，繁体懂一点，日語勉強,English下手…\n玩机（不太行），ボカロ，不建政，负能，mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 448,
+          "like_count": 7467,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 1282
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T09:40:49.000Z",
+        "description": "MtF｜bi｜出厂日期11.05.12｜🍥26.04.30｜无证含糖｜不键政不OD｜休学ing｜182cm😭 BMI 27+😭\n生在白旗下，长在阴沟里 \n里推：@Irosas_sub\n无墙内联系方式\n同类会尽力回fo除非白号\nhttps://t.co/qIlOM01gGw\nhttps://t.co/gIYkKuCa8q",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 80,
+                "username": "Irosas_sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "telegram.me/irosas_xyn",
+                "end": 136,
+                "expanded_url": "http://telegram.me/irosas_xyn",
+                "start": 113,
+                "url": "https://t.co/qIlOM01gGw"
+              },
+              {
+                "display_url": "ngl.link/irosas_xyn",
+                "end": 160,
+                "expanded_url": "http://ngl.link/irosas_xyn",
+                "start": 137,
+                "url": "https://t.co/gIYkKuCa8q"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/irosas…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/irosas.bsky.social",
+                "start": 0,
+                "url": "https://t.co/atwlxRTfKc"
+              }
+            ]
+          }
+        },
+        "id": "2033116026410598400",
+        "location": "Jinan",
+        "name": "Irosas🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2081378766279131405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068820111767842816/CyiUvjMF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 345,
+          "like_count": 1095,
+          "listed_count": 3,
+          "media_count": 54,
+          "tweet_count": 1159
+        },
+        "url": "https://t.co/atwlxRTfKc",
+        "username": "Irosas_xyn",
+        "verified": true
+      }
+    ]
+  }
+}

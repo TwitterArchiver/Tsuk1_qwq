@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025906060494872576"
+      ]
+    },
+    "author_id": "1793218407640481793",
+    "conversation_id": "2025597427319980516",
+    "created_at": "2026-02-23T12:10:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T13:10:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025906068463985054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1963610266874298368",
+          "start": 0,
+          "username": "Kazuna_Kori"
+        },
+        {
+          "end": 25,
+          "id": "1714606113226706944",
+          "start": 13,
+          "username": "xiaoxie_art"
+        },
+        {
+          "end": 35,
+          "id": "338387866",
+          "start": 26,
+          "username": "0xDraco9"
+        },
+        {
+          "end": 43,
+          "id": "1545277694325116928",
+          "start": 36,
+          "username": "BI3BXI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oFKn3ANbU4",
+          "end": 73,
+          "expanded_url": "https://x.com/Tsuk1_qwq/status/2025906068463985054/photo/1",
+          "media_key": "3_2025906060494872576",
+          "start": 50,
+          "url": "https://t.co/oFKn3ANbU4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025906068463985054",
+    "in_reply_to_user_id": "1963610266874298368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025869167593763207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kazuna_Kori @xiaoxie_art @0xDraco9 @BI3BXI 嗯嗯我也是 https://t.co/oFKn3ANbU4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025906060494872576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB121AwboAAvbFd.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025906060494872576"
+          ]
+        },
+        "author_id": "1793218407640481793",
+        "conversation_id": "2025597427319980516",
+        "created_at": "2026-02-23T12:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T13:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025906068463985054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1963610266874298368",
+              "start": 0,
+              "username": "Kazuna_Kori"
+            },
+            {
+              "end": 25,
+              "id": "1714606113226706944",
+              "start": 13,
+              "username": "xiaoxie_art"
+            },
+            {
+              "end": 35,
+              "id": "338387866",
+              "start": 26,
+              "username": "0xDraco9"
+            },
+            {
+              "end": 43,
+              "id": "1545277694325116928",
+              "start": 36,
+              "username": "BI3BXI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oFKn3ANbU4",
+              "end": 73,
+              "expanded_url": "https://x.com/Tsuk1_qwq/status/2025906068463985054/photo/1",
+              "media_key": "3_2025906060494872576",
+              "start": 50,
+              "url": "https://t.co/oFKn3ANbU4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025906068463985054",
+        "in_reply_to_user_id": "1963610266874298368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025869167593763207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kazuna_Kori @xiaoxie_art @0xDraco9 @BI3BXI 嗯嗯我也是 https://t.co/oFKn3ANbU4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963610266874298368",
+        "conversation_id": "2025597427319980516",
+        "created_at": "2026-02-23T09:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T10:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025869167593763207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1714606113226706944",
+              "start": 0,
+              "username": "xiaoxie_art"
+            },
+            {
+              "end": 22,
+              "id": "338387866",
+              "start": 13,
+              "username": "0xDraco9"
+            },
+            {
+              "end": 30,
+              "id": "1545277694325116928",
+              "start": 23,
+              "username": "BI3BXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025869167593763207",
+        "in_reply_to_user_id": "1714606113226706944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025721520731890085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoxie_art @0xDraco9 @BI3BXI 我試過轉載YT的視頻到B站上，視頻根本無法通過審核，瞬間就直接被打回了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, Japanese日本語（勉強してる）, English……\n玩点机（不太行），听ボカロ，想变成xyn……\n友跨，目前不含糖qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年QAQ）",
+        "id": "1793218407640481793",
+        "name": "Tsuki~ずっと夜に隠してる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 258,
+          "like_count": 2367,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 275
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-04T14:29:21.000Z",
+        "description": "",
+        "id": "1963610266874298368",
+        "name": "Zihan_Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963610339406381056/m4mToRKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 82,
+          "like_count": 3026,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "Kazuna_Kori",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-18T11:35:42.000Z",
+        "description": "Visual Storyteller | 个人主观观点有局限性，不代表任何团体或其他人，无意冒犯其他个人、企业、机构或团体等，如您有不同观点，欢迎友善讨论｜技可進乎道 藝可通乎神 | 不望文生义 也不断章取义 | 嚴於律己 寬以待人 | 德才兼备 知行合一",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "davidxie28.myportfolio.com",
+                "end": 23,
+                "expanded_url": "https://davidxie28.myportfolio.com/",
+                "start": 0,
+                "url": "https://t.co/Yyr0LpeyLH"
+              }
+            ]
+          }
+        },
+        "id": "1714606113226706944",
+        "location": "O Canada | Portfolio →",
+        "name": "DX | Video Editor",
+        "pinned_tweet_id": "1987304263643484452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998944960410705920/qVtXLxsy_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 375,
+          "like_count": 68168,
+          "listed_count": 6,
+          "media_count": 297,
+          "tweet_count": 7074
+        },
+        "url": "https://t.co/Yyr0LpeyLH",
+        "username": "xiaoxie_art",
+        "verified": true
+      },
+      {
+        "created_at": "2011-07-19T14:18:48.000Z",
+        "description": "",
+        "id": "338387866",
+        "name": "Draco9",
+        "pinned_tweet_id": "1477632746382311426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1076612426974453760/boaNAMMy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 87,
+          "like_count": 342,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 405
+        },
+        "username": "0xDraco9",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "07年的大只Enby｜请不要屏蔽我🥺｜本体@yqua_｜点击“查看更多”可以了解我～｜老姐 @TennoujiNyano｜最近在听@nbuna_staff",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 21,
+                "username": "yqua_"
+              },
+              {
+                "end": 60,
+                "start": 46,
+                "username": "TennoujiNyano"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "nbuna_staff"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qm.qq.com/q/TT3IUMhhUQ",
+                "end": 23,
+                "expanded_url": "https://qm.qq.com/q/TT3IUMhhUQ",
+                "start": 0,
+                "url": "https://t.co/9ZD7jPC8bX"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "军粮城北站",
+        "name": "你是要气死铨酱么（淡推中）",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7644,
+          "following_count": 3491,
+          "like_count": 32432,
+          "listed_count": 20,
+          "media_count": 1685,
+          "tweet_count": 6566
+        },
+        "url": "https://t.co/9ZD7jPC8bX",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

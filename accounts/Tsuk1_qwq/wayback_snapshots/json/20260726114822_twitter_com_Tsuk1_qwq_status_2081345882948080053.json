@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2079940408428363792",
+    "created_at": "2026-07-26T11:48:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T12:48:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081345882948080053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2008233761763409920",
+          "start": 0,
+          "username": "galaxy1025850"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081345882948080053",
+    "in_reply_to_user_id": "2008233761763409920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079940408428363792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@galaxy1025850 猫猫！nya~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2079940297312841729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1uri9aMAE6742.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1259,
+        "media_key": "3_2079940297614897154",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1urkFbMAIRFLn.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2079940408428363792",
+        "created_at": "2026-07-26T11:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T12:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081345882948080053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2008233761763409920",
+              "start": 0,
+              "username": "galaxy1025850"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081345882948080053",
+        "in_reply_to_user_id": "2008233761763409920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079940408428363792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@galaxy1025850 猫猫！nya~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079940297312841729",
+            "3_2079940297614897154"
+          ]
+        },
+        "author_id": "2008233761763409920",
+        "conversation_id": "2079940408428363792",
+        "created_at": "2026-07-22T14:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079940408428363792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y5MtVf7vTq",
+              "end": 31,
+              "expanded_url": "https://x.com/galaxy1025850/status/2079940408428363792/photo/1",
+              "media_key": "3_2079940297312841729",
+              "start": 8,
+              "url": "https://t.co/y5MtVf7vTq"
+            },
+            {
+              "display_url": "pic.x.com/y5MtVf7vTq",
+              "end": 31,
+              "expanded_url": "https://x.com/galaxy1025850/status/2079940408428363792/photo/1",
+              "media_key": "3_2079940297614897154",
+              "start": 8,
+              "url": "https://t.co/y5MtVf7vTq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079940408428363792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16271,
+          "impression_count": 10454846,
+          "like_count": 173672,
+          "quote_count": 1058,
+          "reply_count": 467,
+          "retweet_count": 15251
+        },
+        "reply_settings": "everyone",
+        "text": "*学到了冷知识 https://t.co/y5MtVf7vTq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "简中，繁体懂一点，日語勉強,English下手…\n玩机（不太行），ボカロ，不建政，负能，mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 416,
+          "like_count": 6578,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 1132
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-05T17:47:02.000Z",
+        "description": "🐖🐖🐖🐖🐖 \n🏃到处乱窜随机刷新的北方网友\n💻捣鼓 AI & Cloud Computing｜垃圾代码 producer\nPansexual | 非常友跨 \n💫欢迎互 fo，发现被我莫名奇妙fo了就是暗恋你😘 ​\n脾气超好 啥都能聊 欢迎骚扰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.17co.de",
+                "end": 23,
+                "expanded_url": "https://blog.17co.de",
+                "start": 0,
+                "url": "https://t.co/3iZAC7R5oH"
+              }
+            ]
+          }
+        },
+        "id": "2008233761763409920",
+        "location": "./tpaccept 马上刷新在你家",
+        "name": "galaxy",
+        "pinned_tweet_id": "2061990483363312002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080383668082851840/WI3z7833_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 847,
+          "like_count": 2145,
+          "listed_count": 3,
+          "media_count": 117,
+          "tweet_count": 1286
+        },
+        "url": "https://t.co/3iZAC7R5oH",
+        "username": "galaxy1025850",
+        "verified": true
+      }
+    ]
+  }
+}
