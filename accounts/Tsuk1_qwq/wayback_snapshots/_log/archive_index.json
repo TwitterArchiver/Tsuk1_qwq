@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-02T23:39:50",
+  "last_updated": "2026-08-02T23:40:22",
   "html": {
     "https://web.archive.org/web/20260216155555if_/https://twitter.com/Tsuk1_qwq/status/2023426121669497266": {
       "status": "done",
@@ -10181,9 +10181,9 @@
       "referenced_by": [
         "20260418234653_twitter_com_Tsuk1_qwq_status_2045650304709071271.json"
       ],
-      "last_updated": "2026-08-02T23:30:41",
+      "last_updated": "2026-08-02T23:40:22",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260418234653/https://video.twimg.com/ext_tw_video/2045482014032429057/pu/vid/avc1/720x1280/eCZK3QLVcZ88O0qV.mp4?tag=12",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/ext_tw_video/2060377547980869638/pu/vid/avc1/720x1280/YPihpl2BBOnZQoeO.mp4?tag=12": {
       "status": "done",
