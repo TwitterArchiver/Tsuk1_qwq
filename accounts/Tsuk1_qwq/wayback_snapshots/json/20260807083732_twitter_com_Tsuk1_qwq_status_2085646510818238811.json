@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085646499552333824"
+      ]
+    },
+    "author_id": "1793218407640481793",
+    "conversation_id": "2085613408888770657",
+    "created_at": "2026-08-07T08:37:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T09:37:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085646510818238811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1917261838485708802",
+          "start": 0,
+          "username": "qiujiudev"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BCj2yO8zG4",
+          "end": 53,
+          "expanded_url": "https://x.com/Tsuk1_qwq/status/2085646510818238811/photo/1",
+          "media_key": "3_2085646499552333824",
+          "start": 30,
+          "url": "https://t.co/BCj2yO8zG4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085646510818238811",
+    "in_reply_to_user_id": "1917261838485708802",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085613408888770657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiujiudev 网速慢，看到这个就退出了qwqqwq https://t.co/BCj2yO8zG4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2085646499552333824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPG0cOzakAA2uU7.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085646499552333824"
+          ]
+        },
+        "author_id": "1793218407640481793",
+        "conversation_id": "2085613408888770657",
+        "created_at": "2026-08-07T08:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T09:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085646510818238811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1917261838485708802",
+              "start": 0,
+              "username": "qiujiudev"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BCj2yO8zG4",
+              "end": 53,
+              "expanded_url": "https://x.com/Tsuk1_qwq/status/2085646510818238811/photo/1",
+              "media_key": "3_2085646499552333824",
+              "start": 30,
+              "url": "https://t.co/BCj2yO8zG4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085646510818238811",
+        "in_reply_to_user_id": "1917261838485708802",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085613408888770657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiujiudev 网速慢，看到这个就退出了qwqqwq https://t.co/BCj2yO8zG4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917261838485708802",
+        "conversation_id": "2085613408888770657",
+        "created_at": "2026-08-07T06:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T07:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085613408888770657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "api.xiaoheihe.cn/game/share_gam…",
+              "end": 56,
+              "expanded_url": "https://api.xiaoheihe.cn/game/share_game_detail?appid=f80d9f2ad206&game_type=console",
+              "start": 33,
+              "unwound_url": "https://www.xiaoheihe.cn/app/topic/game/console/f80d9f2ad206?title=%E5%8A%A8%E6%BC%AB%E8%B5%A4%E8%B6%B3%E7%94%B7%E5%AD%A9%EF%BC%9A%E9%AD%85%E5%8A%9B%E5%AF%BB%E8%A7%85%E4%BB%BB%E5%8A%A1&game_type=console&appid=f80d9f2ad206",
+              "url": "https://t.co/iOohq557ZT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085613408888770657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1431,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这是我见到过最好玩的游戏，立绘十分精美，现在还打折你们快看看（）\nhttps://t.co/iOohq557ZT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "是只猫……简中，繁体懂一点，日語勉強,English下手…\n玩机（不太行），ボカロ，不建政，负能，mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 496,
+          "like_count": 9062,
+          "listed_count": 2,
+          "media_count": 199,
+          "tweet_count": 1578
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T16:57:06.000Z",
+        "description": "你好啊，我是秋玖，一个普普通通的10后wmc，重度VOCALOID爱好者 音游痴 和杂食党 爱玩魔裁。爱好广泛，欢迎扩列～私信和TG随时欢迎随时骚扰！TG:https://t.co/v5O8gYnjm0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Qiujiudev",
+                "end": 101,
+                "expanded_url": "http://t.me/Qiujiudev",
+                "start": 78,
+                "url": "https://t.co/v5O8gYnjm0"
+              }
+            ]
+          }
+        },
+        "id": "1917261838485708802",
+        "name": "秋玖",
+        "pinned_tweet_id": "2083548515905753559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077321726548193281/6_jw7mdP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 484,
+          "like_count": 2682,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 612
+        },
+        "url": "",
+        "username": "qiujiudev",
+        "verified": false
+      }
+    ]
+  }
+}

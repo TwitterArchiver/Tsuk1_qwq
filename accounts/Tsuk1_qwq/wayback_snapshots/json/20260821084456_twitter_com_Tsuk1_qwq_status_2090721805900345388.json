@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2090721805900345388",
+    "created_at": "2026-08-21T08:44:56.000Z",
+    "display_text_range": [
+      0,
+      113
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T09:44:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090721805900345388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1887391023976038400",
+          "start": 3,
+          "username": "xiey57828"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090721805900345388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090666675360432473",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiey57828: 为什么一说到跨性别就有：\n精神病、不正常、困境、痛苦、活不过30、责骂、不理解等等词汇，似乎都是负面性的形容词？\n\n善良、温柔、包容、共情感强等这些正面的评价却少之又少，可明明很多的大家都不坏呀。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2090721805900345388",
+        "created_at": "2026-08-21T08:44:56.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T09:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090721805900345388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1887391023976038400",
+              "start": 3,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090721805900345388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090666675360432473",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiey57828: 为什么一说到跨性别就有：\n精神病、不正常、困境、痛苦、活不过30、责骂、不理解等等词汇，似乎都是负面性的形容词？\n\n善良、温柔、包容、共情感强等这些正面的评价却少之又少，可明明很多的大家都不坏呀。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2090666675360432473",
+        "created_at": "2026-08-21T05:05:52.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T06:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090666675360432473"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090666675360432473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 724,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "为什么一说到跨性别就有：\n精神病、不正常、困境、痛苦、活不过30、责骂、不理解等等词汇，似乎都是负面性的形容词？\n\n善良、温柔、包容、共情感强等这些正面的评价却少之又少，可明明很多的大家都不坏呀。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "是只猫……简中/繁体/日語/English下手…\n玩机（不太行），ボカロ，不建政，负能，🏳️‍⚧️mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "is_identity_verified": false,
+        "location": "世界上最柔软的角落",
+        "most_recent_tweet_id": "2090721805900345388",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1793218407640481793/1747471387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 518,
+          "like_count": 9681,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 1771
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "一颗带刺的毛桃，要怎么洗才能洗干净呢？\n算了，不洗了，也不吃了，留着观赏。\n\n反对一切药物滥用、自伤。或许还反跨性别。\n\n恋人@ABC13067637 & @a2517337359\n逃生舱@520xiey57828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 63,
+                "username": "ABC13067637"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "a2517337359"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "520xiey57828"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "温柔乡",
+        "most_recent_tweet_id": "2090684089439510695",
+        "name": "沐桃",
+        "pinned_tweet_id": "2077037874361553375",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1517,
+          "following_count": 512,
+          "like_count": 15280,
+          "listed_count": 3,
+          "media_count": 325,
+          "tweet_count": 5605
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

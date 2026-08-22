@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083901557050109952"
+      ]
+    },
+    "author_id": "1793218407640481793",
+    "conversation_id": "2083901612402057334",
+    "created_at": "2026-08-02T13:03:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T14:03:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083901612402057334"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oYkTZ68qMs",
+          "end": 76,
+          "expanded_url": "https://x.com/Tsuk1_qwq/status/2083901612402057334/photo/1",
+          "media_key": "3_2083901557050109952",
+          "start": 53,
+          "url": "https://t.co/oYkTZ68qMs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083901612402057334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "手破皮了……\n经过tsuki长达4天的教学，我妈终于学会（基本的）骑自行车了！！！！！！\n可喜可贺qwq https://t.co/oYkTZ68qMs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2083901557050109952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuBbNba8AAWnPL.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083901557050109952"
+          ]
+        },
+        "author_id": "1793218407640481793",
+        "conversation_id": "2083901612402057334",
+        "created_at": "2026-08-02T13:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083901612402057334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oYkTZ68qMs",
+              "end": 76,
+              "expanded_url": "https://x.com/Tsuk1_qwq/status/2083901612402057334/photo/1",
+              "media_key": "3_2083901557050109952",
+              "start": 53,
+              "url": "https://t.co/oYkTZ68qMs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083901612402057334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "手破皮了……\n经过tsuki长达4天的教学，我妈终于学会（基本的）骑自行车了！！！！！！\n可喜可贺qwq https://t.co/oYkTZ68qMs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "简中，繁体懂一点，日語勉強,English下手…\n玩机（不太行），ボカロ，不建政，负能，mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 461,
+          "like_count": 8061,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 1392
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

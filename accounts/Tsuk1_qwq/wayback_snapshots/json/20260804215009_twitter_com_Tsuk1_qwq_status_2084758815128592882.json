@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2084687979751350529",
+    "created_at": "2026-08-04T21:50:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T22:50:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084758815128592882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1476213746175459334",
+          "start": 0,
+          "username": "BY7005SWL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084758815128592882",
+    "in_reply_to_user_id": "1476213746175459334",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084687979751350529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BY7005SWL 杨桃成精啦！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2084687961451601920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO5Mp-HbIAAXxt_.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2084687979751350529",
+        "created_at": "2026-08-04T21:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T22:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084758815128592882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476213746175459334",
+              "start": 0,
+              "username": "BY7005SWL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084758815128592882",
+        "in_reply_to_user_id": "1476213746175459334",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084687979751350529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BY7005SWL 杨桃成精啦！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084687961451601920"
+          ]
+        },
+        "author_id": "1476213746175459334",
+        "conversation_id": "2084687979751350529",
+        "created_at": "2026-08-04T17:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T18:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084687979751350529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tLCMFUUgPj",
+              "end": 29,
+              "expanded_url": "https://x.com/BY7005SWL/status/2084687979751350529/photo/1",
+              "media_key": "3_2084687961451601920",
+              "start": 6,
+              "url": "https://t.co/tLCMFUUgPj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084687979751350529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小土可爱w https://t.co/tLCMFUUgPj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "简中，繁体懂一点，日語勉強,English下手…\n玩机（不太行），ボカロ，不建政，负能，mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 472,
+          "like_count": 8618,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 1507
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T15:29:26.000Z",
+        "description": "是只阴暗邪灵 - 长的不好看 - 坐标广州 - 擅长写BUG - 未知性别 - BA7OMF - /⁠ᐠ⁠｡⁠ꞈ⁠｡⁠ᐟ⁠\\ （可以叫我星绘 还有 贴贴是好文明！）",
+        "id": "1476213746175459334",
+        "name": "绘.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063217274711072768/M2cOk4PS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 500,
+          "like_count": 23601,
+          "listed_count": 1,
+          "media_count": 537,
+          "tweet_count": 2210
+        },
+        "url": "",
+        "username": "BY7005SWL",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2085610647631675646",
+    "created_at": "2026-08-07T12:24:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T13:24:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085703553302331662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2062372266613338112",
+          "start": 0,
+          "username": "scarymq69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085703553302331662",
+    "in_reply_to_user_id": "2062372266613338112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085703018591535484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@scarymq69 好勇敢qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2085610647631675646",
+        "created_at": "2026-08-07T12:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T13:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085703553302331662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2062372266613338112",
+              "start": 0,
+              "username": "scarymq69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085703553302331662",
+        "in_reply_to_user_id": "2062372266613338112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085703018591535484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scarymq69 好勇敢qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062372266613338112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2085610647631675646",
+        "created_at": "2026-08-07T12:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T13:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085703018591535484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1793218407640481793",
+              "start": 0,
+              "username": "Tsuk1_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085703018591535484",
+        "in_reply_to_user_id": "1793218407640481793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085610647631675646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tsuk1_qwq 这明摆着学校已经犯法了，侵犯他人的隐私权，可以直接去找教育厅😅\n7.8考完试班主任直接把我手旁边打出血了\n还威胁我要是敢举报直接送封闭学校\n也许我什么都怕，但唯独这个我会挺身而出\n就像优酷的《千钧一发》，罗刚在最后一集说要做一只真正的鹰\n现在班主任要面临开除的风险，一定要维权"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "是只猫……简中，繁体懂一点，日語勉強,English下手…\n玩机（不太行），ボカロ，不建政，负能，mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 507,
+          "like_count": 9146,
+          "listed_count": 2,
+          "media_count": 199,
+          "tweet_count": 1602
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-04T03:15:29.000Z",
+        "description": "discord:https://t.co/kRTt0dGT36\nngl:https://t.co/W9W5MzrfJz\nFb:https://t.co/4mJfWTZyVM\n和平ID：4755553056，加好友之前备注我在Twitter的姓名\n8月25之前超过300followers抄名",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/QBbCYht86Y",
+                "end": 31,
+                "expanded_url": "http://discord.gg/QBbCYht86Y",
+                "start": 8,
+                "url": "https://t.co/kRTt0dGT36"
+              },
+              {
+                "display_url": "ngl.link/pp19goo7h52573",
+                "end": 59,
+                "expanded_url": "http://ngl.link/pp19goo7h52573",
+                "start": 36,
+                "url": "https://t.co/W9W5MzrfJz"
+              },
+              {
+                "display_url": "facebook.com/share/1PfyiiDe…",
+                "end": 86,
+                "expanded_url": "http://facebook.com/share/1PfyiiDefn/",
+                "start": 63,
+                "url": "https://t.co/4mJfWTZyVM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreamail.cn/send?dm=a97f90…",
+                "end": 23,
+                "expanded_url": "https://dreamail.cn/send?dm=a97f9025-e48f-4ad9-8389-f612693bdff6",
+                "start": 0,
+                "url": "https://t.co/ptenaS3kSC"
+              }
+            ]
+          }
+        },
+        "id": "2062372266613338112",
+        "location": "Hong Kong",
+        "name": "scary farmer",
+        "pinned_tweet_id": "2083193298265821559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083067630739759104/CDVBiDdT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 261,
+          "like_count": 5445,
+          "listed_count": 0,
+          "media_count": 418,
+          "tweet_count": 2559
+        },
+        "url": "https://t.co/ptenaS3kSC",
+        "username": "scarymq69",
+        "verified": false
+      }
+    ]
+  }
+}

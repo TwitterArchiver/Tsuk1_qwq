@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2090784375327826254",
+    "created_at": "2026-08-21T12:57:27.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T13:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090785350444855583"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2090785350444855583",
+    "in_reply_to_user_id": "1793218407640481793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090784375327826254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "星尘812周年的话……我们也变成星星了哦qwq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2090784359091691520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQP1TBGaYAAa7MZ.jpg",
+        "width": 3075
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2090784375327826254",
+        "created_at": "2026-08-21T12:57:27.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T13:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090785350444855583"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090785350444855583",
+        "in_reply_to_user_id": "1793218407640481793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090784375327826254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "星尘812周年的话……我们也变成星星了哦qwq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090784359091691520"
+          ]
+        },
+        "author_id": "1793218407640481793",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090784375327826254",
+        "created_at": "2026-08-21T12:53:34.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T13:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090784375327826254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DFLeMT0olA",
+              "end": 43,
+              "expanded_url": "https://x.com/Tsuk1_qwq/status/2090784375327826254/photo/1",
+              "media_key": "3_2090784359091691520",
+              "start": 20,
+              "url": "https://t.co/DFLeMT0olA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090784375327826254",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090784359091691520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看了星尘直播！！\n忘忘声音好好听！！！ https://t.co/DFLeMT0olA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "是只猫……简中/繁体/日語/English下手…\n玩机（不太行），ボカロ，不建政，负能，🏳️‍⚧️mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "is_identity_verified": false,
+        "location": "世界上最柔软的角落",
+        "most_recent_tweet_id": "2090785350444855583",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1793218407640481793/1747471387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 518,
+          "like_count": 9747,
+          "listed_count": 2,
+          "media_count": 209,
+          "tweet_count": 1780
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

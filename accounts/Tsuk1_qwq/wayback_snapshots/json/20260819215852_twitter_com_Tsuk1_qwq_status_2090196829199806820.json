@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2090032610932293750",
+    "created_at": "2026-08-19T21:58:52.000Z",
+    "display_text_range": [
+      10,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T22:58:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090196829199806820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2070544483977232389",
+          "start": 0,
+          "username": "AkanoQWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090196829199806820",
+    "in_reply_to_user_id": "2070544483977232389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090032610932293750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkanoQWQ 呜呜呜呜呜呜羡慕喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2090032610932293750",
+        "created_at": "2026-08-19T21:58:52.000Z",
+        "display_text_range": [
+          10,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T22:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090196829199806820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070544483977232389",
+              "start": 0,
+              "username": "AkanoQWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090196829199806820",
+        "in_reply_to_user_id": "2070544483977232389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090032610932293750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkanoQWQ 呜呜呜呜呜呜羡慕喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070544483977232389",
+        "conversation_id": "2090032610932293750",
+        "created_at": "2026-08-19T11:06:20.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T12:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090032610932293750"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090032610932293750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "妈妈：“其实你的条件是很好的，只要你愿意的话可以往*自己想要的方向*发展的。你的髋骨也不是很突出，只是因为太瘦了才会显得明显，脸上肉多一些就好了。发型服饰什么的都大胆尝试一下嘛，审美的提升也是需要时间的，可能短期会变得更难看，但是也是为了长期变得更美嘛。以后教教你护肤什么的......”\n首先很感动呜呜呜，其实从小到大没有太被妈妈夸过外貌（但是是好事！不是很想被公式化夸夸帅气），能在这个时候被认可还是很开心的w。其次算是被妈妈看作天赋党了，但我本人表示非常存疑，感觉安慰成分偏多但是还是很开心了...陪伴与支持，呜呜呜...好感动好幸福的…"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1076,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈妈：“其实你的条件是很好的，只要你愿意的话可以往*自己想要的方向*发展的。你的髋骨也不是很突出，只是因为太瘦了才会显得明显，脸上肉多一些就好了。发型服饰什么的都大胆尝试一下嘛，审美的提升也是需要时间的，可能短期会变得更难看，但是也是为了长期变得更美嘛。以后教教你护肤什么的......”"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "是只猫……简中/繁体/日語/English下手…\n玩机（不太行），ボカロ，不建政，负能，🏳️‍⚧️mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "is_identity_verified": false,
+        "location": "世界上最柔软的角落",
+        "most_recent_tweet_id": "2090196829199806820",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1793218407640481793/1747471387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 514,
+          "like_count": 9508,
+          "listed_count": 2,
+          "media_count": 204,
+          "tweet_count": 1716
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-26T16:28:13.000Z",
+        "description": "退役OIer | 现役RMer | Counter-Strike | 超级萌豚（百合控!） | sim racing | 可爱是最高赞美！| 希望成为友善与温暖的人 | 🇨🇳简繁中文/🇬🇧ENG(installing…)",
+        "id": "2070544483977232389",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2090105994621977000",
+        "name": "Akano",
+        "pinned_tweet_id": "2077057751046558030",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070544483977232389/1784525401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070544928502153218/ZFgKKGdd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 358,
+          "like_count": 2184,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 811
+        },
+        "url": "",
+        "username": "AkanoQWQ",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

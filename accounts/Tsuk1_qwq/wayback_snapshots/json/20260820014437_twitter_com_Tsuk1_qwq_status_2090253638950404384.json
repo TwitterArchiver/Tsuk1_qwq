@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2090016230489154000",
+    "created_at": "2026-08-20T01:44:37.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T02:44:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090253638950404384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2070544483977232389",
+          "start": 0,
+          "username": "AkanoQWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090253638950404384",
+    "in_reply_to_user_id": "2070544483977232389",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090016230489154000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkanoQWQ 摸摸？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2090016230489154000",
+        "created_at": "2026-08-20T01:44:37.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T02:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090253638950404384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070544483977232389",
+              "start": 0,
+              "username": "AkanoQWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090253638950404384",
+        "in_reply_to_user_id": "2070544483977232389",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090016230489154000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkanoQWQ 摸摸？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070544483977232389",
+        "conversation_id": "2090016230489154000",
+        "created_at": "2026-08-19T10:01:14.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T11:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090016230489154000"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090016230489154000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "依旧是发在墙内的小故事，同样是因为不想说太明白所以讲的很含蓄（）不过基本上也是把自己的故事讲明白了呢——\n\n“七夕节，讲一点Akano自己（而不是和别人）的小故事，也许能让你更加理解我，而不是把我当作一个怪人......\n首先先说点题外话，假设是Akano出生就不喜欢吃香菜，因此被别人嘲笑，我会很委屈，这种事情又不是我自己能决定的...有人会误以为不喜欢吃香菜的人是挑食，但真实情况是——这部分人可能天生就会对香菜感到生理性的恶心，这并不是谁能决定的...\n说到Akano的故事，Akano在很小的时候就被爸爸严厉要求“男儿膝下有黄金，男儿有泪不轻弹”，以及各种奇怪的要求（例如，吃饭要快，做事要快，体态要正，与人交往要大方——其中一些是合理的，另一些则莫名其妙）。Akano从小就非常不喜欢这些奇怪的规训，我想哭是因为我有悲伤或痛苦的感情，我吃饭慢是因为确实没有胃口，我和陌生人交往会感到害羞是因为我内向，凭什么我就要因为生来的某个标签而被规定不能做这些事情呢？当然从结果来说，这使得Akano从小就成为了性别平等主义的急先锋，也不失为一件好事......\n等Akano到了从小孩逐渐长大的时候，一些让Akano非常不开心的变化慢慢出现在Akano的身上。当别人夸赞“这个孩子又长高了！”的时候，Akano内心其实会感到非常的焦虑和不安；当有人说“男孩子就是要长高一些才有人喜欢”的时候，Akano内心悄悄地希望自己永远不要再长高了；当自己的声音逐渐变得低沉的时候，Akano开始讨厌这个陌生且让自己感到...“恶心”的声音；与此同时，体毛、喉结、肩宽......所有的变化都在让Akano越来越讨厌和反感自己的身体。其实我想Akano心里最深处一直是清楚这是为什么的，但是或许是因为不想承认这种事情，或许是因为不知道这样讨厌自己下去有什么用，Akano选择默默地接受了这一切。其实在这之后生活也是照样地进行，学习、OI、高考、大学...对自己的讨厌也逐渐淡化成了日常的一部分，除了少数时候会尤其讨厌这样的自己，貌似生活也可以过的下去？\n但是后果是，过去压抑自己所缺少的GnRHa，未来用无限的剂量也弥补不回来了，自己的身体永远定格在了那个让自己感到恶心和反感的样子（你或许不知道的事情是，更早的GnRHa介入是可以避免这种悲剧的）。当过去压抑自己的“自恨”再也控制不住的时候，才发现自己的余生注定是被困在这具自己厌恶的身体了，无疑让人非常绝望。最难过的时候也时不时会有非常消极的想法，例如永远告别这个自己讨厌的身体之类的......不过大部分时候也只是普通的难过罢了，可能是习惯了吧（）\n不过故事还在继续，未来的故事未必会像之前一样那么令人难过。明确了自己的心意以后，也得到了身边的人、家里部分亲人的支持，病历上简单的三个字也代表医疗系统认可了Akano的困境。虽然有时被无端充满敌意的声音伤害，有时看到这样让人（主要是Akano自己）讨厌的自己也还是会忍不住掉下一两滴眼泪，但是现在的自卑或许也是变得更好的动力，那些充满敌意的声音也督促着自己通过变得更为优秀赢来大部分人的尊重。Akano还是相信自己以后会比现在变得更好的（嗯，只要不是犯病的时候x）\n嗯，这大概就是Akano的故事了，如果你能看到这里，Akano非常谢谢你！希望大家都能向着理想中自己的方向前进...”"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 647,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依旧是发在墙内的小故事，同样是因为不想说太明白所以讲的很含蓄（）不过基本上也是把自己的故事讲明白了呢——\n\n“七夕节，讲一点Akano自己（而不是和别人）的小故事，也许能让你更加理解我，而不是把我当作一个怪人......"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "是只猫……简中/繁体/日語/English下手…\n玩机（不太行），ボカロ，不建政，负能，🏳️‍⚧️mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "is_identity_verified": false,
+        "location": "世界上最柔软的角落",
+        "most_recent_tweet_id": "2090253638950404384",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1793218407640481793/1747471387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 514,
+          "like_count": 9535,
+          "listed_count": 2,
+          "media_count": 204,
+          "tweet_count": 1723
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-26T16:28:13.000Z",
+        "description": "退役OIer | 现役RMer | Counter-Strike | 超级萌豚（百合控!） | sim racing | 可爱是最高赞美！| 希望成为友善与温暖的人 | 🇨🇳简繁中文/🇬🇧ENG(installing…)",
+        "id": "2070544483977232389",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2090105994621977000",
+        "name": "Akano",
+        "pinned_tweet_id": "2077057751046558030",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070544483977232389/1784525401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070544928502153218/ZFgKKGdd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 358,
+          "like_count": 2184,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 811
+        },
+        "url": "",
+        "username": "AkanoQWQ",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

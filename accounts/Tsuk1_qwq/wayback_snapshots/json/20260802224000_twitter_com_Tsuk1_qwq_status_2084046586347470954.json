@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083928735569559552"
+      ],
+      "media_source_tweet_id": [
+        "2083928746374095091"
+      ]
+    },
+    "author_id": "1793218407640481793",
+    "conversation_id": "2084046586347470954",
+    "created_at": "2026-08-02T22:40:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T23:40:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084046586347470954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1999360558223831040",
+          "start": 3,
+          "username": "Zerstoorer23__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cX9mOHt0RG",
+          "end": 43,
+          "expanded_url": "https://x.com/Zerstoorer23__/status/2083928746374095091/photo/1",
+          "media_key": "3_2083928735569559552",
+          "start": 20,
+          "url": "https://t.co/cX9mOHt0RG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084046586347470954",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083928746374095091",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zerstoorer23__: https://t.co/cX9mOHt0RG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3580,
+        "media_key": "3_2083928735569559552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuaJNTaQAAuKef.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083928735569559552"
+          ]
+        },
+        "author_id": "1999360558223831040",
+        "conversation_id": "2083928746374095091",
+        "created_at": "2026-08-02T14:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083928746374095091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cX9mOHt0RG",
+              "end": 23,
+              "expanded_url": "https://x.com/Zerstoorer23__/status/2083928746374095091/photo/1",
+              "media_key": "3_2083928735569559552",
+              "start": 0,
+              "url": "https://t.co/cX9mOHt0RG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083928746374095091",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cX9mOHt0RG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083928735569559552"
+          ],
+          "media_source_tweet_id": [
+            "2083928746374095091"
+          ]
+        },
+        "author_id": "1793218407640481793",
+        "conversation_id": "2084046586347470954",
+        "created_at": "2026-08-02T22:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T23:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084046586347470954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1999360558223831040",
+              "start": 3,
+              "username": "Zerstoorer23__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cX9mOHt0RG",
+              "end": 43,
+              "expanded_url": "https://x.com/Zerstoorer23__/status/2083928746374095091/photo/1",
+              "media_key": "3_2083928735569559552",
+              "start": 20,
+              "url": "https://t.co/cX9mOHt0RG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084046586347470954",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083928746374095091",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zerstoorer23__: https://t.co/cX9mOHt0RG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "简中，繁体懂一点，日語勉強,English下手…\n玩机（不太行），ボカロ，不建政，负能，mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 463,
+          "like_count": 8224,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 1424
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T06:08:11.000Z",
+        "description": "17/高中毕业生🎓/中国人/ACGN爱好者/響け!ユーフォニアム🎼/艦これ⚓\n\n很高兴能够认识你！☺️\n\n原账号@Zerstoorer23 二次转世\n\n内阁：@KantaiYukikaze",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 56,
+                "username": "Zerstoorer23"
+              },
+              {
+                "end": 94,
+                "start": 79,
+                "username": "KantaiYukikaze"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://google.com",
+                "start": 0,
+                "url": "https://t.co/OSTiIxqJPO"
+              }
+            ]
+          }
+        },
+        "id": "1999360558223831040",
+        "location": "Shanghai",
+        "name": "KMS Zerstörer23",
+        "pinned_tweet_id": "1999438501755199986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076687976663515136/YrIzsxRg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 257,
+          "like_count": 34923,
+          "listed_count": 0,
+          "media_count": 1501,
+          "tweet_count": 3701
+        },
+        "url": "https://t.co/OSTiIxqJPO",
+        "username": "Zerstoorer23__",
+        "verified": false
+      }
+    ]
+  }
+}

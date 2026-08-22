@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090100756187885568"
+      ]
+    },
+    "author_id": "1793218407640481793",
+    "conversation_id": "2090100768863080640",
+    "created_at": "2026-08-19T15:37:10.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T16:37:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090100768863080640"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/j3JEA558TI",
+          "end": 53,
+          "expanded_url": "https://x.com/Tsuk1_qwq/status/2090100768863080640/photo/1",
+          "media_key": "3_2090100756187885568",
+          "start": 30,
+          "url": "https://t.co/j3JEA558TI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090100768863080640",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090100756187885568"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "请假回来了喵。\n可能变成家长不管党？也可能要休学了喵qwq https://t.co/j3JEA558TI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2090100756187885568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGHkF1asAA1aTJ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090100756187885568"
+          ]
+        },
+        "author_id": "1793218407640481793",
+        "conversation_id": "2090100768863080640",
+        "created_at": "2026-08-19T15:37:10.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T16:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090100768863080640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j3JEA558TI",
+              "end": 53,
+              "expanded_url": "https://x.com/Tsuk1_qwq/status/2090100768863080640/photo/1",
+              "media_key": "3_2090100756187885568",
+              "start": 30,
+              "url": "https://t.co/j3JEA558TI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090100768863080640",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090100756187885568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请假回来了喵。\n可能变成家长不管党？也可能要休学了喵qwq https://t.co/j3JEA558TI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "是只猫……简中/繁体/日語/English下手…\n玩机（不太行），ボカロ，不建政，负能，🏳️‍⚧️mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "is_identity_verified": false,
+        "location": "世界上最柔软的角落",
+        "most_recent_tweet_id": "2090100773673930870",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1793218407640481793/1747471387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 514,
+          "like_count": 9495,
+          "listed_count": 2,
+          "media_count": 204,
+          "tweet_count": 1715
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
