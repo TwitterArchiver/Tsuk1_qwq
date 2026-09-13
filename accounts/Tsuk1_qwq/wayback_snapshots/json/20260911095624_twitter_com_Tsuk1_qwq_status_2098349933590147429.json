@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2098316158051221996",
+    "created_at": "2026-09-11T09:56:24.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T10:56:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098349933590147429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1911292539505930240",
+          "start": 0,
+          "username": "1ciRhMUybV28235"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098349933590147429",
+    "in_reply_to_user_id": "1911292539505930240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098323808960815363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1ciRhMUybV28235 抱抱……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2098316158051221996",
+        "created_at": "2026-09-11T09:56:24.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T10:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098349933590147429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1911292539505930240",
+              "start": 0,
+              "username": "1ciRhMUybV28235"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098349933590147429",
+        "in_reply_to_user_id": "1911292539505930240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098323808960815363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1ciRhMUybV28235 抱抱……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911292539505930240",
+        "conversation_id": "2098316158051221996",
+        "created_at": "2026-09-11T08:12:35.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T09:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098323808960815363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1793218407640481793",
+              "start": 0,
+              "username": "Tsuk1_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098323808960815363",
+        "in_reply_to_user_id": "1793218407640481793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098316158051221996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tsuk1_qwq 抱抱喵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "是只09年的猫\n会简中/繁体/日語/English下手…\n也会玩点机（不太行）\n喜欢ボカロ，不建政但是很负能……\n而且……是一只mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n\n活在这个世界上，是件很痛苦的事情呢……\nkawainegi……Suki！",
+        "id": "1793218407640481793",
+        "is_identity_verified": false,
+        "location": "世界上最柔软的角落/猫窝？（",
+        "most_recent_tweet_id": "2098349933590147429",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1793218407640481793/1747471387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 623,
+          "like_count": 11385,
+          "listed_count": 2,
+          "media_count": 257,
+          "tweet_count": 2409
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-13T05:37:26.000Z",
+        "description": "MTF🏳️‍⚧️ | 十七歳 | ホルモン使う2026.4.12💊 | 診断書ある | うつ病（中）と不安障害（重）とocd| 全性愛者✨ | 目標イラストレータ | od禁止 | 自傷🔪(私を勉強するな!!!) |  infp-t | 本命サカナクション | キモチでフォロバ|自己封閉中(눈‸눈)",
+        "id": "1911292539505930240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098325965000822827",
+        "name": "銀輝烈焔",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911292539505930240/1777867158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924351906442252288/xc4EUxLB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 240,
+          "like_count": 633,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 187
+        },
+        "url": "",
+        "username": "1ciRhMUybV28235",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

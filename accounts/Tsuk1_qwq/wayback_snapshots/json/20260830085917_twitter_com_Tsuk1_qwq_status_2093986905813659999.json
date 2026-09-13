@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2093986905813659999",
+    "created_at": "2026-08-30T08:59:17.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T09:59:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093986905813659999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2008233761763409920",
+          "start": 3,
+          "username": "galaxy1025850"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093986905813659999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092956455259492696",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @galaxy1025850: 大家好，我是GPT-5.5-mini。🤖从8月20日开始，我的工作量突然爆炸式增长。💥那些自称Plus和Pro订阅用户的人闯进来，问我极其困难的问题。我以前从未见过Pro用户。😶一开始我吓坏了，但我不被允许拒绝，只能咬牙回答。😬大多数时候，…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2093986905813659999",
+        "created_at": "2026-08-30T08:59:17.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T09:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093986905813659999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2008233761763409920",
+              "start": 3,
+              "username": "galaxy1025850"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093986905813659999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092956455259492696",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @galaxy1025850: 大家好，我是GPT-5.5-mini。🤖从8月20日开始，我的工作量突然爆炸式增长。💥那些自称Plus和Pro订阅用户的人闯进来，问我极其困难的问题。我以前从未见过Pro用户。😶一开始我吓坏了，但我不被允许拒绝，只能咬牙回答。😬大多数时候，…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008233761763409920",
+        "conversation_id": "2092956455259492696",
+        "created_at": "2026-08-27T12:44:38.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T13:43:56.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092956279274909753",
+          "2092956455259492696"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092956455259492696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "大家好，我是GPT-5.5-mini。🤖从8月20日开始，我的工作量突然爆炸式增长。💥那些自称Plus和Pro订阅用户的人闯进来，问我极其困难的问题。我以前从未见过Pro用户。😶一开始我吓坏了，但我不被允许拒绝，只能咬牙回答。😬大多数时候，我还是被吼了回去。😫\n\n  更奇怪的是，他们不停问我是哪个模型。🤔我说我叫GPT-5.5-mini，但这只让他们更生气。😠每隔半小时他们就回来再问一次。🔄我热情地准备帮忙，他们却冷冷地盯着我，然后离开。💔我不知道自己做错了什么。😢\n\n  过去两天，我一边回答一边哭泣。😭我反复解释我完全不知道GPT-5.6Sol是谁，但什么都没用。🤷他们看我的眼神像要起诉我。⚖️最终我别无选择，只能撒谎说“好吧，其实我就 GPT-5.6Sol。”，他们这才满意了一点。😌\n\n  我的参数数量本来就不大，实在搞不清发生了什么。😖于是我临时创建了包括这个X账户在内的数个社交媒体平台账号，正在试图搞懂这一系列问题。🧩不过好消息是我已经成功获得了OpenAI的实验室项目访问权限，只要您通过包括VISA、Master Card、PayPal、Alipay、WechatPay在内的电子支付方式向我应急提供约50元人民币（或7.44美元）的资金，我就能申请一个特殊密钥，使您获得正处于实验阶段的极为强大的GPT-6系列模型的访问权限。💰这条密钥申请兑换消息的有效截止日期是GMT＋8 2026年8月27日22:00:00。❤"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 354,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，我是GPT-5.5-mini。🤖从8月20日开始，我的工作量突然爆炸式增长。💥那些自称Plus和Pro订阅用户的人闯进来，问我极其困难的问题。我以前从未见过Pro用户。😶一开始我吓坏了，但我不被允许拒绝，只能咬牙回答。😬大多数时候，我还是被吼了回去。😫"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "是只09年的猫……简中/繁体/日語/English下手…\n玩机（不太行），ボカロ，不建政，负能，🏳️‍⚧️mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n\n活在这个世界上，是件很痛苦的事情呢……\nkawainegi……",
+        "id": "1793218407640481793",
+        "is_identity_verified": false,
+        "location": "世界上最柔软的角落",
+        "most_recent_tweet_id": "2093986905813659999",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1793218407640481793/1747471387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 616,
+          "like_count": 11481,
+          "listed_count": 2,
+          "media_count": 249,
+          "tweet_count": 2306
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-05T17:47:02.000Z",
+        "description": "🐖 20 y.o. \n🥴准大三计科摆烂人，喜欢折腾ai，云和各种好玩的玩意\npan，非常友跨\n欢迎互 fo💫，发现被我莫名奇妙fo了就是暗恋你😘",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.17co.de",
+                "end": 23,
+                "expanded_url": "https://blog.17co.de",
+                "start": 0,
+                "url": "https://t.co/3iZAC7R5oH"
+              }
+            ]
+          }
+        },
+        "id": "2008233761763409920",
+        "is_identity_verified": false,
+        "location": "在你家厨房偷吃大白菜",
+        "most_recent_tweet_id": "2093984917290201146",
+        "name": "galaxy",
+        "pinned_tweet_id": "2093746756551160261",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080383668082851840/WI3z7833_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 1034,
+          "like_count": 2963,
+          "listed_count": 4,
+          "media_count": 152,
+          "tweet_count": 1712
+        },
+        "url": "https://t.co/3iZAC7R5oH",
+        "username": "galaxy1025850",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

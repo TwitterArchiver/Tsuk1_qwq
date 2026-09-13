@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2092111980068819011",
+    "created_at": "2026-08-30T09:12:35.000Z",
+    "display_text_range": [
+      26,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T10:12:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093990254826938581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2008233761763409920",
+          "start": 0,
+          "username": "galaxy1025850"
+        },
+        {
+          "end": 25,
+          "id": "1825078286193684480",
+          "start": 15,
+          "username": "RhoPaper_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093990254826938581",
+    "in_reply_to_user_id": "2008233761763409920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093990098870444074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@galaxy1025850 @RhoPaper_ 蹭蹭~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2092111980068819011",
+        "created_at": "2026-08-30T09:12:35.000Z",
+        "display_text_range": [
+          26,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T10:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093990254826938581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2008233761763409920",
+              "start": 0,
+              "username": "galaxy1025850"
+            },
+            {
+              "end": 25,
+              "id": "1825078286193684480",
+              "start": 15,
+              "username": "RhoPaper_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093990254826938581",
+        "in_reply_to_user_id": "2008233761763409920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093990098870444074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@galaxy1025850 @RhoPaper_ 蹭蹭~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008233761763409920",
+        "conversation_id": "2092111980068819011",
+        "created_at": "2026-08-30T09:11:58.000Z",
+        "display_text_range": [
+          22,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T10:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093990098870444074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1793218407640481793",
+              "start": 0,
+              "username": "Tsuk1_qwq"
+            },
+            {
+              "end": 21,
+              "id": "1825078286193684480",
+              "start": 11,
+              "username": "RhoPaper_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093990098870444074",
+        "in_reply_to_user_id": "1793218407640481793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093987428457463930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tsuk1_qwq @RhoPaper_ 互fo猫咪诶\n摸摸猫"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "是只09年的猫……简中/繁体/日語/English下手…\n玩机（不太行），ボカロ，不建政，负能，🏳️‍⚧️mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n\n活在这个世界上，是件很痛苦的事情呢……\nkawainegi……",
+        "id": "1793218407640481793",
+        "is_identity_verified": false,
+        "location": "世界上最柔软的角落",
+        "most_recent_tweet_id": "2093990254826938581",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1793218407640481793/1747471387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 616,
+          "like_count": 11491,
+          "listed_count": 2,
+          "media_count": 249,
+          "tweet_count": 2309
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-05T17:47:02.000Z",
+        "description": "🐖 20 y.o. \n🥴准大三计科摆烂人，喜欢折腾ai，云和各种好玩的玩意\npan，非常友跨\n欢迎互 fo💫，发现被我莫名奇妙fo了就是暗恋你😘",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.17co.de",
+                "end": 23,
+                "expanded_url": "https://blog.17co.de",
+                "start": 0,
+                "url": "https://t.co/3iZAC7R5oH"
+              }
+            ]
+          }
+        },
+        "id": "2008233761763409920",
+        "is_identity_verified": false,
+        "location": "在你家厨房偷吃大白菜",
+        "most_recent_tweet_id": "2093990098870444074",
+        "name": "galaxy",
+        "pinned_tweet_id": "2093746756551160261",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080383668082851840/WI3z7833_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 1034,
+          "like_count": 2964,
+          "listed_count": 4,
+          "media_count": 152,
+          "tweet_count": 1713
+        },
+        "url": "https://t.co/3iZAC7R5oH",
+        "username": "galaxy1025850",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-18T07:52:35.000Z",
+        "description": "中 / EN\n💻全端開發 Full-stack Dev｜偏前端 Front-end lover\n📚學生 Student｜AI向程式設計 Amateur AI coder\n💙蔚藍檔案遊戲開發部萬！首推天童愛麗絲 Alice oshi！\n🎶音遊菜雞(＞﹏＜) Sci-fi&二次元大好！\n🌐想要理性互助網路世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rhopaper.top",
+                "end": 23,
+                "expanded_url": "https://rhopaper.top/",
+                "start": 0,
+                "url": "https://t.co/DQnP5zzfKP"
+              }
+            ]
+          }
+        },
+        "id": "1825078286193684480",
+        "is_identity_verified": false,
+        "location": "中国浙江省宁波市|Ningbo,Zhejiang,China",
+        "most_recent_tweet_id": "2093917413473485293",
+        "name": "RhoPaper",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1825078286193684480/1756268616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825078371300315136/B-rJtkAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 152,
+          "like_count": 3120,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 937
+        },
+        "url": "https://t.co/DQnP5zzfKP",
+        "username": "RhoPaper_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091922142325768192"
+      ],
+      "media_source_tweet_id": [
+        "2091922149472964954"
+      ]
+    },
+    "author_id": "1793218407640481793",
+    "conversation_id": "2091994757463675318",
+    "created_at": "2026-08-24T21:03:12.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T22:03:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091994757463675318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1593799138893873152",
+          "start": 3,
+          "username": "Fuugetsu_808"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6X6yLC1koc",
+          "end": 54,
+          "expanded_url": "https://x.com/Fuugetsu_808/status/2091922149472964954/photo/1",
+          "media_key": "3_2091922142325768192",
+          "start": 31,
+          "url": "https://t.co/6X6yLC1koc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091994757463675318",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091922142325768192"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091922149472964954",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fuugetsu_808: 请找出一个没有开屏广告的 https://t.co/6X6yLC1koc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 790,
+        "media_key": "3_2091922142325768192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQgAGt8aAAAgRgD.jpg",
+        "width": 1096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091922142325768192"
+          ],
+          "media_source_tweet_id": [
+            "2091922149472964954"
+          ]
+        },
+        "author_id": "1793218407640481793",
+        "conversation_id": "2091994757463675318",
+        "created_at": "2026-08-24T21:03:12.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T22:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091994757463675318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1593799138893873152",
+              "start": 3,
+              "username": "Fuugetsu_808"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6X6yLC1koc",
+              "end": 54,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2091922149472964954/photo/1",
+              "media_key": "3_2091922142325768192",
+              "start": 31,
+              "url": "https://t.co/6X6yLC1koc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091994757463675318",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091922142325768192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091922149472964954",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fuugetsu_808: 请找出一个没有开屏广告的 https://t.co/6X6yLC1koc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091922142325768192"
+          ]
+        },
+        "author_id": "1593799138893873152",
+        "conversation_id": "2091922149472964954",
+        "created_at": "2026-08-24T16:14:41.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T17:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091922149472964954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6X6yLC1koc",
+              "end": 36,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2091922149472964954/photo/1",
+              "media_key": "3_2091922142325768192",
+              "start": 13,
+              "url": "https://t.co/6X6yLC1koc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091922149472964954",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091922142325768192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 15377,
+          "like_count": 149,
+          "quote_count": 1,
+          "reply_count": 52,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请找出一个没有开屏广告的 https://t.co/6X6yLC1koc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "是只猫……简中/繁体/日語/English下手…\n玩机（不太行），ボカロ，不建政，负能，🏳️‍⚧️mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "is_identity_verified": false,
+        "location": "世界上最柔软的角落",
+        "most_recent_tweet_id": "2091994757463675318",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1793218407640481793/1747471387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 547,
+          "like_count": 10446,
+          "listed_count": 2,
+          "media_count": 233,
+          "tweet_count": 1996
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "川なに水上を尋ねけむ物思ふ時の我が身なりけり",
+        "id": "1593799138893873152",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091993470131175834",
+        "name": "ふうげつを友とする",
+        "pinned_tweet_id": "2044090017514168709",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1593799138893873152/1786224982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044101857984032769/fHN5NJn1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6072,
+          "following_count": 1867,
+          "like_count": 88111,
+          "listed_count": 13,
+          "media_count": 1876,
+          "tweet_count": 13753
+        },
+        "url": "",
+        "username": "Fuugetsu_808",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

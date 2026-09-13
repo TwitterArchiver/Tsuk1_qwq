@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091588024727728128"
+      ],
+      "media_source_tweet_id": [
+        "2091588033057607965"
+      ]
+    },
+    "author_id": "1793218407640481793",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2091647279891669024",
+    "created_at": "2026-08-23T22:02:27.000Z",
+    "display_text_range": [
+      0,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T23:02:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091647279891669024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1543753719451242496",
+          "start": 3,
+          "username": "4x_n2ym3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dtuCqpBHLg",
+          "end": 77,
+          "expanded_url": "https://x.com/4x_n2ym3/status/2091588033057607965/photo/1",
+          "media_key": "3_2091588024727728128",
+          "start": 54,
+          "url": "https://t.co/dtuCqpBHLg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091647279891669024",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091588024727728128"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091588033057607965",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4x_n2ym3: 最近自杀潮更加明显了\n今年看见比之前都多的讣告\n是短暂的高峰还是以后都会如此呢 https://t.co/dtuCqpBHLg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2091588024727728128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQbQOg5bcAA8669.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091588024727728128"
+          ],
+          "media_source_tweet_id": [
+            "2091588033057607965"
+          ]
+        },
+        "author_id": "1793218407640481793",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091647279891669024",
+        "created_at": "2026-08-23T22:02:27.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T23:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091647279891669024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1543753719451242496",
+              "start": 3,
+              "username": "4x_n2ym3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dtuCqpBHLg",
+              "end": 77,
+              "expanded_url": "https://x.com/4x_n2ym3/status/2091588033057607965/photo/1",
+              "media_key": "3_2091588024727728128",
+              "start": 54,
+              "url": "https://t.co/dtuCqpBHLg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091647279891669024",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091588024727728128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091588033057607965",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4x_n2ym3: 最近自杀潮更加明显了\n今年看见比之前都多的讣告\n是短暂的高峰还是以后都会如此呢 https://t.co/dtuCqpBHLg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091588024727728128"
+          ]
+        },
+        "author_id": "1543753719451242496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091588033057607965",
+        "created_at": "2026-08-23T18:07:01.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T19:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091588033057607965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dtuCqpBHLg",
+              "end": 63,
+              "expanded_url": "https://x.com/4x_n2ym3/status/2091588033057607965/photo/1",
+              "media_key": "3_2091588024727728128",
+              "start": 40,
+              "url": "https://t.co/dtuCqpBHLg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091588033057607965",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091588024727728128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 278,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近自杀潮更加明显了\n今年看见比之前都多的讣告\n是短暂的高峰还是以后都会如此呢 https://t.co/dtuCqpBHLg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "是只猫……简中/繁体/日語/English下手…\n玩机（不太行），ボカロ，不建政，负能，🏳️‍⚧️mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "is_identity_verified": false,
+        "location": "世界上最柔软的角落",
+        "most_recent_tweet_id": "2091647279891669024",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1793218407640481793/1747471387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 530,
+          "like_count": 10084,
+          "listed_count": 2,
+          "media_count": 223,
+          "tweet_count": 1891
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-04T00:29:15.000Z",
+        "description": "赛博社恐/08 沪/性别不明/含糖25.08/gnrh使用中/明日方舟摆烂玩家/等待arcaea7.0/maimai菜鸟/chunithm疑似瓶颈/间歇性潜水/99.99%回fo/备用@X_ouso",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 92,
+                "username": "X_ouso"
+              }
+            ]
+          }
+        },
+        "id": "1543753719451242496",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2091611085006848392",
+        "name": "4x.n2ym3_酵素",
+        "pinned_tweet_id": "2087979862351118414",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1543753719451242496/1765199277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043037861243686913/qa5aPDZC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 3279,
+          "like_count": 1579,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 541
+        },
+        "url": "",
+        "username": "4x_n2ym3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

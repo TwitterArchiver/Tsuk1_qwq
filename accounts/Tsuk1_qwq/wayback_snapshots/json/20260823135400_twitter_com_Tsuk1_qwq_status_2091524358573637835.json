@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2091247489861218757",
+    "created_at": "2026-08-23T13:54:00.000Z",
+    "display_text_range": [
+      30,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T14:54:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091524358573637835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1201826553618808832",
+          "start": 0,
+          "username": "qcu636l1nXrbaxh"
+        },
+        {
+          "end": 29,
+          "id": "2083793507580612609",
+          "start": 17,
+          "username": "LiYuchigz9r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091524358573637835",
+    "in_reply_to_user_id": "1201826553618808832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091370240022388840",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qcu636l1nXrbaxh @LiYuchigz9r 私……たっだ今学業を辞めようことにした"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2091247489861218757",
+        "created_at": "2026-08-23T13:54:00.000Z",
+        "display_text_range": [
+          30,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T14:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091524358573637835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1201826553618808832",
+              "start": 0,
+              "username": "qcu636l1nXrbaxh"
+            },
+            {
+              "end": 29,
+              "id": "2083793507580612609",
+              "start": 17,
+              "username": "LiYuchigz9r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091524358573637835",
+        "in_reply_to_user_id": "1201826553618808832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091370240022388840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qcu636l1nXrbaxh @LiYuchigz9r 私……たっだ今学業を辞めようことにした"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1201826553618808832",
+        "conversation_id": "2091247489861218757",
+        "created_at": "2026-08-23T03:41:35.000Z",
+        "display_text_range": [
+          13,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T04:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091370240022388840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2083793507580612609",
+              "start": 0,
+              "username": "LiYuchigz9r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091370240022388840",
+        "in_reply_to_user_id": "2083793507580612609",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 119531,
+          "like_count": 784,
+          "quote_count": 0,
+          "reply_count": 81,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091247489861218757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiYuchigz9r 単純な疑問なのですが、中国では勉強を拒否する生徒はいないのでしょうか？全ての子どもが16時間の勉強に耐えられるとは思えません。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "是只猫……简中/繁体/日語/English下手…\n玩机（不太行），ボカロ，不建政，负能，🏳️‍⚧️mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "is_identity_verified": false,
+        "location": "世界上最柔软的角落",
+        "most_recent_tweet_id": "2091524358573637835",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1793218407640481793/1747471387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 529,
+          "like_count": 10029,
+          "listed_count": 2,
+          "media_count": 223,
+          "tweet_count": 1869
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-12-03T11:32:45.000Z",
+        "description": "",
+        "id": "1201826553618808832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091508620408369328",
+        "name": "黒馬油毛",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1239541024088702977/5c6cj87h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 12,
+          "like_count": 371,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 33
+        },
+        "url": "",
+        "username": "qcu636l1nXrbaxh",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-02T05:55:19.000Z",
+        "description": "要客观地看待事实，不要因片面的媒体影响判断。\n\nVOCALOID爱好者",
+        "id": "2083793507580612609",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091443840368689308",
+        "name": "Li baitian",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083794302505984002/B6jWR619_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 45,
+          "like_count": 290,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 186
+        },
+        "url": "",
+        "username": "LiYuchigz9r",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2092508828793528433",
+    "created_at": "2026-08-26T07:05:56.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T08:05:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092508828793528433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092508828793528433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 163
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092220453704339799",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: “这个世界给我一种学啥都完蛋的感觉”\n\n8月11日，一名会拉小提琴的年轻人转行送外卖后，在抖音发布视频称：“自从跑外卖以后，差点忘记以前是干啥的了。”\n\n视频中，他一边展示自己拉小提琴的画面，一边记录夜间送外卖的生活，巨大的职业反差迅速引…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16645,
+        "height": 1440,
+        "media_key": "13_2092072218599862272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092072218599862272/img/qMKyQEU8gUG69eFH.jpg",
+        "public_metrics": {
+          "view_count": 91568
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092072218599862272/vid/avc1/480x640/O6SzBor6rXgasdrH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092072218599862272/pl/7cgWjrNoJU9spxrM.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092072218599862272/vid/avc1/1080x1440/fBOm6V3yG3Kda6iG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092072218599862272/vid/avc1/720x960/o_39MJPVT23Q4sV8.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092072218599862272/vid/avc1/320x426/gIDIY606FMqkvTxb.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2092508828793528433",
+        "created_at": "2026-08-26T07:05:56.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T08:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092508828793528433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092508828793528433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 163
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092220453704339799",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: “这个世界给我一种学啥都完蛋的感觉”\n\n8月11日，一名会拉小提琴的年轻人转行送外卖后，在抖音发布视频称：“自从跑外卖以后，差点忘记以前是干啥的了。”\n\n视频中，他一边展示自己拉小提琴的画面，一边记录夜间送外卖的生活，巨大的职业反差迅速引…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092072218599862272"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092220453704339799",
+        "created_at": "2026-08-25T12:00:02.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T13:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092220453704339799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ZVNOlyq84",
+              "end": 159,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2092220453704339799/video/1",
+              "media_key": "13_2092072218599862272",
+              "start": 136,
+              "url": "https://t.co/2ZVNOlyq84"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092220453704339799",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2092072218599862272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "“这个世界给我一种学啥都完蛋的感觉”\n\n8月11日，一名会拉小提琴的年轻人转行送外卖后，在抖音发布视频称：“自从跑外卖以后，差点忘记以前是干啥的了。”\n\n视频中，他一边展示自己拉小提琴的画面，一边记录夜间送外卖的生活，巨大的职业反差迅速引发关注，单条视频获赞超过23万。\n\n然而，这条视频近日爆火后，其账号也因该视频被禁止发布作品，目前主页显示“该用户被禁止发布作品”。\n\n有网友评论：“解决问题最快的方法”\n“这个世界给我一种学啥都完蛋的感觉”"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 362,
+          "impression_count": 175235,
+          "like_count": 1803,
+          "quote_count": 7,
+          "reply_count": 219,
+          "retweet_count": 163
+        },
+        "reply_settings": "everyone",
+        "text": "“这个世界给我一种学啥都完蛋的感觉”\n\n8月11日，一名会拉小提琴的年轻人转行送外卖后，在抖音发布视频称：“自从跑外卖以后，差点忘记以前是干啥的了。”\n\n视频中，他一边展示自己拉小提琴的画面，一边记录夜间送外卖的生活，巨大的职业反差迅速引发关注，单条视频获赞超过23万。 https://t.co/2ZVNOlyq84"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "是只猫……简中/繁体/日語/English下手…\n玩机（不太行），ボカロ，不建政，负能，🏳️‍⚧️mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "is_identity_verified": false,
+        "location": "世界上最柔软的角落",
+        "most_recent_tweet_id": "2092508828793528433",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1793218407640481793/1747471387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 563,
+          "like_count": 10859,
+          "listed_count": 2,
+          "media_count": 241,
+          "tweet_count": 2129
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2092507338959688080",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2081228505925492773",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2255529,
+          "following_count": 1081,
+          "like_count": 10202,
+          "listed_count": 8892,
+          "media_count": 52695,
+          "tweet_count": 60007
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

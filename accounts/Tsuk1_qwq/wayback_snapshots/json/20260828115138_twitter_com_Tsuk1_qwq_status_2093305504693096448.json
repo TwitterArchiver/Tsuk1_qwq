@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2093305504693096448",
+    "created_at": "2026-08-28T11:51:38.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T12:51:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093305504693096448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1300828282061877249",
+          "start": 3,
+          "username": "HANLIANYI331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093305504693096448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092759677725773883",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HANLIANYI331: 钱虽然能解决造成人类痛苦的99％的问题，但是剩下的1％的问题也仍然能够杀人。\n\n这种情况我可能相对来说更有发言权，我救助过很多很多生存条件极端恶劣，月均生存成本不足一千（包含房租水电），甚至是偏远地区的留守儿童或孤儿的有严重自杀/自伤倾向的人…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2093305504693096448",
+        "created_at": "2026-08-28T11:51:38.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T12:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093305504693096448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1300828282061877249",
+              "start": 3,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093305504693096448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092759677725773883",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HANLIANYI331: 钱虽然能解决造成人类痛苦的99％的问题，但是剩下的1％的问题也仍然能够杀人。\n\n这种情况我可能相对来说更有发言权，我救助过很多很多生存条件极端恶劣，月均生存成本不足一千（包含房租水电），甚至是偏远地区的留守儿童或孤儿的有严重自杀/自伤倾向的人…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2092759677725773883",
+        "created_at": "2026-08-26T23:42:43.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T00:39:01.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092758745436783012",
+          "2092759677725773883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JiGuang_Lab/st…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/JiGuang_Lab/status/2092556478377001098",
+              "start": 143,
+              "url": "https://t.co/69tjsPk8lt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092759677725773883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "钱虽然能解决造成人类痛苦的99％的问题，但是剩下的1％的问题也仍然能够杀人。\n\n这种情况我可能相对来说更有发言权，我救助过很多很多生存条件极端恶劣，月均生存成本不足一千（包含房租水电），甚至是偏远地区的留守儿童或孤儿的有严重自杀/自伤倾向的人。庇护所来过很多这种极端贫困情况的受助者。\n\n但我也同样接触过很多物质和经济条件富足，但是却同样有严重自杀/自伤倾向的人。\n\n人之所以有自杀/自伤倾向，核心是因为精神世界受到伤害，这些伤害的造成可能有各种各样的原因。\n\n最常见的情况就是家庭暴力、校园欺凌、性别焦虑、非法扭转机构、留守儿童、亲人死亡、亲人关系破碎……\n\n这些会造成精神世界伤害的原因，固然越是出生贫穷的人，它遭遇的就越多，但是出生富裕的人也同样可能遭遇。因此无论是再有钱的人，也同样有可能出现自杀、自伤和抑郁的倾向。\n\n在我未成年时期，我曾经有过一位和我年龄相近，后来因为先天疾病过世的相处多年的亲密关系。她家非常有钱，资产过亿，她本人也才华横溢，成绩优异，也从来没缺过钱花。在外人看来，若忽略她的身体健康情况，她的出身和天赋远远超过了99％的人。但是她仍然因为从小的成长环境，因为严重缺爱和不健康的心理情况，出现了严重的自伤和自杀倾向。\n\n但是事实上我们也仍然必须正视现实：贫穷的有自杀和自伤倾向的抑郁症患者，他们的死亡率要远远高于那些更加有钱的人，他们面临的生存困境也远远更加困难。\n\n对于有钱人来说，他们面临的是钱无法解决的剩下1％的难题。\n\n但是对于底层人来说，他们面对的却是明明可以用钱解决，但是却没有钱去解决的，99％的灾难。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 15841,
+          "like_count": 291,
+          "quote_count": 0,
+          "reply_count": 52,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092556478377001098",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "钱虽然能解决造成人类痛苦的99％的问题，但是剩下的1％的问题也仍然能够杀人。\n\n这种情况我可能相对来说更有发言权，我救助过很多很多生存条件极端恶劣，月均生存成本不足一千（包含房租水电），甚至是偏远地区的留守儿童或孤儿的有严重自杀/自伤倾向的人。庇护所来过很多这种极端贫困情况的受助者。 https://t.co/69tjsPk8lt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "是只09年的猫……简中/繁体/日語/English下手…\n玩机（不太行），ボカロ，不建政，负能，🏳️‍⚧️mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n\n活在这个世界上，是件很痛苦的事情呢……\nkawainegi……",
+        "id": "1793218407640481793",
+        "is_identity_verified": false,
+        "location": "世界上最柔软的角落",
+        "most_recent_tweet_id": "2093305504693096448",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1793218407640481793/1747471387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 612,
+          "like_count": 11300,
+          "listed_count": 2,
+          "media_count": 244,
+          "tweet_count": 2252
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "is_identity_verified": true,
+        "location": "涟漪危机干预小组",
+        "most_recent_tweet_id": "2092800598043427172",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300828282061877249/1683794048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42296,
+          "following_count": 3970,
+          "like_count": 2018,
+          "listed_count": 4,
+          "media_count": 411,
+          "tweet_count": 3119
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

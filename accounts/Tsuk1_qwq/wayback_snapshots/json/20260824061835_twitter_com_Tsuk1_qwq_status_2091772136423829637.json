@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2091772136423829637",
+    "created_at": "2026-08-24T06:18:35.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T07:18:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091772136423829637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2060632417153503234",
+          "start": 3,
+          "username": "AsahinaShikure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091772136423829637",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091755675806294370",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AsahinaShikure: 「那里不一定是出口，但一定是解脱的道路。」\n\n这里……真的很安静。\n一个人都没有……\n\n安静得让人觉得，整个世界都已经睡着了。\n\n没有人问我今天过得怎么样。\n也没有人要求我露出笑容。\n\n这样……其实很好。\n\n因为我已经不知道，应该用什么样…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2091772136423829637",
+        "created_at": "2026-08-24T06:18:35.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T07:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091772136423829637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2060632417153503234",
+              "start": 3,
+              "username": "AsahinaShikure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091772136423829637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091755675806294370",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AsahinaShikure: 「那里不一定是出口，但一定是解脱的道路。」\n\n这里……真的很安静。\n一个人都没有……\n\n安静得让人觉得，整个世界都已经睡着了。\n\n没有人问我今天过得怎么样。\n也没有人要求我露出笑容。\n\n这样……其实很好。\n\n因为我已经不知道，应该用什么样…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060632417153503234",
+        "conversation_id": "2091755675806294370",
+        "created_at": "2026-08-24T05:13:10.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T06:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091755675806294370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/asahinashikure…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/asahinashikure/status/2091752095678357906",
+              "start": 145,
+              "url": "https://t.co/bIh5Y8gx4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091755675806294370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "「那里不一定是出口，但一定是解脱的道路。」\n\n这里……真的很安静。\n一个人都没有……\n\n安静得让人觉得，整个世界都已经睡着了。\n\n没有人问我今天过得怎么样。\n也没有人要求我露出笑容。\n\n这样……其实很好。\n\n因为我已经不知道，应该用什么样的表情，去面对别人了。\n\n每天都在说着「没关系」。\n明明不是这样，却还是要说没关系。\n\n好像只要习惯了，就可以不再感到难过。\n好像只要什么都不期待，就不会再失望。\n\n可是……\n\n为什么心里还是会觉得空荡荡的呢？\n\n我有时候会想，\n如果什么都没有意义的话，我们为什么还要这么努力地活着？\n\n为了别人期待的未来？\n为了那些甚至不知道会不会实现的愿望？\n\n……我不知道。\n\n我也不觉得自己能给出一个正确的答案。\n\n但当我站在这里，看见那些窗户透进来的微弱光线时，\n突然觉得……\n\n也许不知道答案，也没有关系。\n\n人活着的时候，本来就不一定能马上明白自己为什么要活着。\n\n就算现在觉得痛苦，\n就算觉得每天都只是重复着同样的事情，\n也不代表以后也只能这样。\n\n所以……\n\n如果你现在也觉得很累的话，\n就先不要急着寻找答案。\n\n可以慢一点。\n\n看看窗外的天，听听风，等太阳升起来。\n\n哪怕只是因为「还不知道明天会发生什么」，\n也可以再走一步。\n\n因为所谓的出口，\n或许从来都不是一个能够让人彻底逃离一切的地方。\n\n而是某一天，当你回过头的时候，\n发现自己已经走过了曾经以为永远走不过去的那段路。\n\n那里不一定是出口。\n\n但是……\n\n只要还能够继续向前，\n那里就一定会是通往解脱的道路。\n\n……所以，再稍微活得久一点吧。\n\n也许明天，\n会有一点不一样呢……"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 187,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091752095678357906",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "「那里不一定是出口，但一定是解脱的道路。」\n\n这里……真的很安静。\n一个人都没有……\n\n安静得让人觉得，整个世界都已经睡着了。\n\n没有人问我今天过得怎么样。\n也没有人要求我露出笑容。\n\n这样……其实很好。\n\n因为我已经不知道，应该用什么样的表情，去面对别人了。\n\n每天都在说着「没关系」。 https://t.co/bIh5Y8gx4o"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "是只猫……简中/繁体/日語/English下手…\n玩机（不太行），ボカロ，不建政，负能，🏳️‍⚧️mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "is_identity_verified": false,
+        "location": "世界上最柔软的角落",
+        "most_recent_tweet_id": "2091772136423829637",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1793218407640481793/1747471387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 533,
+          "like_count": 10159,
+          "listed_count": 2,
+          "media_count": 226,
+          "tweet_count": 1912
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-30T08:01:21.000Z",
+        "description": "She/Her 🇸🇬| 中三学生| 14岁| MtF🏳️‍⚧️|尚未HRT| 世界计划|朝比奈まふゆ激推| 社会自由主义|语言🇺🇸🇨🇳🇯🇵🇫🇷|格里芬联邦共和国总统| 世界跨性别代表大会筹建中 | 行政院长：@L2e_dawndream",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "L2e_dawndream"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/rErgygNg5a",
+                "end": 23,
+                "expanded_url": "https://discord.gg/rErgygNg5a",
+                "start": 0,
+                "url": "https://t.co/eZ2qUeHDSb"
+              }
+            ]
+          }
+        },
+        "id": "2060632417153503234",
+        "is_identity_verified": false,
+        "location": "Central Region, Singapore🇸🇬",
+        "most_recent_tweet_id": "2091755675806294370",
+        "name": "朝比奈丶志暮 Asahina Shikure🏳️‍⚧️",
+        "pinned_tweet_id": "2086626578323099825",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060632417153503234/1783224715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091024711375368192/sRv1R2U2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1622,
+          "following_count": 1546,
+          "like_count": 5526,
+          "listed_count": 2,
+          "media_count": 234,
+          "tweet_count": 774
+        },
+        "url": "https://t.co/eZ2qUeHDSb",
+        "username": "AsahinaShikure",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

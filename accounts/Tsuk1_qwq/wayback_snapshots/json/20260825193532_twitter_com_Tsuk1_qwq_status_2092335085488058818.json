@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2092335085488058818",
+    "created_at": "2026-08-25T19:35:32.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T20:35:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092335085488058818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1894461745277931524",
+          "start": 3,
+          "username": "Rain_Antar1121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092335085488058818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092166135626220002",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rain_Antar1121: 「一起不死」🥰\n好呀好呀，这也是咱的信念嘿嘿…窝留恋和期待的实在太多了，咱怕死…想永生ww\n\n要等着街对面搭着脚手架的楼焕然一新，\n要去吃收藏夹里期待已久的餐厅，\n要去相册里远方构图绝赞的机位，\n要玩滑翔伞，要坐热气球，要穿着小裙子在少女…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2260,
+        "media_key": "3_2092166109973860352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQjd_gQaUAAd6Hz.jpg",
+        "width": 4019
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2092335085488058818",
+        "created_at": "2026-08-25T19:35:32.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T20:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092335085488058818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1894461745277931524",
+              "start": 3,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092335085488058818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092166135626220002",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rain_Antar1121: 「一起不死」🥰\n好呀好呀，这也是咱的信念嘿嘿…窝留恋和期待的实在太多了，咱怕死…想永生ww\n\n要等着街对面搭着脚手架的楼焕然一新，\n要去吃收藏夹里期待已久的餐厅，\n要去相册里远方构图绝赞的机位，\n要玩滑翔伞，要坐热气球，要穿着小裙子在少女…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092166109973860352"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2092166135626220002",
+        "created_at": "2026-08-25T08:24:11.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T09:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092166135626220002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E9lbqH6IMU",
+              "end": 152,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2092166135626220002/photo/1",
+              "media_key": "3_2092166109973860352",
+              "start": 129,
+              "url": "https://t.co/E9lbqH6IMU"
+            },
+            {
+              "display_url": "x.com/kiramyao/statu…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/kiramyao/status/2092147247605805310",
+              "start": 153,
+              "url": "https://t.co/qGLZ7zutBJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092166135626220002",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092166109973860352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "「一起不死」🥰\n好呀好呀，这也是咱的信念嘿嘿…窝留恋和期待的实在太多了，咱怕死…想永生ww\n\n要等着街对面搭着脚手架的楼焕然一新，\n要去吃收藏夹里期待已久的餐厅，\n要去相册里远方构图绝赞的机位，\n要玩滑翔伞，要坐热气球，要穿着小裙子在少女的青春里环游世界…\n要猜猜下一场流星暴和下一颗大彗星什么时候来，\n要望着三年后那颗近地小行星划过夜空，\n要亲耳听一次星舰回收时人群的欢呼，\n要亲眼看到长征十号在文昌载着人类重返月球，\n要见证30年代澳洲和华北的几次日全食，\n要看看自己有生之年能不能摆脱地球的重力，\n最后还要试试能不能等到2117年的下一次金星凌日～\n以及…说不定咱能搭上永生的第一级阶梯，看到戴森云裹住太阳，看到人类的激光帆或聚变船离开这个恒星系对吧～\n\n最重要的，是要把以上这一切发在这个账号上…或者用这个身份分享给大家看，让更多抑郁中的小可爱感受到这个世界有多鲜艳，和咱一样找到那种名为“期待”的信念ヾ(๑╹ヮ╹๑)ﾉ”❤️"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2676,
+          "like_count": 61,
+          "quote_count": 5,
+          "reply_count": 13,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092147247605805310",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "「一起不死」🥰\n好呀好呀，这也是咱的信念嘿嘿…窝留恋和期待的实在太多了，咱怕死…想永生ww\n\n要等着街对面搭着脚手架的楼焕然一新，\n要去吃收藏夹里期待已久的餐厅，\n要去相册里远方构图绝赞的机位，\n要玩滑翔伞，要坐热气球，要穿着小裙子在少女的青春里环游世界… https://t.co/E9lbqH6IMU https://t.co/qGLZ7zutBJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "是只猫……简中/繁体/日語/English下手…\n玩机（不太行），ボカロ，不建政，负能，🏳️‍⚧️mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "is_identity_verified": false,
+        "location": "世界上最柔软的角落",
+        "most_recent_tweet_id": "2092335085488058818",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1793218407640481793/1747471387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 553,
+          "like_count": 10668,
+          "listed_count": 2,
+          "media_count": 239,
+          "tweet_count": 2066
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2092314963302117841",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5053,
+          "following_count": 7005,
+          "like_count": 19265,
+          "listed_count": 12,
+          "media_count": 412,
+          "tweet_count": 5442
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

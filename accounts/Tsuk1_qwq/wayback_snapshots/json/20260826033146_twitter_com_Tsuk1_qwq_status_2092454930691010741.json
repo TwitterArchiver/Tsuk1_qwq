@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2092238026441195534",
+    "created_at": "2026-08-26T03:31:46.000Z",
+    "display_text_range": [
+      11,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T04:31:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092454930691010741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1859514443362861056",
+          "start": 0,
+          "username": "nami16386"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092454930691010741",
+    "in_reply_to_user_id": "1859514443362861056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092238026441195534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nami16386 抱抱喵……\n要听从内心的意愿呐喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2092238026441195534",
+        "created_at": "2026-08-26T03:31:46.000Z",
+        "display_text_range": [
+          11,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T04:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092454930691010741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1859514443362861056",
+              "start": 0,
+              "username": "nami16386"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092454930691010741",
+        "in_reply_to_user_id": "1859514443362861056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092238026441195534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nami16386 抱抱喵……\n要听从内心的意愿呐喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859514443362861056",
+        "conversation_id": "2092238026441195534",
+        "created_at": "2026-08-25T13:09:52.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T14:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092238026441195534"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092238026441195534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 10130,
+          "like_count": 145,
+          "quote_count": 0,
+          "reply_count": 51,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "思考了好久，不会再吃药了。至于手术，家庭原因更不可能\n我性别认同是女生，但我认为吃药对我来说不是必要的，我皮肤本来就可以，而且说实话不怎么想长胸。我本来就很穷，青春期就没吃饱过，营养不良。这些药钱我可以拿去买点好吃的。（虽然我从没给自己买过什么好东西吃）\n该换个名字了，嗯就这样吧。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "是只猫……简中/繁体/日語/English下手…\n玩机（不太行），ボカロ，不建政，负能，🏳️‍⚧️mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "is_identity_verified": false,
+        "location": "世界上最柔软的角落",
+        "most_recent_tweet_id": "2092454930691010741",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1793218407640481793/1747471387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 557,
+          "like_count": 10761,
+          "listed_count": 2,
+          "media_count": 240,
+          "tweet_count": 2087
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-21T08:29:44.000Z",
+        "description": "17岁 | 性别认同女\n身高165cm / 50kg    不割手不od  重度焦虑 有时候笨笨的 \nHRT 2026.5.3-2026.7.20\n梦想吃好吃的+玩电脑  喜欢贴贴抱抱 \n时间能不能过快一点😭我理想的生活还在后面",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nami16386",
+                "end": 23,
+                "expanded_url": "http://t.me/nami16386",
+                "start": 0,
+                "url": "https://t.co/QNHz2Ky685"
+              }
+            ]
+          }
+        },
+        "id": "1859514443362861056",
+        "is_identity_verified": false,
+        "location": "湖北省黄冈市",
+        "most_recent_tweet_id": "2092454739858341994",
+        "name": "nami",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1859514443362861056/1780569489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989874381770952705/DFv-z20u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 687,
+          "like_count": 4796,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 1272
+        },
+        "url": "https://t.co/QNHz2Ky685",
+        "username": "nami16386",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

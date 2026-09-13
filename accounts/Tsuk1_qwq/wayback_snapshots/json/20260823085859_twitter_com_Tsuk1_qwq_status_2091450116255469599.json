@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2091450116255469599",
+    "created_at": "2026-08-23T08:58:59.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T09:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091450116255469599"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/4x_n2ym3/statu…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/4x_n2ym3/status/2091442661005853114",
+          "start": 14,
+          "url": "https://t.co/kLuRx11U5S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091450116255469599",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091442661005853114",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "至少……给自己一次机会…… https://t.co/kLuRx11U5S"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2091450116255469599",
+        "created_at": "2026-08-23T08:58:59.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T09:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091450116255469599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/4x_n2ym3/statu…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/4x_n2ym3/status/2091442661005853114",
+              "start": 14,
+              "url": "https://t.co/kLuRx11U5S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091450116255469599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091442661005853114",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "至少……给自己一次机会…… https://t.co/kLuRx11U5S"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543753719451242496",
+        "conversation_id": "2091442661005853114",
+        "created_at": "2026-08-23T08:29:22.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T09:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091442661005853114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YuwenMewo/stat…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/YuwenMewo/status/2091428385021108626",
+              "start": 141,
+              "url": "https://t.co/dcvhfyKG2m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091442661005853114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 2,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091428385021108626",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本人不支持tyw但支持这句话…的一部分\n不少自杀的人处于一些困境和痛苦之中\n其程度之强烈以至于解决这些问题需要以生命做为代价\n阻拦这样的人自杀某种意义上只是徒增对方的痛苦 个人选择尊重他/她们的选择\n但若并非如此 注意到 自杀只是走投无路时的选择 还有机会的话 尝试一下再死也不迟 https://t.co/dcvhfyKG2m"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "是只猫……简中/繁体/日語/English下手…\n玩机（不太行），ボカロ，不建政，负能，🏳️‍⚧️mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "is_identity_verified": false,
+        "location": "世界上最柔软的角落",
+        "most_recent_tweet_id": "2091450116255469599",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1793218407640481793/1747471387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 525,
+          "like_count": 9933,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 1833
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-04T00:29:15.000Z",
+        "description": "赛博社恐/08 沪/性别不明/含糖25.08/gnrh使用中/明日方舟摆烂玩家/等待arcaea7.0/maimai菜鸟/chunithm疑似瓶颈/间歇性潜水/99.99%回fo/https://t.co/rFvr0n9F55备用@X_ouso",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 115,
+                "username": "X_ouso"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/4x_n2ym3/",
+                "end": 113,
+                "expanded_url": "https://ngl.link/4x_n2ym3/",
+                "start": 90,
+                "url": "https://t.co/rFvr0n9F55"
+              }
+            ]
+          }
+        },
+        "id": "1543753719451242496",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2091444030513049621",
+        "name": "4x.n2ym3_酵素",
+        "pinned_tweet_id": "2087979862351118414",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1543753719451242496/1765199277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043037861243686913/qa5aPDZC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 3265,
+          "like_count": 1511,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 516
+        },
+        "url": "",
+        "username": "4x_n2ym3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

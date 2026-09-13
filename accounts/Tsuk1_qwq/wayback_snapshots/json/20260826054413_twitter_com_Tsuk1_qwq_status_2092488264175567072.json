@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2092165203807133935",
+    "created_at": "2026-08-26T05:44:13.000Z",
+    "display_text_range": [
+      8,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T06:44:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092488264175567072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1478308643229794305",
+          "start": 0,
+          "username": "iqxwot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092488264175567072",
+    "in_reply_to_user_id": "1478308643229794305",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092165203807133935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iqxwot 你好呀qwq\nにゃん~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2092165203807133935",
+        "created_at": "2026-08-26T05:44:13.000Z",
+        "display_text_range": [
+          8,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T06:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092488264175567072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1478308643229794305",
+              "start": 0,
+              "username": "iqxwot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092488264175567072",
+        "in_reply_to_user_id": "1478308643229794305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092165203807133935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iqxwot 你好呀qwq\nにゃん~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1478308643229794305",
+        "conversation_id": "2092165203807133935",
+        "created_at": "2026-08-25T08:20:29.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T09:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092165203807133935"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092165203807133935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 175,
+          "impression_count": 422148,
+          "like_count": 3957,
+          "quote_count": 3,
+          "reply_count": 1555,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "想在这里认识一些中国朋友～（՞&gt;⩊&lt;՞）\n我是日本人，很喜欢中国，也一直在学习中文\n平时喜欢聊日常、分享喜欢的东西，也很想了解中国的文化和生活\n如果你也想交日本朋友的话，欢迎来找我聊天！\n中文还不是很好，如果说错了请多多包涵\n希望可以成为好朋友～！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "是只猫……简中/繁体/日語/English下手…\n玩机（不太行），ボカロ，不建政，负能，🏳️‍⚧️mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "is_identity_verified": false,
+        "location": "世界上最柔软的角落",
+        "most_recent_tweet_id": "2092488264175567072",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1793218407640481793/1747471387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 561,
+          "like_count": 10829,
+          "listed_count": 2,
+          "media_count": 241,
+          "tweet_count": 2112
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-04T10:13:52.000Z",
+        "description": "美術史，中国語、イタリア語",
+        "id": "1478308643229794305",
+        "is_identity_verified": false,
+        "location": "日本人です！",
+        "most_recent_tweet_id": "2092255826442670124",
+        "name": "꒰ᐡ•·̫•꒱⊃",
+        "pinned_tweet_id": "2084257071231582355",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1478308643229794305/1787648539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092165434363764736/tM4oyoTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3153,
+          "following_count": 623,
+          "like_count": 13939,
+          "listed_count": 5,
+          "media_count": 22,
+          "tweet_count": 124
+        },
+        "url": "",
+        "username": "iqxwot",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

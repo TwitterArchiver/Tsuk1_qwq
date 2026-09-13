@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096554738301161472"
+      ],
+      "media_source_tweet_id": [
+        "2096554748803764539"
+      ]
+    },
+    "author_id": "1793218407640481793",
+    "conversation_id": "2097862295582101978",
+    "created_at": "2026-09-10T01:38:42.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T02:38:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097862295582101978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2070544483977232389",
+          "start": 3,
+          "username": "AkanoQWQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ocUPRyA7Go",
+          "end": 47,
+          "expanded_url": "https://x.com/AkanoQWQ/status/2096554748803764539/photo/1",
+          "media_key": "3_2096554738301161472",
+          "start": 24,
+          "url": "https://t.co/ocUPRyA7Go"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097862295582101978",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096554738301161472"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096554748803764539",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AkanoQWQ: 我会成为天使女孩吗 https://t.co/ocUPRyA7Go"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2096554738301161472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRh1bSyaUAASkMw.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096554738301161472"
+          ],
+          "media_source_tweet_id": [
+            "2096554748803764539"
+          ]
+        },
+        "author_id": "1793218407640481793",
+        "conversation_id": "2097862295582101978",
+        "created_at": "2026-09-10T01:38:42.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T02:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097862295582101978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2070544483977232389",
+              "start": 3,
+              "username": "AkanoQWQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ocUPRyA7Go",
+              "end": 47,
+              "expanded_url": "https://x.com/AkanoQWQ/status/2096554748803764539/photo/1",
+              "media_key": "3_2096554738301161472",
+              "start": 24,
+              "url": "https://t.co/ocUPRyA7Go"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097862295582101978",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096554738301161472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096554748803764539",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AkanoQWQ: 我会成为天使女孩吗 https://t.co/ocUPRyA7Go"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096554738301161472"
+          ]
+        },
+        "author_id": "2070544483977232389",
+        "conversation_id": "2096554748803764539",
+        "created_at": "2026-09-06T11:02:58.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T12:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096554748803764539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ocUPRyA7Go",
+              "end": 33,
+              "expanded_url": "https://x.com/AkanoQWQ/status/2096554748803764539/photo/1",
+              "media_key": "3_2096554738301161472",
+              "start": 10,
+              "url": "https://t.co/ocUPRyA7Go"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096554748803764539",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096554738301161472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 501,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我会成为天使女孩吗 https://t.co/ocUPRyA7Go"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "是只09年的猫……简中/繁体/日語/English下手…\n玩机（不太行），ボカロ，不建政，负能，🏳️‍⚧️mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n\n活在这个世界上，是件很痛苦的事情呢……\nkawainegi……",
+        "id": "1793218407640481793",
+        "is_identity_verified": false,
+        "location": "世界上最柔软的角落",
+        "most_recent_tweet_id": "2097862295582101978",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1793218407640481793/1747471387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 619,
+          "like_count": 11323,
+          "listed_count": 2,
+          "media_count": 257,
+          "tweet_count": 2386
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-26T16:28:13.000Z",
+        "description": "退役OIer | 现役RMer | Counter-Strike | 超级萌豚（百合控!） | sim racing | 可爱是最高赞美！| 希望成为友善与温暖的人 | 🇨🇳简繁中文/🇬🇧ENG(installing…)",
+        "id": "2070544483977232389",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2097831769802482067",
+        "name": "Akano",
+        "pinned_tweet_id": "2077057751046558030",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070544483977232389/1784525401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070544928502153218/ZFgKKGdd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 378,
+          "like_count": 2461,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 939
+        },
+        "url": "",
+        "username": "AkanoQWQ",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

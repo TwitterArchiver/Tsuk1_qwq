@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1793218407640481793",
+    "conversation_id": "2092475928509345937",
+    "created_at": "2026-08-26T04:55:12.000Z",
+    "display_text_range": [
+      0,
+      103
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T05:55:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092475928509345937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2048693394226974720",
+          "start": 3,
+          "username": "CCA8798suki"
+        },
+        {
+          "end": 30,
+          "id": "2063988175337668609",
+          "start": 18,
+          "username": "LuanQiXH317"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092475928509345937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092306476820025515",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CCA8798suki: 对@LuanQiXH317的一段话：\n\n犯错就要挨打，挨打就要立正！\n你的过往认知里掺杂了太多对跨性别群体的不实印象，完全是以刻板印象先入为主地去评价一个群体，罪状如图：…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2092475928509345937",
+        "created_at": "2026-08-26T04:55:12.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T05:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092475928509345937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2048693394226974720",
+              "start": 3,
+              "username": "CCA8798suki"
+            },
+            {
+              "end": 30,
+              "id": "2063988175337668609",
+              "start": 18,
+              "username": "LuanQiXH317"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092475928509345937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092306476820025515",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CCA8798suki: 对@LuanQiXH317的一段话：\n\n犯错就要挨打，挨打就要立正！\n你的过往认知里掺杂了太多对跨性别群体的不实印象，完全是以刻板印象先入为主地去评价一个群体，罪状如图：…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2092306476820025515",
+        "created_at": "2026-08-25T17:41:51.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T18:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092306476820025515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2063988175337668609",
+              "start": 1,
+              "username": "LuanQiXH317"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/StrawMono_/sta…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/StrawMono_/status/2092103918977437749",
+              "start": 86,
+              "url": "https://t.co/BJZIhmV1VL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092306476820025515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 13,
+                "id": "2063988175337668609",
+                "start": 1,
+                "username": "LuanQiXH317"
+              }
+            ]
+          },
+          "text": "对@LuanQiXH317的一段话：\n\n犯错就要挨打，挨打就要立正！\n你的过往认知里掺杂了太多对跨性别群体的不实印象，完全是以刻板印象先入为主地去评价一个群体，罪状如图：\n\n能改正是好的，希望你能够好好反省，想想有多少无辜的跨性别因为你的视频评论区下面出现的大量攻击言论而在屏幕前感到无力，愤慨，像电影《奥德赛》里说的一样，身上有痒点却挠不到；你的行为不仅加深了大众对于跨性别群体的刻板印象，也直接或间接导致了群体间的冲突对立进一步加重；道歉不是尽头，事实上，你的行为造成的后果不会被抹去，你的视频，或许会演变成一句对无辜躺枪的跨儿的攻击、辱骂、嘲笑、或成为抑郁跨儿手上的一道刀疤，一次自杀尝试、亦或者会成为为跨儿做自杀干预的志愿工作者头上的一顶无端端被扣上的帽子，希望你能想清楚你的行为让多少人心寒，加重了多少自杀干预者的工作压力，加深了多少人对群体产生的错误认知，多少跨儿会因此感到更大的社会压力\n\n以及我想对评论区里的某些顺性别恐跨人士说一句话，跨儿也是人，理应被尊重，可以批评人，但应该就事论事，在充分了解背景的情况下，客观且辩证地发表评论，而不是把一个群体当成乐子，当作饭后值得哈哈大笑的谈资，这和群体霸凌没有区别\n\n最后，希望能看见圈子人人都在好起来的那一天，我们的存在，就是对恶意最大的反抗"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 574,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092103918977437749",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对@LuanQiXH317的一段话：\n\n犯错就要挨打，挨打就要立正！\n你的过往认知里掺杂了太多对跨性别群体的不实印象，完全是以刻板印象先入为主地去评价一个群体，罪状如图： https://t.co/BJZIhmV1VL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "是只猫……简中/繁体/日語/English下手…\n玩机（不太行），ボカロ，不建政，负能，🏳️‍⚧️mtf……\n……想被温柔对待，也尽量尝试好好对待别人喵\n2009（因为怕有未成年限制所以资料写是2000\n活在这个世界上，是件很痛苦的事情呢……",
+        "id": "1793218407640481793",
+        "is_identity_verified": false,
+        "location": "世界上最柔软的角落",
+        "most_recent_tweet_id": "2092475928509345937",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1793218407640481793/1747471387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 557,
+          "like_count": 10794,
+          "listed_count": 2,
+          "media_count": 240,
+          "tweet_count": 2098
+        },
+        "url": "",
+        "username": "Tsuk1_qwq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 167cm/45kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://blog.cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/iYW96Tj9ST"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "is_identity_verified": false,
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "most_recent_tweet_id": "2092306476820025515",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048693394226974720/1777281811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 1544,
+          "like_count": 11369,
+          "listed_count": 5,
+          "media_count": 147,
+          "tweet_count": 1290
+        },
+        "url": "https://t.co/iYW96Tj9ST",
+        "username": "CCA8798suki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T14:15:39.000Z",
+        "description": "小电视乱崎凶华FURS本人喵🚪88一辈子的好朋友",
+        "id": "2063988175337668609",
+        "is_identity_verified": false,
+        "location": "超常现象对策局",
+        "most_recent_tweet_id": "2089759168668615072",
+        "name": "乱崎凶华FURS",
+        "pinned_tweet_id": "2086730170493554696",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063988175337668609/1786347775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086719930284822528/r1YeGmWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 14,
+          "like_count": 64,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 27
+        },
+        "url": "",
+        "username": "LuanQiXH317",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
